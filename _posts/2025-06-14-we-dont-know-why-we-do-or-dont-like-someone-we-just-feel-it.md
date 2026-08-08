@@ -2,11 +2,6 @@
 layout: post
 title: "“We don’t know why we do or don’t like someone. We just feel it.”"
 date: 2025-06-14 13:02:28 +0000
-source: "The Substack Post"
-excerpt: "In this edition of the Weekender: the Zynnification of culture, Andy Warhol’s cookbook, and the algorithm of attraction ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #9333ea 0%, #c026d3 100%)"
-image: "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48c897d0-b43a-44af-a63f-fa6159c1cf5b_1000x1000.png"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNjE0MTMwMjI4LjMuMWRkMmNmN2ZmMTdlZGRhZkBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjoxNjU5MDIxOTAsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6NzM3MjM3LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ5OTA5MDczLCJleHAiOjE3NTI1MDEwNzMsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.udgE-Qz_DMhnXNP9-WkxxkwfCVjwG6UlZOwIhaHdDWY)
