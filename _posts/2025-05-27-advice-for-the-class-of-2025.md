@@ -2,11 +2,6 @@
 layout: post
 title: "Advice for the Class of 2025"
 date: 2025-05-27 15:00:37 +0000
-source: "The Substack Post"
-excerpt: "Top Substackers share words of wisdom for new graduates—and, honestly, everyone ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏..."
-theme_gradient: "linear-gradient(135deg, #e11d48 0%, #f43f5e 100%)"
-image: "https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37462e01-e923-4742-9b7b-8359ccc5fceb_1600x1229.jpeg"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTI3MTUwMDM3LjMuNDdlYzgwNjBkNjlhZjQ1YkBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxNjQxMjYzNDUsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6NzM3MjM3LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ4MzYwMzY4LCJleHAiOjE3NTA5NTIzNjgsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.OrhXbdDHI1xXGJn3J-au5XBz3X3hVJfGxz0zMPZtzeE)
