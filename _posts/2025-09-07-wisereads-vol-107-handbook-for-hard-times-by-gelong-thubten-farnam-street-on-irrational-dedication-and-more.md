@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 107 — Handbook for Hard Times by Gelong Thubten, Farnam Street on Irrational Dedication, and more"
 date: 2025-09-07 20:46:36 +0000
-source: "Readwise"
-excerpt: "Last week, we shared a preview of Brian Potter’s upcoming debut, The Origins of Efficiency, a historically rich exploration of innovation and progress. This week, we're sharing ..."
-theme_gradient: "linear-gradient(135deg, #059669 0%, #10b981 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we shared a preview of Brian Potter’s upcoming debut, The Origins of Efficiency, a historically rich exploration of innovation and progress. This week, we're sharing a preview of Gelong Thubten's Handbook for Hard Times: A monk's guide to fearless living, complete with a meditation prompt.
