@@ -2,12 +2,6 @@
 layout: post
 title: "\"Thoughts on the AI buildout\" and 4 more"
 date: 2025-11-19 21:27:59 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #0284c7 0%, #0d9488 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!dfGw!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/dwarkesh/p/thoughts-on-the-ai-buildout?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNzY4NDg4MTEsImlhdCI6MTc2MzU4NzY3NywiZXhwIjoxNzY2MTc5Njc3LCJpc3MiOiJwdWItNjkzNDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.ht8JBq2QHFgSoOv7n5ks-DjQd616p7QmsMSn0Smnkx4"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUxMTE5MjEyNzU5LjMuMzc0Y2RkNTRiYmJhYzc5Ni5qcnZwNWI3ZEBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoicGVyc29uYWxpemVkLXJlY29tbWVuZGF0aW9uLWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NjM1ODc2NzksImV4cCI6MTc2NjE3OTY3OSwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.uii8MEP4VRcMvLa1EmPmL1canZb-j978K2H_QSIEYIM)
