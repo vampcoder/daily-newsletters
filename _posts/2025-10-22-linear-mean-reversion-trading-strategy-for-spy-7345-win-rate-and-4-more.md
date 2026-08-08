@@ -2,12 +2,6 @@
 layout: post
 title: "\"Linear Mean-Reversion Trading Strategy for SPY (73.45% Win-Rate)\" and 4 more"
 date: 2025-10-22 15:52:57 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!dfGw!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/tradinginvestingstrategies/p/linear-mean-reversion-trading-strategy?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNzYxMjE3OTYsImlhdCI6MTc2MTE0ODM3NiwiZXhwIjoxNzYzNzQwMzc2LCJpc3MiOiJwdWItNjQ2NzA4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.ZYSdySx2nbXxWcBjdW4S1efRqeFIycuhh9Hv5GSytik"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUxMDIyMTU1MjU3LjMuMzc0Y2RkNTRiYmJhYzc5Ni5uemxlZDN0eEBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoicGVyc29uYWxpemVkLXJlY29tbWVuZGF0aW9uLWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NjExNDgzNzcsImV4cCI6MTc2Mzc0MDM3NywiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.m8Sfvd_hIoTE4O_KNHfu0sJ55v8aqIfPPnD1oj2sOSo)
