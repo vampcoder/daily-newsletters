@@ -2,11 +2,6 @@
 layout: post
 title: "“I remember everything, even your ears”"
 date: 2025-05-24 13:02:49 +0000
-source: "The Substack Post"
-excerpt: "In this edition of the Weekender: the art of collecting, a journalism snafu, and the theory of relativity ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ..."
-theme_gradient: "linear-gradient(135deg, #2563eb 0%, #3b82f6 100%)"
-image: "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48c897d0-b43a-44af-a63f-fa6159c1cf5b_1000x1000.png"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTI0MTMwMjQ5LjMuMTEwZmI3NDQyMTQ5ZTM3ZEBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxNjQyNjQ2MzksInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6NzM3MjM3LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ4MDk0MDMxLCJleHAiOjE3NTA2ODYwMzEsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.pMhBMWjjf1d4Gk7NWsUZ5BvpvTfpyO2eam9d7LVmAm8)
