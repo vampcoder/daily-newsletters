@@ -2,11 +2,6 @@
 layout: post
 title: "Cheery Friday Greetings from Barb Oakley!"
 date: 2025-07-18 06:09:06 +0000
-source: "Deep Teaching Solutions"
-excerpt: "Cheery Friday Greetings from Barb Oakley! Teaching Isn’t Just a Belief—it’s a Science! A fantastic new piece from Jim Hewitt and Nidhi Sachdeva reminds us that teaching should b..."
-theme_gradient: "linear-gradient(135deg, #2563eb 0%, #3b82f6 100%)"
-image: "http://coursera-university-assets.s3.amazonaws.com/44/a878a0f37541f3b6dd0ebb5e1d40b8/deep-teaching-solutions-sizes-05.png"
-is_summary: false
 ---
 
 ![](http://click.mail.coursera.org/q/pm_SsmKYKF9SdMg7TciBlQ~~/AAAAARA~/HQ3I20rfXtI2e_ZmTVjwlJwUq_NlCSpeuOUEiILwDExOKUw9Lu0WJyGLldEtLlhxxRVBKxWDb0Qpu6MSh8DNbQ~~)
