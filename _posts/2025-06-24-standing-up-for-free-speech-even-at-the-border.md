@@ -2,11 +2,6 @@
 layout: post
 title: "Standing up for free speech, even at the border"
 date: 2025-06-24 16:00:50 +0000
-source: "The Substack Post"
-excerpt: "A Substack writer’s experience at the U.S. border should alarm anyone who values press freedom ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏..."
-theme_gradient: "linear-gradient(135deg, #2563eb 0%, #3b82f6 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!n-sI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ed41009-c1f9-4df4-9d3a-b2594c80c6d9_2237x2237.jpeg"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNjI0MTYwMDUwLjMuNDA0YmYzYWY2Yjc2ZDJmZUBtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjE2NjY5ODE2OSwidCI6Im5ld3NsZXR0ZXIiLCJhIjoiZXZlcnlvbmUiLCJzIjo3MzcyMzcsImMiOiJwb3N0IiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NTA3ODMxNjYsImV4cCI6MTc1MzM3NTE2NiwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.LIDJid_QQiThNSQJp9eKubuNg6cMRVZtGnm1UJYSaqI)
