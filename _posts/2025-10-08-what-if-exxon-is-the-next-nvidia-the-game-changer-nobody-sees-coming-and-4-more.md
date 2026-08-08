@@ -2,12 +2,6 @@
 layout: post
 title: "\"What if EXXON is the Next NVIDIA? The Game Changer Nobody Sees Coming\" and 4 more"
 date: 2025-10-08 15:40:43 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #0284c7 0%, #0d9488 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!dfGw!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/markstein3/p/what-if-exxon-is-the-next-nvidia?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNzQ2MTM4NTgsImlhdCI6MTc1OTkzODA0MiwiZXhwIjoxNzYyNTMwMDQyLCJpc3MiOiJwdWItMzA1NjYzNyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.uAF7jqHfhVobIstqleZE8xzhTR2d5BorYGDn0pO-Zys"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUxMDA4MTU0MDQzLjMuMzc0Y2RkNTRiYmJhYzc5Ni5vbnI0Y2RkckBtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOm51bGwsInQiOm51bGwsImEiOm51bGwsInMiOm51bGwsImMiOiJwZXJzb25hbGl6ZWQtcmVjb21tZW5kYXRpb24tZW1haWwiLCJmIjp0cnVlLCJwb3NpdGlvbiI6InRvcCIsImlhdCI6MTc1OTkzODA0MywiZXhwIjoxNzYyNTMwMDQzLCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0.Hs6Zx8jptq96JjKmun2i1rLRX7aw6Uut57TX898s2jE)
