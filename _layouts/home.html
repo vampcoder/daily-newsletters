@@ -25,10 +25,11 @@ layout: default
 <div class="card-grid" id="newsletter-grid">
   {% for post in posts_to_show %}
   <a href="{{ post.url | relative_url }}" class="tile-card" data-category="{{ post.category | slugify | default: 'general' }}">
-    <div class="tile-media" style="{% if post.image == nil or post.image == '' %}background: {{ post.theme_gradient | default: 'linear-gradient(135deg, #673ab7 0%, #512da8 100%)' }};{% endif %}">
+    <div class="tile-media" style="background: {{ post.theme_gradient | default: 'linear-gradient(135deg, #673ab7 0%, #3f51b5 100%)' }};">
       {% if post.image and post.image != "" %}
-        <img src="{{ post.image }}" alt="{{ post.title | escape }}" loading="lazy" onerror="this.style.display='none';">
+        <img src="{{ post.image }}" alt="{{ post.title | escape }}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';">
       {% endif %}
+
       <div class="tile-badges">
         <span class="badge badge-source">📢 {{ post.source | default: "Newsletter" }}</span>
         {% if post.category %}
