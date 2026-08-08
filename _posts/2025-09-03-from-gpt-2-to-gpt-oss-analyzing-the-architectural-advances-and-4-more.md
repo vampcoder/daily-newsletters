@@ -2,12 +2,6 @@
 layout: post
 title: "\"From GPT-2 to gpt-oss: Analyzing the Architectural Advances\" and 4 more"
 date: 2025-09-03 15:37:19 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #d97706 0%, #dc2626 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!dfGw!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/sebastianraschka/p/from-gpt-2-to-gpt-oss-analyzing-the?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNzA1MDYzMjgsImlhdCI6MTc1NjkxMzgzOSwiZXhwIjoxNzU5NTA1ODM5LCJpc3MiOiJwdWItMTE3NDY1OSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.K3bF7U0YPHA4GbOcnocf4zJzkYJrOjOWl0TleGAcXfE"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwOTAzMTUzNzE5LjMuMzc0Y2RkNTRiYmJhYzc5Ni56bzU5YXhyckBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoicGVyc29uYWxpemVkLXJlY29tbWVuZGF0aW9uLWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NTY5MTM4MzksImV4cCI6MTc1OTUwNTgzOSwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.iiq_SW6ZGOC65fuvb-_y4aKmGDebt5SxMjBc5hxUKv8)
