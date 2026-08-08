@@ -2,12 +2,6 @@
 layout: post
 title: "“He is on a journey that covers thousands of miles, and now he is here—embodied moonlight and stardust”"
 date: 2025-11-03 19:28:00 +0000
-source: "Substack"
-excerpt: "From Substack ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏..."
-theme_gradient: "linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!Rt8r!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-system-email-align-left.png%3Fv%3D2"
-original_url: "https://open.substack.com/pub/post/p/he-is-on-a-journey-that-covers-thousands?utm_source=unread-posts-digest-email&inbox=true&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNzc2ODM5MjMsImlhdCI6MTc2MjE5ODA4MCwiZXhwIjoxNzY0NzkwMDgwLCJpc3MiOiJwdWItNzM3MjM3Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.2Lha7WEJiOqYteVn2UQU_2svhdHUeY4ya9jbhW4ZWFM"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUxMTAzMTkyODAwLjMuOThhNjQyOWNjYjAyZGU1NS4zOHkwbTJqY0BtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOm51bGwsInQiOm51bGwsImEiOm51bGwsInMiOm51bGwsImMiOiJ1bnJlYWQtcG9zdHMtZGlnZXN0LWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NjIxOTgwODAsImV4cCI6MTc2NDc5MDA4MCwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.IazTPWbZNrlsP-zP6PHcvidhTU4cr0NZYH-uMH0lA7s)
