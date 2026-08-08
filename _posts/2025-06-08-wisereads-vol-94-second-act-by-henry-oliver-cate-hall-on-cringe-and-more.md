@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 94 — Second Act by Henry Oliver, Cate Hall on cringe, and more"
 date: 2025-06-08 19:58:58 +0000
-source: "Readwise"
-excerpt: "Last week, we featured an excerpt of Elizabeth Weingarten's debut, How to Fall in Love with Questions: A New Way to Thrive in Times of Uncertainty. This week, we're sharing a sp..."
-theme_gradient: "linear-gradient(135deg, #d97706 0%, #dc2626 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we featured an excerpt of Elizabeth Weingarten's debut, How to Fall in Love with Questions: A New Way to Thrive in Times of Uncertainty. This week, we're sharing a special preview of Henry Oliver's recent release, Second Act: What Late Bloomers Can Tell You About Success and Reinventing Your Life.
