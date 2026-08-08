@@ -2,11 +2,6 @@
 layout: post
 title: "The Met Gala, unstacked"
 date: 2025-05-07 01:45:01 +0000
-source: "The Substack Post"
-excerpt: "How Substackers covered fashion’s biggest night ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #d97706 0%, #dc2626 100%)"
-image: "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48c897d0-b43a-44af-a63f-fa6159c1cf5b_1000x1000.png"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTA3MDE0NTAxLjMuYzgzMTQzNGU3MTVlYjZkOUBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxNjMwMjA1NzMsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6NzM3MjM3LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ2NTg0NjE4LCJleHAiOjE3NDkxNzY2MTgsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.R9KQpptieAw5aIY2AGpWWe1ZbbhXVOD0WtBAFQPPsYg)
