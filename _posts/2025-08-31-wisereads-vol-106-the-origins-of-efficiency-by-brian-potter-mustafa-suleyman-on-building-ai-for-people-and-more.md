@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 106 — The Origins of Efficiency by Brian Potter, Mustafa Suleyman on building AI for people, and more"
 date: 2025-08-31 16:34:44 +0000
-source: "Readwise"
-excerpt: "Last week, we shared a preview of Austin Kleon's original illustrated hit, Steal Like an Artist. This week, we're sharing an excerpt from Brian Potter’s upcoming debut, The Orig..."
-theme_gradient: "linear-gradient(135deg, #059669 0%, #10b981 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we shared a preview of Austin Kleon's original illustrated hit, Steal Like an Artist. This week, we're sharing an excerpt from Brian Potter’s upcoming debut, The Origins of Efficiency, a historically rich exploration of innovation and progress.
