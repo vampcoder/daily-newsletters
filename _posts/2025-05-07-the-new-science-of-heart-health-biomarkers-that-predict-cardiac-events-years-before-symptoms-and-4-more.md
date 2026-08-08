@@ -2,12 +2,6 @@
 layout: post
 title: "\"The New Science of Heart Health: Biomarkers That Predict Cardiac Events Years Before Symptoms\" and 4 more"
 date: 2025-05-07 15:46:09 +0000
-source: "The Substack Post"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #0284c7 0%, #0d9488 100%)"
-image: "https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/danielstickler/p/the-new-science-of-heart-health-biomarkers?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjE1NTAzNzIsImlhdCI6MTc0NjYzMjc2OCwiZXhwIjoxNzQ5MjI0NzY4LCJpc3MiOiJwdWItMzgxNDU1NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.JLj9zdzSI0diR0RltitymaepaHV_D5Bjo_XnDnRoQMs"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTA3MTU0NjA5LjMuN2MxZDQzN2FiMWUyNzRjZC5ua2I2YTc2aUBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjo3MzcyMzcsImMiOiJwZXJzb25hbGl6ZWQtcmVjb21tZW5kYXRpb24tZW1haWwiLCJmIjp0cnVlLCJwb3NpdGlvbiI6InRvcCIsImlhdCI6MTc0NjYzMjc2OSwiZXhwIjoxNzQ5MjI0NzY5LCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0.cAhQVPu2QJrPdqub1V7OIqTIyCs5vwCbqom_Rllv5rM)
