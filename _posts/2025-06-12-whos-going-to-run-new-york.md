@@ -2,11 +2,6 @@
 layout: post
 title: "Who’s going to run New York?"
 date: 2025-06-12 15:00:27 +0000
-source: "The Substack Post"
-excerpt: "Ross Barkan breaks down the front-runners, the scandals, and the surprises in the city’s unusually crowded mayoral primary ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)"
-image: "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2e607895-8a01-4006-bdbb-e7802879348a_640x958.jpeg"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNjEyMTUwMDI3LjMuN2E5NDc2MDc3NjU3MDg3OUBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjoxNjU3MjcwNjAsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6NzM3MjM3LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ5NzQyODAwLCJleHAiOjE3NTIzMzQ4MDAsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.vnHYWLRHfKaOpa6UmPzPQcOozukSNWGALx9BYDqndu8)
