@@ -2,12 +2,6 @@
 layout: post
 title: "\"Ivermectin doses and Mixing Fenbendazole\" and 4 more"
 date: 2025-06-04 15:37:40 +0000
-source: "The Substack Post"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)"
-image: "https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/brighterworkscanceralternatives/p/ivermectin-doses-and-mixing-fenbendazole?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjM1OTg0MDMsImlhdCI6MTc0OTA1MTQ2MCwiZXhwIjoxNzUxNjQzNDYwLCJpc3MiOiJwdWItMzE2MDA4OCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.ClYS1Sps_wg5xD5SO6JARaFRNCDba6ao-So6Pw79w_w"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNjA0MTUzNzQwLjMuN2MxZDQzN2FiMWUyNzRjZC43azlzc2h4OUBtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOm51bGwsInQiOm51bGwsImEiOm51bGwsInMiOjczNzIzNywiYyI6InBlcnNvbmFsaXplZC1yZWNvbW1lbmRhdGlvbi1lbWFpbCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ5MDUxNDYwLCJleHAiOjE3NTE2NDM0NjAsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.dYFzZB-GOfmbjVjqXBBZ_Qy0JIdKs_Cfui3dtdcHl-c)
