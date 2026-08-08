@@ -2,11 +2,6 @@
 layout: post
 title: "Why I have slightly longer timelines than some of my guests"
 date: 2025-06-06 15:07:08 +0000
-source: "The Substack Post"
-excerpt: "The Substack Post cross-posted a post from Dwarkesh Podcast Substack Jun 6 · The Substack Post Few people have more clarity on AI than Dwarkesh Patel, who hosts deeply researche..."
-theme_gradient: "linear-gradient(135deg, #e11d48 0%, #f43f5e 100%)"
-image: "https://substackcdn.com/image/fetch/w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48c897d0-b43a-44af-a63f-fa6159c1cf5b_1000x1000.png"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNjA2MTUwNzA4LjMuZTc2MjYxZjFlMWQwMDRhYkBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxNjUzNDk1ODgsInQiOiJyZXN0YWNrIiwiYSI6ImV2ZXJ5b25lIiwicyI6NzM3MjM3LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ5MjI0Njc3LCJleHAiOjE3NTE4MTY2NzcsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.wWwqO5t4Y0nhKpb6WFdAch9NayCWoqkH7aV4uHytot0)
