@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 92 — Husk by Nat Eliason, Domenic Denicola on spaced repetition, and more"
 date: 2025-05-25 19:43:47 +0000
-source: "Readwise"
-excerpt: "Last week, we featured an excerpt of Island of the Blue Foxes: Disaster and Triumph on the World's Greatest Scientific Expedition by Stephen R. Bown. This week, we're thrilled t..."
-theme_gradient: "linear-gradient(135deg, #9333ea 0%, #c026d3 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we featured an excerpt of Island of the Blue Foxes: Disaster and Triumph on the World's Greatest Scientific Expedition by Stephen R. Bown. This week, we're thrilled to share an exclusive seven-chapter preview of our friend Nat Eliason's upcoming sci-fi debut, Husk. Plus, don't miss your opportunity to secure one of 10 paper copies signed by Nat himself!
