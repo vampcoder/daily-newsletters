@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 88 — AI as Normal Technology, the Era of Experience, and more"
 date: 2025-04-27 17:12:44 +0000
-source: "Readwise"
-excerpt: "Last week, we featured an exclusive 3-chapter preview of Jash Dholani's latest release, How to Start: The Art of Beginning Big Things. This week, we're sharing the Agatha Christ..."
-theme_gradient: "linear-gradient(135deg, #e11d48 0%, #f43f5e 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we featured an exclusive 3-chapter preview of Jash Dholani's latest release, How to Start: The Art of Beginning Big Things. This week, we're sharing the Agatha Christie mystery that put her on the map: The Murder of Roger Ackroyd, the fourth Hercule Poirot mystery.
