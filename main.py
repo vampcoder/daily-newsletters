@@ -53,17 +53,22 @@ LLM_API_BASE = os.getenv('LLM_API_BASE', 'https://api.deepseek.com')
 ENABLE_LLM_CURATION = os.getenv('ENABLE_LLM_CURATION', 'true').lower() in ('true', '1', 'yes')
 MIN_RELEVANCE_SCORE = int(os.getenv('MIN_RELEVANCE_SCORE', '6'))
 
-# Curated gradient palettes for fallback tile image headers
+# Rich Material UI Color Palettes (Material Design 500/700 gradients from materialui.co)
 THEME_GRADIENTS = [
-    "linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)",
-    "linear-gradient(135deg, #0284c7 0%, #0d9488 100%)",
-    "linear-gradient(135deg, #d97706 0%, #dc2626 100%)",
-    "linear-gradient(135deg, #2563eb 0%, #3b82f6 100%)",
-    "linear-gradient(135deg, #059669 0%, #10b981 100%)",
-    "linear-gradient(135deg, #9333ea 0%, #c026d3 100%)",
-    "linear-gradient(135deg, #e11d48 0%, #f43f5e 100%)",
-    "linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)"
+    "linear-gradient(135deg, #673ab7 0%, #512da8 100%)",  # Deep Purple
+    "linear-gradient(135deg, #3f51b5 0%, #303f9f 100%)",  # Indigo
+    "linear-gradient(135deg, #009688 0%, #00796b 100%)",  # Teal
+    "linear-gradient(135deg, #e91e63 0%, #c2185b 100%)",  # Pink
+    "linear-gradient(135deg, #00bcd4 0%, #0097a7 100%)",  # Cyan
+    "linear-gradient(135deg, #ff5722 0%, #e64a19 100%)",  # Deep Orange
+    "linear-gradient(135deg, #9c27b0 0%, #7b1fa2 100%)",  # Purple
+    "linear-gradient(135deg, #2196f3 0%, #1976d2 100%)",  # Blue
+    "linear-gradient(135deg, #4caf50 0%, #388e3c 100%)",  # Green
+    "linear-gradient(135deg, #ff9800 0%, #f57c00 100%)",  # Amber
+    "linear-gradient(135deg, #607d8b 0%, #455a64 100%)",  # Blue Grey
+    "linear-gradient(135deg, #f44336 0%, #d32f2f 100%)"   # Red
 ]
+
 
 # Rule-based Spam / Promo filtering patterns (Pre-filter before LLM)
 PROMO_KEYWORDS = [

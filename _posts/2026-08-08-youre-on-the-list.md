@@ -4,12 +4,13 @@ title: "Interconnects: Navigating AI's Rapid Frontier"
 date: 2026-08-08 08:04:45 +0000
 source: "Newsletter"
 category: "Tech & AI"
-excerpt: "Interconnects is a newsletter by AI researcher Nathan Lambert that delivers in-depth analysis of the latest models, training methods, and industry trends. With a mix of essays, model reviews, and interviews, it offers a practitioner's perspective on the fast-moving AI landscape. This issue includes a call for reader recommendations and a preview of upcoming content."
+excerpt: "A newsletter offering in-depth analysis of the latest AI models, training methods, and industry trends, with essays, model reviews, researcher interviews, and open-source ecosystem surveys. Founded by AI researcher Nathan Lambert, it provides expert perspective on the technology's trajectory."
+theme_gradient: "linear-gradient(135deg, #f44336 0%, #d32f2f 100%)"
 is_summary: false
 key_takeaways:
-  - "Interconnects offers a regular, expert-driven look at frontier AI models and the methods behind them."
-  - "The newsletter includes essays, model reviews, interviews, and surveys of the open model ecosystem."
-  - "Readers are invited to engage by sharing their favorite recent papers or models, helping to shape future content."
+  - "Get expert breakdowns of new AI models and training techniques."
+  - "Insights from a senior AI researcher on frontier developments."
+  - "Coverage includes essays, interviews, and open-model ecosystem surveys."
 ---
 
 **Quick request:** To help emails get delivered, please reply to this email with your favorite recent paper or model!

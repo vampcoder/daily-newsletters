@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
 reprocess_posts.py - Batch enhance top N existing Markdown posts in _posts/ using DeepSeek LLM.
-Generates clean, valid YAML front-matter with titles, dynamic categories, summaries, and key takeaways.
+Generates clean, valid YAML front-matter with titles, dynamic categories, summaries, key takeaways, and Material UI gradients.
 """
 
 import glob
+import hashlib
 import json
 import os
 import re
@@ -18,13 +19,33 @@ LLM_API_KEY = os.getenv('LLM_API_KEY')
 LLM_MODEL = os.getenv('LLM_MODEL', 'deepseek/deepseek-chat')
 LLM_API_BASE = os.getenv('LLM_API_BASE', 'https://api.deepseek.com')
 
+# Material UI Color Palettes (gradients from materialui.co)
+THEME_GRADIENTS = [
+    "linear-gradient(135deg, #673ab7 0%, #512da8 100%)",  # Deep Purple
+    "linear-gradient(135deg, #3f51b5 0%, #303f9f 100%)",  # Indigo
+    "linear-gradient(135deg, #009688 0%, #00796b 100%)",  # Teal
+    "linear-gradient(135deg, #e91e63 0%, #c2185b 100%)",  # Pink
+    "linear-gradient(135deg, #00bcd4 0%, #0097a7 100%)",  # Cyan
+    "linear-gradient(135deg, #ff5722 0%, #e64a19 100%)",  # Deep Orange
+    "linear-gradient(135deg, #9c27b0 0%, #7b1fa2 100%)",  # Purple
+    "linear-gradient(135deg, #2196f3 0%, #1976d2 100%)",  # Blue
+    "linear-gradient(135deg, #4caf50 0%, #388e3c 100%)",  # Green
+    "linear-gradient(135deg, #ff9800 0%, #f57c00 100%)",  # Amber
+    "linear-gradient(135deg, #607d8b 0%, #455a64 100%)",  # Blue Grey
+    "linear-gradient(135deg, #f44336 0%, #d32f2f 100%)"   # Red
+]
+
+def get_gradient_theme(text):
+    hash_num = int(hashlib.md5(text.encode('utf-8')).hexdigest(), 16)
+    return THEME_GRADIENTS[hash_num % len(THEME_GRADIENTS)]
+
 def get_existing_categories():
     categories = set()
     for filepath in glob.glob("_posts/*.md"):
         try:
             content = open(filepath, encoding='utf-8').read()
             match = re.search(r'^category:\s*"([^"]+)"', content, re.MULTILINE)
-            if match and match.group(1) != 'General':
+            if match and match.group(1) not in ('General', 'Announcement'):
                 categories.add(match.group(1))
         except Exception:
             pass
@@ -53,10 +74,8 @@ def reprocess_top_n(limit=5):
         try:
             raw = open(filepath, encoding='utf-8').read()
             
-            # Parse existing front-matter fields
             parts = raw.split('---\n', 2)
             if len(parts) < 3:
-                # If first delimiter missing
                 parts = raw.split('---', 2)
             
             fm_text = parts[1] if len(parts) >= 3 else ""
@@ -98,7 +117,6 @@ Respond ONLY with a valid JSON object matching exact format:
 }}
 """
 
-
             kwargs = {
                 "model": LLM_MODEL,
                 "messages": [{"role": "user", "content": prompt}],
@@ -112,10 +130,11 @@ Respond ONLY with a valid JSON object matching exact format:
             res = extract_json_from_llm(raw_ans)
 
             polished_title = res.get('polished_title', subject)
-            category = res.get('category', 'General')
+            category = res.get('category', 'Tech & AI')
             executive_summary = res.get('executive_summary', '')
             key_takeaways = res.get('key_takeaways', [])
             cleaned_markdown = res.get('cleaned_markdown', body_text)
+            gradient = get_gradient_theme(polished_title)
 
             # Rebuild clean YAML front-matter
             fm_lines = [
@@ -126,6 +145,7 @@ Respond ONLY with a valid JSON object matching exact format:
                 f'source: "{post_source.replace('"', '\\"')}"',
                 f'category: "{category.replace('"', '\\"')}"',
                 f'excerpt: "{executive_summary.replace('"', '\\"')}"',
+                f'theme_gradient: "{gradient}"',
             ]
             if post_image:
                 fm_lines.append(f'image: "{post_image}"')

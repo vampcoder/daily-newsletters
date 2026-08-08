@@ -25,12 +25,12 @@ layout: default
 <div class="card-grid" id="newsletter-grid">
   {% for post in posts_to_show %}
   <a href="{{ post.url | relative_url }}" class="tile-card" data-category="{{ post.category | slugify | default: 'general' }}">
-    <div class="tile-media" style="{% if post.image == nil or post.image == '' %}background: {{ post.theme_gradient | default: 'linear-gradient(135deg, #4f46e5, #7c3aed)' }};{% endif %}">
+    <div class="tile-media" style="{% if post.image == nil or post.image == '' %}background: {{ post.theme_gradient | default: 'linear-gradient(135deg, #673ab7 0%, #512da8 100%)' }};{% endif %}">
       {% if post.image and post.image != "" %}
         <img src="{{ post.image }}" alt="{{ post.title | escape }}" loading="lazy" onerror="this.style.display='none';">
       {% endif %}
       <div class="tile-badges">
-        <span class="badge badge-source">{{ post.source | default: "Newsletter" }}</span>
+        <span class="badge badge-source">📢 {{ post.source | default: "Newsletter" }}</span>
         {% if post.category %}
           <span class="badge badge-category">{{ post.category }}</span>
         {% endif %}
@@ -43,6 +43,9 @@ layout: default
     </div>
     
     <div class="tile-content">
+      <div class="tile-publisher-bar">
+        <span>📢 {{ post.source | default: "Newsletter" }}</span>
+      </div>
       <div class="tile-meta">{{ post.date | date: "%b %d, %Y" }}</div>
       <h2 class="tile-title">{{ post.title }}</h2>
       <p class="tile-excerpt">{{ post.excerpt | strip_html }}</p>
@@ -111,7 +114,6 @@ document.addEventListener('DOMContentLoaded', function() {
             var newCards = doc.querySelectorAll('#newsletter-grid .tile-card');
 
             newCards.forEach(function(card) {
-              // Apply active filter to newly appended card
               var activePill = document.querySelector('.category-pill.active');
               var currentCat = activePill ? activePill.getAttribute('data-category') : 'all';
               if (currentCat !== 'all' && card.getAttribute('data-category') !== currentCat) {

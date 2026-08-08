@@ -4,13 +4,13 @@ title: "Who Really Makes India's Cancer Drugs?"
 date: 2026-08-06 15:19:45 +0000
 source: "Newsletter"
 category: "Healthcare & Medicine"
-excerpt: "A deep-dive investigation into the Indian pharmaceutical supply chain for cancer drugs, revealing the key manufacturers behind the market. The post uncovers the complex network of companies involved, from active pharmaceutical ingredient producers to finished dosage form makers."
+excerpt: "An investigative breakdown of India's oncology drug manufacturing landscape, revealing the key players behind the country's cancer treatments. The piece highlights the complex supply chain and the companies that dominate production."
+theme_gradient: "linear-gradient(135deg, #4caf50 0%, #388e3c 100%)"
 is_summary: false
 key_takeaways:
-  - "The Indian cancer drug market is highly fragmented, with multiple players across the supply chain."
-  - "Domestic manufacturers like Shilpa Medicare, Natco, and Gufic are central to API and formulation production."
-  - "Understanding who actually makes the drugs is critical for patients, investors, and policymakers."
-  - "The disclosure hints at potential investment opportunities in 'blindspot' areas of the pharma sector."
+  - "India's cancer drug market is shaped by a mix of large pharma giants and specialized manufacturers."
+  - "The supply chain for oncology drugs involves multiple layers, from active ingredients to final formulations."
+  - "Understanding the true manufacturers is critical for investors and healthcare professionals alike."
 ---
 
 ### Who Actually Makes India's Cancer Drugs?
