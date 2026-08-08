@@ -2,12 +2,6 @@
 layout: post
 title: "\"API Performance Improvement Tips\" and 4 more"
 date: 2025-08-06 15:35:55 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #e11d48 0%, #f43f5e 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!dfGw!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/systemcodex/p/api-performance-improvement-tips?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjg4Mjk1MzAsImlhdCI6MTc1NDQ5NDU1NSwiZXhwIjoxNzU3MDg2NTU1LCJpc3MiOiJwdWItMjE0ODExMSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.rw1dVhCx4iXJ8Doh5tT2EGuQVsnifxW11tJ_CCDkw4k"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwODA2MTUzNTU1LjMuMzc0Y2RkNTRiYmJhYzc5Ni45bGU5Z3R1cUBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoicGVyc29uYWxpemVkLXJlY29tbWVuZGF0aW9uLWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NTQ0OTQ1NTUsImV4cCI6MTc1NzA4NjU1NSwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.E49jETVQ7az73-ijMCESFGxRJ0rSoRsoPv-ntyvchzA)
