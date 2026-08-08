@@ -2,11 +2,6 @@
 layout: post
 title: "“She squeezes my hands very tight, and I squeeze back”"
 date: 2025-05-31 13:01:54 +0000
-source: "The Substack Post"
-excerpt: "In this edition of the Weekender: a philosophy of dance, the joy of private notebooks, and summer jobs ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ..."
-theme_gradient: "linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)"
-image: "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48c897d0-b43a-44af-a63f-fa6159c1cf5b_1000x1000.png"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTMxMTMwMTU0LjMuNDBlMWNmNmI4YWVmYjRiZUBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjoxNjQ4MzQzOTEsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6NzM3MjM3LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ4Njk4ODU3LCJleHAiOjE3NTEyOTA4NTcsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.2YacM4XOdSiO6HRQMq74xKY5pVtzl6qyUCdKItNa8cM)
