@@ -2,12 +2,6 @@
 layout: post
 title: "\"who actually makes india's cancer drugs? \" and 4 more"
 date: 2026-08-06 15:19:45 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #d97706 0%, #dc2626 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!dfGw!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/blindspotresearch/p/who-actually-makes-indias-cancer?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoyMDg4NTI5MzAsImlhdCI6MTc4NjAyOTU4NSwiZXhwIjoxNzg4NjIxNTg1LCJpc3MiOiJwdWItODU2NjMwNiIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.NErNay9mrClzzeaith1Q2AWDBdwLq_cgftUOVxsp4Hk"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/o/d945721f7e87814c/p.gif?token=eyJtIjoiPDIwMjYwODA2MTUxOTQ1LjMuMzc0Y2RkNTRiYmJhYzc5Ni5kam9mcGlsbkBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoicGVyc29uYWxpemVkLXJlY29tbWVuZGF0aW9uLWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3ODYwMjk1ODUsImV4cCI6MTc4ODYyMTU4NSwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.7L2QLgY-g5Gvgm8Cd6GfHhLBkiQV0VAbSVK_uIzo2G8)
