@@ -2,12 +2,6 @@
 layout: post
 title: "\"The Truth\" and 4 more"
 date: 2025-06-11 15:36:52 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)"
-image: "https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/americanresistancenetwork/p/the-truth?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjQ1MzcyODksImlhdCI6MTc0OTY1NjIxMiwiZXhwIjoxNzUyMjQ4MjEyLCJpc3MiOiJwdWItNDY0ODM2NiIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.1mA131540Ng0qzS2nICWp20zEA_XIs6yPu_dZnXzGJ4"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNjExMTUzNjUyLjMuMzc0Y2RkNTRiYmJhYzc5Ni44aG10c2NyM0BtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoicGVyc29uYWxpemVkLXJlY29tbWVuZGF0aW9uLWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NDk2NTYyMTIsImV4cCI6MTc1MjI0ODIxMiwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.lf5skO8pAs3WaICH2bOuLPL8VGKRK_NDqzCcZ7vePr4)
