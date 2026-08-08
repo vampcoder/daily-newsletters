@@ -7,15 +7,33 @@ layout: default
   <p class="hero-subtitle">Automated, distraction-free archive of your daily newsletters.</p>
 </section>
 
-<div class="card-grid">
-  {% for post in site.posts %}
-  <a href="{{ post.url | relative_url }}" class="tile-card">
+{% assign all_posts = site.posts %}
+{% assign categories = all_posts | map: "category" | compact | uniq %}
+
+<!-- Dynamic Category Filter Bar -->
+{% if categories.size > 0 %}
+<div class="category-filter-bar">
+  <button class="category-pill active" data-category="all">All Newsletters</button>
+  {% for cat in categories %}
+    <button class="category-pill" data-category="{{ cat | slugify }}">{{ cat }}</button>
+  {% endfor %}
+</div>
+{% endif %}
+
+<!-- Newsletter Card Grid -->
+{% assign posts_to_show = paginator.posts | default: site.posts %}
+<div class="card-grid" id="newsletter-grid">
+  {% for post in posts_to_show %}
+  <a href="{{ post.url | relative_url }}" class="tile-card" data-category="{{ post.category | slugify | default: 'general' }}">
     <div class="tile-media" style="{% if post.image == nil or post.image == '' %}background: {{ post.theme_gradient | default: 'linear-gradient(135deg, #4f46e5, #7c3aed)' }};{% endif %}">
       {% if post.image and post.image != "" %}
         <img src="{{ post.image }}" alt="{{ post.title | escape }}" loading="lazy" onerror="this.style.display='none';">
       {% endif %}
       <div class="tile-badges">
         <span class="badge badge-source">{{ post.source | default: "Newsletter" }}</span>
+        {% if post.category %}
+          <span class="badge badge-category">{{ post.category }}</span>
+        {% endif %}
         {% if post.is_summary %}
           <span class="badge badge-summary">Teaser Summary</span>
         {% else %}
@@ -40,3 +58,84 @@ layout: default
   </a>
   {% endfor %}
 </div>
+
+<!-- Infinite Scroll Sentinel (Only if Pagination Exists) -->
+{% if paginator.next_page %}
+<div id="infinite-scroll-sentinel" data-next-page="{{ paginator.next_page_path | relative_url }}">
+  <div class="scroll-spinner"></div>
+</div>
+{% endif %}
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Category Filtering Logic
+  var filterPills = document.querySelectorAll('.category-pill');
+  var grid = document.getElementById('newsletter-grid');
+
+  filterPills.forEach(function(pill) {
+    pill.addEventListener('click', function() {
+      filterPills.forEach(function(p) { p.classList.remove('active'); });
+      this.classList.add('active');
+
+      var targetCategory = this.getAttribute('data-category');
+      var cards = grid.querySelectorAll('.tile-card');
+
+      cards.forEach(function(card) {
+        if (targetCategory === 'all' || card.getAttribute('data-category') === targetCategory) {
+          card.classList.remove('hidden');
+        } else {
+          card.classList.add('hidden');
+        }
+      });
+    });
+  });
+
+  // Infinite Scroll Logic (IntersectionObserver)
+  var sentinel = document.getElementById('infinite-scroll-sentinel');
+  if (sentinel && 'IntersectionObserver' in window) {
+    var isLoading = false;
+
+    var observer = new IntersectionObserver(function(entries) {
+      var entry = entries[0];
+      if (entry.isIntersecting && !isLoading) {
+        var nextPageUrl = sentinel.getAttribute('data-next-page');
+        if (!nextPageUrl) return;
+
+        isLoading = true;
+
+        fetch(nextPageUrl)
+          .then(function(res) { return res.text(); })
+          .then(function(html) {
+            var parser = new DOMParser();
+            var doc = parser.parseFromString(html, 'text/html');
+            var newCards = doc.querySelectorAll('#newsletter-grid .tile-card');
+
+            newCards.forEach(function(card) {
+              // Apply active filter to newly appended card
+              var activePill = document.querySelector('.category-pill.active');
+              var currentCat = activePill ? activePill.getAttribute('data-category') : 'all';
+              if (currentCat !== 'all' && card.getAttribute('data-category') !== currentCat) {
+                card.classList.add('hidden');
+              }
+              grid.appendChild(card);
+            });
+
+            var newSentinel = doc.getElementById('infinite-scroll-sentinel');
+            if (newSentinel && newSentinel.getAttribute('data-next-page')) {
+              sentinel.setAttribute('data-next-page', newSentinel.getAttribute('data-next-page'));
+              isLoading = false;
+            } else {
+              sentinel.remove();
+            }
+          })
+          .catch(function(err) {
+            console.error('Failed to load next page:', err);
+            sentinel.remove();
+          });
+      }
+    }, { rootMargin: '200px' });
+
+    observer.observe(sentinel);
+  }
+});
+</script>

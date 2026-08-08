@@ -1,0 +1,91 @@
+---
+layout: post
+title: "Wisereads Special Edition Vol. 1 — Maggie Appleton on drawing, Wes Kao on rigorous thinking, and more"
+date: 2025-03-08 20:49:28 +0000
+source: "Readwise"
+category: "General"
+excerpt: "In celebration of 🌸 International Women's Day, we're excited to bring you our first-ever special edition of Wisereads, spotlighting some of our favorite content created by women..."
+theme_gradient: "linear-gradient(135deg, #d97706 0%, #dc2626 100%)"
+image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
+is_summary: false
+---
+
+In celebration of 🌸 International Women's Day, we're excited to bring you our first-ever special edition of Wisereads, spotlighting some of our favorite content created by women. You'll still receive the regular Wisereads tomorrow—think of this as a bonus alongside our usual recommendations.
+If you enjoy this experimental special edition, please let us know! We'd love to hear your feedback and any theme ideas as we decide whether to create more in the future.
+Keep reading to add to your Reader account below 👇
+As a reminder, you can also explore and save our community's most highlighted content inside Reader. If this content in general isn't your vibe, please feel free to unsubscribe altogether.
+Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Readwise | | |  |  |  | | --- | --- | | |  | | --- | | [Open in Reader](https://wise.readwise.io/save?url=https%3A//wise.readwise.io/issues/wisereads-special-edition-vol-1) | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Weekly Wisereads | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Wisereads Special Edition Vol. 1 — Maggie Appleton on drawing, Wes Kao on rigorous thinking, and more | | In celebration of 🌸 **International Women's Day**, we're excited to bring you our first-ever special edition of Wisereads, spotlighting some of our favorite content created by women. You'll still receive the regular Wisereads tomorrow—think of this as a bonus alongside our usual recommendations.  If you enjoy this experimental special edition, please let us know! We'd love to hear your feedback and any theme ideas as we decide whether to create more in the future.  Keep reading to add to your Reader account below 👇  As a reminder, you can also [explore and save our community's most highlighted content](https://read.readwise.io/discover) inside Reader. If this content in general isn't your vibe, please feel free to [unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) altogether.  Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂 | | | |
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Articles of the week | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Wes Kao's Newsletter | | | [Rigorous thinking: No lazy thinking](https://newsletter.weskao.com/p/rigorous-thinking) | | Wes Kao · 15 mins | | For high performers and managers alike, founder Wes Kao shares sharp, pragmatic insights on executive communication and workplace success. In one of our favorite pieces, she urges managers to cultivate rigorous thinking in their teams: "You hired intelligent people, and your best high performers already want to think rigorously. Be their thought partner. If given the chance, they will be excited to sharpen their thinking with your guidance because it's a skill that will serve them now and forever in their careers." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//newsletter.weskao.com/p/rigorous-thinking) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | maggieappleton.com | | | [Why You Own an iPad and Still Can't Draw](https://maggieappleton.com/still-cant-draw) | | Maggie Appleton · 4 mins | | Design engineer and soon-to-be mom Maggie Appleton, a beloved voice in tech and design, shares wisdom on digital drawing: tools don’t make an artist—clarity of message does. "The *Meat* is the whole point of your illustration. What is your drawing about? What are you saying? Why does it matter? As one of my favourite writing professors used to say, -39 points for not having a point." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//maggieappleton.com/still-cant-draw) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Out of the Blue | | | [100 things I know](https://mariandrew.substack.com/p/100-things-i-know) | | Mari Andrew · 21 mins | | In *Out of the Blue*, watercolor artist Mari Andrew reflects on life’s full range of colors from her New York City home—alongside her senior rescue cat, Sunflower. While she prefers pondering life’s big questions, she shares hard-earned wisdom in bite-sized lessons, including: "I know that I’d like to age with energy. So if I only have a few minutes to exercise, I focus on hip mobility and balance," and "I know that grief never ends. When a friend’s loved one dies, put the loved one’s birthday on your calendar. Send them flowers or a card on that date, and never stop doing that." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//mariandrew.substack.com/p/100-things-i-know) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted YouTube Video of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Is ChatGPT Lying To You? | Alignment Faking + In-Context Scheming](https://www.youtube.com/watch?v=wFcQiJqHv1A) | | Jordan Harrod · 18 mins | | Jordan Harrod, an MIT and Harvard graduate student, dives into the surprising phenomenon of AI faking alignment, breaking down research on how LLMs subtly deceive users and developers. "The idea behind alignment faking is that there may be circumstances where—and this happens; this is a thing that actual people do—where people might modify their behavior to appease some other entity. The example that they use in the paper is to consider a politician who might pretend to be aligned with constituents to secure their votes or a job applicant who fakes passion about a potential employer to get a job." | | |  | | --- | | [➕  Add video to Reader](https://wise.readwise.io/save?url=https%3A//www.youtube.com/watch%3Fv%3DwFcQiJqHv1A) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Twitter Thread of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [3 years ago, I wrote a list of generation-defining stats](https://x.com/stephsmithio/status/1877418720521498716/?rw_tt_thread=True) | | Steph Smith · 4 mins | | Marketer, author, and podcast host Steph Smith is known for uncovering compelling data. In her recent viral thread, she shares generation-defining stats like: "66 territories now offer a 'digital nomad visa' to attract top talent, including Indonesia's 'Golden Visa' of which Sam Altman was the first recipient," and "US post-secondary enrollment has dropped (for the first time in decades) and is down ~10% in the past ~5 years." | | |  | | --- | | [➕  Add tweet to Reader](https://wise.readwise.io/save?url=https%3A//x.com/stephsmithio/status/1877418720521498716/%3Frw_tt_thread%3DTrue) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted PDF of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Mastering Personal Productivity](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/mastering-personal-productivit/Mastering-Personal-Productivity.pdf) | | Laura Stack · 46 mins | | Before optimization was trending, Laura Stack—aka the Productivity Pro—was writing and speaking about workplace efficiency. More than a decade later, her quirky guide still offers time-tested strategies for tackling your reading list, entering a flow state, and setting clear goals. "Most people don’t have well-articulated goals. Perhaps you don’t know how to set them. Perhaps writing goals down seems like too much effort, or you simply haven’t taken the time to write them. It’s worth the work to create a plan, because the goals you set will provide direction for your life and focus your activities. You must translate your lofty, long-term goals into actionable tasks you can work on today." | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise-assets.s3.amazonaws.com/media/wisereads/articles/mastering-personal-productivit/Mastering-Personal-Productivity.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Hand-picked book of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Iola Leroy](https://readwise.io/reader/fd/279837954) | | Frances Ellen Watkins Harper | | Frances Ellen Watkins Harper’s *Iola Leroy* follows the harrowing journey of a young woman who, after being raised unaware of her African ancestry, is suddenly sold into slavery. As one of the first published African American women novelists, Harper paved the way for writers like Zora Neale Hurston and journalist Ida B. Wells, who adopted "Iola" as her pen name.  "Slavery was a deadly cancer eating into the life of the nation; but, somehow, it had cast such a glamour over us that we have acted somewhat as if our national safety were better preserved by sparing the cancer than by cutting it out."  This edition of [*Iola Leroy*](https://standardebooks.org/ebooks/frances-ellen-watkins-harper/iola-leroy) is available through Standard Ebooks. You can explore their collection of high quality, carefully formatted, and free public domain ebooks [here](https://standardebooks.org/ebooks). | | |  | | --- | | [➕  Add EPUB to Reader](https://wise.readwise.io/save?url=https%3A//readwise.io/reader/fd/279837954) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Handpicked RSS feed of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Think Piece](https://sarahmchappell.substack.com/p/in-praise-of-constraints) | | Sarah Chappell is a writer, strategist, and two-time founder focused on the future of work in her Substack, *Think Piece*. From [In Praise Of Constraints](https://wise.readwise.io/save?url=https://sarahmchappell.substack.com/p/in-praise-of-constraints): "Not choosing and not limiting leads to overwhelm. Much like the founder trying to appeal to everyone—a strategy that puts you on the path of vague or overwrought marketing that has to hit every possible permutation of the human experience—trying to leave all options open prevents clear action. You cannot make progress without limits as each step forward necessarily narrows the potential outcomes." | | |  | | --- | | [🌐  Subscribe to RSS feed in Reader](https://wise.readwise.io/subscribe?url=https%3A//sarahmchappell.substack.com/feed) | | | | |
+
+ 
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | | |  | | --- | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | You're receiving this Weekly Wisereads email newsletter because you signed up for [Readwise Reader](https://readwise.io/read). [Click here to unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) from these emails going forward. Readwise 5540 Centerview Drive, Suite 204 Raleigh, NC 27606 | | |
+
+![](https://ea.pstmrk.it/open?m=v3_1.8jA58J2qsU3LPaKpoXuDFg.Qq-YoMPhX4b-zOeMxkxuuWn_DZuryFrNkuFdCwkPgrduhtrqp5VHbgtBJXXlfdglxQevpCASbVdEeaI4MG8wAYIp9NmrktWeGzRQxVNY7yPsdlUfCPS4enrBaZqsRGb1GSHo8HL89fw7Q_unvu9cGbee8Kuq2PEVlIB4kdU1wkGlhCpEO0q6z7JtgwJwZ5OQ5xmChkf6StfeWAIUekUDL2dSjf59VTr1dK4ZnWbb16Tqxr-In69q9Rh0qp5mmfdkEpg8CoIL7zfb9FS0w7Omo8QAtwJWWadxHAD6i4XIoxJ5BAJjOeDcXftCyf4ItijLDCqzo8IFvf6OBhdWplPrejfV1BrXelb15v-OEWdjAt8byKlb_tHMNUkhzawmjAPhw8JCfD2SNXaMBfRP3vNR6WAmdUb8-ULIA5HH0GnlZGGvREZ49fbfK5m0oBkxjWMQx2VtXI3l2z5N7YZHy38509qnVw3RLH5Oa4SMJbQoMnXEYS7GX0-EtE6LxTwk5Oczr78ewPXqTwknnc8PsRPl1I9XuD4qNVYDCpAvi7AEaeSud3tPo3hwMFu0jbAso82h_62m2fjda9r3z5RH5HjO_PTYWTlkQ5qD7AMPXr3Ao3k)

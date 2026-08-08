@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Wisereads Vol. 72 — Dwarkesh Patel's notes on China, Farnam Street's annual review workbook, and more"
+date: 2025-01-05 17:37:00 +0000
+source: "Readwise"
+category: "General"
+excerpt: "Last week, we shared an excerpt from Keep Going by Austin Kleon, a short book on creativity, focus, and staying true to yourself. This week, we're sharing the entirety of Learn ..."
+theme_gradient: "linear-gradient(135deg, #2563eb 0%, #3b82f6 100%)"
+image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
+is_summary: false
+---
+
+Last week, we shared an excerpt from Keep Going by Austin Kleon, a short book on creativity, focus, and staying true to yourself. This week, we're sharing the entirety of Learn More Faster, a book of practical methods to quickly identify and understand ideal customers, validate product hypotheses, and refine value propositions by Michael Margolis of Google Ventures.
+Keep reading to add to your Reader account below 👇
+As a reminder, you can also explore and save our community's most highlighted content inside Reader. If this content in general isn't your vibe, please feel free to unsubscribe altogether.
+Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Readwise | | |  |  |  | | --- | --- | | |  | | --- | | [Open in Reader](https://wise.readwise.io/save?url=https%3A//wise.readwise.io/issues/wisereads-vol-72) | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Weekly Wisereads | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Wisereads Vol. 72 — Dwarkesh Patel's notes on China, Farnam Street's annual review workbook, and more | | Last week, we shared an excerpt from *Keep Going* by Austin Kleon, a short book on creativity, focus, and staying true to yourself. This week, we're sharing the entirety of *Learn More Faster,* a book of practical methods to quickly identify and understand ideal customers, validate product hypotheses, and refine value propositions by Michael Margolis of Google Ventures.  Keep reading to add to your Reader account below 👇  As a reminder, you can also [explore and save our community's most highlighted content](https://read.readwise.io/discover) inside Reader. If this content in general isn't your vibe, please feel free to [unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) altogether.  Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂 | | | |
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Articles of the week | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | n + 1 | | | [Casual Viewing](https://www.nplusonemag.com/issue-49/essays/casual-viewing/) | | Will Tavlin · 33 mins | | A journalist argues that by sidestepping the box office, Netflix can define its own metrics of success — resulting in an influx of lackluster films and a grim outlook for both movie enthusiasts and streaming services. "Netflix makes no distinction between users who watch all the way through, those who watch less than two minutes, and those who watch just a few seconds thanks to autoplay, or skip around, or watch at 1.5x speed... According to Netflix’s rubric, two users who watch the first half of *Sweet Girl* and close their laptops equal one full 'view' — as do 110 users who each watch a single minute." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.nplusonemag.com/issue-49/essays/casual-viewing/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | The Atlantic | | | [The Walmart Effect](https://www.theatlantic.com/ideas/archive/2024/12/walmart-prices-poverty-economy/681122/) | | Rogé Karma · 6 mins | | By reviewing two recent papers, The Atlantic highlights research suggesting Walmart’s always low prices come at a cost to the community, lowering wages and driving unemployment. "Once Walmart has become the major employer in town, it ends up with what economists call 'monopsony power' over workers. Just as monopoly describes a company that can afford to charge exorbitant prices because it lacks any real competition, monopsony describes a company that can afford to pay low wages because workers have so few alternatives." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.theatlantic.com/ideas/archive/2024/12/walmart-prices-poverty-economy/681122/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | dwarkeshpatel.com | | | [Notes on China](https://www.dwarkeshpatel.com/p/notes-on-china) | | Dwarkesh Patel · 15 mins | | Podcaster Dwarkesh Patel shares insights from his two-week trip to China, meeting locals, admiring architecture, and analyzing everyday life. "It’s funny how China has basically the inverse problem as America. We subsidize demand and restrict supply. They subsidize supply and restrict demand. We can’t rebuild fallen bridges. They build bridges to nowhere. In the most desirable cities in this country, every random Victorian house and park bench is a historic site that can’t be disturbed. There, they’ll bulldoze a 500 year old temple to build an endless skyscraper complex that no one wants to live in." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.dwarkeshpatel.com/p/notes-on-china) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted YouTube Video of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Stop Worrying & Start Doing: A Simple Way to Organize Your Tasks](https://www.youtube.com/watch?v=dR7UtedSoZ8) | | Simpletivity · 8 mins | | On his channel *Simpletivity*, Scott Friesen points Google users toward productivity with his tips — this week, on how to isolate daily tasks to boost mental energy. "The three-step formula that we're going to use today is as follows: we're going to shift it forward, we're going to tackle our enemy, and then separate the rest." | | |  | | --- | | [➕  Add video to Reader](https://wise.readwise.io/save?url=https%3A//www.youtube.com/watch%3Fv%3DdR7UtedSoZ8) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Twitter Thread of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Thoughts on the eve of AGI](https://x.com/williambryk/status/1871946968148439260/?rw_tt_thread=True) | | Will Bryk · 12 mins | | The CEO of Exa AI predicts that AGI both unlocks scientific mysteries and upends the work of those who don’t become high-agency problem solvers. "Perhaps the transition people need to make is from getting meaning through individual success to getting meaning through collective success. Many of our current jobs will be automated soon. We'll have to adapt. If you derive meaning from a specific skill, yes that skill might no longer be necessary in 5 years and you're out of luck. But if you can derive meaning from helping the world however you can, well that isn't ever going away." | | |  | | --- | | [➕  Add tweet to Reader](https://wise.readwise.io/save?url=https%3A//x.com/williambryk/status/1871946968148439260/%3Frw_tt_thread%3DTrue) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted PDF of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Annual review workbook](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/annual-review-workbook/AnnualReview.pdf) | | Farnam Street x reMarkable · 31 mins | | Create momentum in the new year with Shane Parrish and reMarkable’s new annual review workbook, designed to help you focus on your goals with clarity. "Most people scatter their energy across too many goals - not because they lack skill, but because they resist making bold choices and fear missing opportunities. Your success in 2025 depends more on what you say NO to than what you say yes to." | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise-assets.s3.amazonaws.com/media/wisereads/articles/annual-review-workbook/AnnualReview.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Hand-picked book of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Learn More Faster](https://readwise.io/reader/fd/178750274) | | Michael Margolis | | In the fast-paced world of startups, pausing for traditional user research can sap momentum and cost a first-mover advantage. Fortunately, Michael Margolis at Google Ventures has drawn on his experience guiding 300 companies to create Bullseye Customer Sprints—an approach tailored for founders eager to learn about their ideal customers quickly.  "The best time to conduct Bullseye Customer Sprints is before a team invests a lot of time, money, or reputational risk into building, launching, and marketing an MVP, or before a company expands into a new customer segment. The ROI of customer research is greatest when the risk and cost of building the wrong product are high, such as for hardware, hard tech, healthcare, or any other complex product or service. But even when it’s easy to build an MVP to launch and learn, sunk cost fallacy can undermine a team’s objectivity and willingness to scrap their work. Why risk making a bad first impression when it’s easy to find and fix problems before launch?"  *Learn More Faster* is available free in its entirety from Google Ventures, so you can start exploring it right away. | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise.io/reader/fd/178750274) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Handpicked RSS feed of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Human, being](https://erinnystrom.substack.com/) | | In her Substack, Erin Nystrom draws on her health and wellness journey and outdoor adventures to explore the human experience. From [motion vs. action](https://wise.readwise.io/save?url=https://substack.com/home/post/p-153546794?source=queue): "Motion is the ideation, planning, and learning stage. The stage where you’re scrolling Pinterest, making vision boards, watching YouTube, listening to podcasts, reading books, etc. Motion, as I well know, is a dangerous place to be. It feels like you’re doing something, but all the while, the needle isn’t moving an inch. Motion doesn’t produce any results. But it spikes your dopamine just as if it had, which is why it’s so easy to stay there: it feels good without any of the risk. Action is scary." | | |  | | --- | | [🌐  Subscribe to RSS feed in Reader](https://wise.readwise.io/subscribe?url=https%3A//erinnystrom.substack.com/feed) | | | | |
+
+ 
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | | |  | | --- | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | You're receiving this Weekly Wisereads email newsletter because you signed up for [Readwise Reader](https://readwise.io/read). [Click here to unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) from these emails going forward. Readwise 5540 Centerview Drive, Suite 204 Raleigh, NC 27606 | | |
+
+![](https://ea.pstmrk.it/open?m=v3_1.LzFWa-KAHufqUJex3OiG0Q.Mu1x5cpp8whrqwm3GRTBkkYz8Ta-IJ4zf7ZqY1i1R2seUwkTBNcj7y3dAKODXpHdFPFjmFKTzhj6-XYTGVjg-Un-73od9hodbAGZncLz0jwQL27r9g4ucdw6PZPUPO50N1QUafUdK3XsyFeDs3RTZMPEvZo4FPsntSRZ2UBLnVQckPKhaFybZTMmAgtG9XKSSpSiCfFzL55CU2wp6FdUmsajn9ht1hXkbwdHCzGF7quZzoTTFVbX_5pNqv8HSKNRm9MXbC3WvZFzmYQsBfyZxTDNZlYmLFkefhxafC9Tv62LXcLbEsJiZqa-mLrszpQzdFzJ6r6XF6e7F5TSSQcOtxT1UQZ6qWNM7cXowkCRXac6f9gr3jbqlkgWUP93imUKDZ38T6s8P-Ye_sYHXNwUXYcrR99BpC9OF-Nsfbx0m0O9PclFFjuZnbLn2OIwLo4Q9DRU11c8HxzESwXNkThrXBLGO5rzyEHNr9AlONEQoYhi7WwPsWDgofaSTbZFyQxupVLo5DoXqQ1XgE0SGXKTDFWifGKR96v7wwK12nyhh0gVbrdXq-IUSmH1ZpNaoj2LDQdpR7eMBjMU8PfM46F29YkJB5uxB0awAoUJCz01eEw)

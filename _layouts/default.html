@@ -5,6 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
+  <script>
+    (function() {
+      var savedTheme = localStorage.getItem('user-theme');
+      if (savedTheme === 'dark' || savedTheme === 'light') {
+        document.documentElement.setAttribute('data-theme', savedTheme);
+      } else {
+        document.documentElement.removeAttribute('data-theme');
+      }
+    })();
+  </script>
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   {% seo %}
 </head>
@@ -16,6 +26,19 @@
         <div class="logo-icon">📬</div>
         <div class="logo-text">Newsletter<span>Pulse</span></div>
       </a>
+
+      <!-- Theme Switcher -->
+      <div class="theme-toggle-wrapper">
+        <button id="theme-btn" class="theme-toggle-btn" aria-label="Toggle Theme">
+          <span id="theme-btn-icon">💻</span>
+          <span id="theme-btn-text">System</span>
+        </button>
+        <div id="theme-menu" class="theme-menu">
+          <button class="theme-option" data-theme-val="system">💻 System</button>
+          <button class="theme-option" data-theme-val="dark">🌙 Dark</button>
+          <button class="theme-option" data-theme-val="light">🌞 Light</button>
+        </div>
+      </div>
     </div>
   </header>
 
@@ -26,6 +49,67 @@
   <footer class="site-footer">
     <p>© {{ 'now' | date: "%Y" }} {{ site.title }}. Powered by Automated Gmail & GitHub Pages Pipeline.</p>
   </footer>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var themeBtn = document.getElementById('theme-btn');
+      var themeMenu = document.getElementById('theme-menu');
+      var themeBtnIcon = document.getElementById('theme-btn-icon');
+      var themeBtnText = document.getElementById('theme-btn-text');
+      var themeOptions = document.querySelectorAll('.theme-option');
+
+      function updateThemeUI(theme) {
+        if (theme === 'dark') {
+          document.documentElement.setAttribute('data-theme', 'dark');
+          themeBtnIcon.textContent = '🌙';
+          themeBtnText.textContent = 'Dark';
+        } else if (theme === 'light') {
+          document.documentElement.setAttribute('data-theme', 'light');
+          themeBtnIcon.textContent = '🌞';
+          themeBtnText.textContent = 'Light';
+        } else {
+          document.documentElement.removeAttribute('data-theme');
+          themeBtnIcon.textContent = '💻';
+          themeBtnText.textContent = 'System';
+        }
+
+        themeOptions.forEach(function(opt) {
+          if (opt.getAttribute('data-theme-val') === (theme || 'system')) {
+            opt.classList.add('active');
+          } else {
+            opt.classList.remove('active');
+          }
+        });
+      }
+
+      var saved = localStorage.getItem('user-theme') || 'system';
+      updateThemeUI(saved);
+
+      themeBtn.addEventListener('click', function(e) {
+        e.stopPropagation();
+        themeMenu.classList.toggle('active');
+      });
+
+      document.addEventListener('click', function() {
+        themeMenu.classList.remove('active');
+      });
+
+      themeOptions.forEach(function(opt) {
+        opt.addEventListener('click', function(e) {
+          e.stopPropagation();
+          var val = this.getAttribute('data-theme-val');
+          if (val === 'system') {
+            localStorage.removeItem('user-theme');
+            updateThemeUI('system');
+          } else {
+            localStorage.setItem('user-theme', val);
+            updateThemeUI(val);
+          }
+          themeMenu.classList.remove('active');
+        });
+      });
+    });
+  </script>
 
 </body>
 </html>

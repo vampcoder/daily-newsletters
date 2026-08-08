@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 """
-main.py - Automated Gmail Newsletter to GitHub Pages Pipeline with Smart Filtering & Rich Tile Metadata.
+main.py - Automated Gmail Newsletter to GitHub Pages Pipeline with LLM Curation, Polishing & Dynamic Categorization.
 
-Fetches unread newsletter emails from Gmail, filters out promotional spam,
-extracts featured images or assigns gradient themes, detects teaser summaries vs full articles,
+Fetches unread newsletter emails from Gmail, uses a 2-Stage LLM Pipeline (LiteLLM + DeepSeek/OpenAI compatible)
+to filter spam, generate catchy titles, extract 💡 key takeaways, assign dynamic categories,
 converts content to Jekyll Markdown with rich front-matter, publishes to GitHub, and marks emails as read.
 """
 
 import base64
 import hashlib
+import json
 import os
 import re
 import subprocess
@@ -27,6 +28,12 @@ from googleapiclient.discovery import build
 from github import Github, Auth, GithubException, UnknownObjectException
 import markdownify
 import schedule
+from pydantic import BaseModel, Field
+
+try:
+    import litellm
+except ImportError:
+    litellm = None
 
 # Load local .env file if available
 load_dotenv()
@@ -38,6 +45,13 @@ CREDENTIALS_FILE = Path(os.getenv('CREDENTIALS_FILE', 'credentials.json'))
 FETCH_INTERVAL_HOURS = int(os.getenv('FETCH_INTERVAL_HOURS', '4'))
 POSTS_DIR = os.getenv('POSTS_DIR', '_posts').strip('/')
 DRY_RUN = os.getenv('DRY_RUN', 'false').lower() in ('true', '1', 'yes')
+
+# LLM Configuration (DeepSeek / OpenAI compatible via LiteLLM)
+LLM_API_KEY = os.getenv('LLM_API_KEY')
+LLM_MODEL = os.getenv('LLM_MODEL', 'deepseek/deepseek-chat')
+LLM_API_BASE = os.getenv('LLM_API_BASE', 'https://api.deepseek.com')
+ENABLE_LLM_CURATION = os.getenv('ENABLE_LLM_CURATION', 'true').lower() in ('true', '1', 'yes')
+MIN_RELEVANCE_SCORE = int(os.getenv('MIN_RELEVANCE_SCORE', '6'))
 
 # Curated gradient palettes for fallback tile image headers
 THEME_GRADIENTS = [
@@ -51,12 +65,27 @@ THEME_GRADIENTS = [
     "linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)"
 ]
 
-# Spam / Promo filtering patterns
+# Rule-based Spam / Promo filtering patterns (Pre-filter before LLM)
 PROMO_KEYWORDS = [
     r'\b% off\b', r'\bdiscount\b', r'\bsale\b', r'\bcoupon\b', r'\bpromo code\b',
     r'\blimited time offer\b', r'\bbuy now\b', r'\bblack friday\b', r'\bcyber monday\b',
     r'\bsponsored\b', r'\bfree trial\b', r'\bcheckout\b', r'\border summary\b', r'\binvoice\b'
 ]
+
+
+# Pydantic Schemas for Structured LLM Outputs
+class CurationDecision(BaseModel):
+    should_publish: bool = Field(description="True if email is a high quality newsletter worth reading, False if spam or marketing")
+    relevance_score: int = Field(description="Relevance score from 1 (spam/promotional) to 10 (exceptional quality)")
+    reason: str = Field(description="Brief rationale for curation decision")
+
+
+class PolishedNewsletter(BaseModel):
+    polished_title: str = Field(description="Catchy, professional, and clear post title")
+    category: str = Field(description="Concise 1-3 word category. Pick from existing_categories if appropriate or invent a fitting new one")
+    executive_summary: str = Field(description="2-3 sentence overview summary for preview tile card")
+    key_takeaways: list[str] = Field(description="3-5 bullet point takeaways summarizing key insights")
+    cleaned_markdown: str = Field(description="Cleaned post body in Markdown, removing footers, sponsor ads, unsubscribe links")
 
 
 def get_github_token():
@@ -178,7 +207,6 @@ def extract_featured_image(soup):
         if not src or not src.startswith('http'):
             continue
 
-        # Skip tracking pixels and tiny icons
         width = img.get('width')
         height = img.get('height')
         if width and (width == '1' or width == '0'):
@@ -223,7 +251,6 @@ def detect_summary_and_cta(soup, subject):
             is_summary = True
             break
 
-    # If body text is short (< 300 chars) and contains links, mark as summary
     text_content = soup.get_text().strip()
     if len(text_content) < 400 and links:
         is_summary = True
@@ -261,27 +288,145 @@ def extract_newsletter_source(sender):
     return sender or "Newsletter"
 
 
-def build_jekyll_markdown(subject, sender, email_dt, raw_html):
-    """Clean HTML, extract metadata, convert body to Markdown, and return Jekyll doc."""
+def get_existing_categories(posts_directory=POSTS_DIR):
+    """Scan existing Markdown posts in _posts/ and collect all assigned categories."""
+    categories = set()
+    posts_path = Path(posts_directory)
+    if not posts_path.exists():
+        return list(categories)
+
+    for file_path in posts_path.glob("*.md"):
+        try:
+            content = file_path.read_text(encoding="utf-8")
+            match = re.search(r'^category:\s*"([^"]+)"', content, re.MULTILINE) or re.search(r'^category:\s*(.+)$', content, re.MULTILINE)
+            if match:
+                cat = match.group(1).strip().strip('"\'')
+                if cat:
+                    categories.add(cat)
+        except Exception:
+            pass
+    return sorted(list(categories))
+
+
+def curate_newsletter_with_llm(subject, sender, body_preview):
+    """Stage 1: Lightweight LLM Curation Gate (~150 tokens)."""
+    if not ENABLE_LLM_CURATION or not LLM_API_KEY or not litellm:
+        return True, 7, "LLM curation disabled or API key missing."
+
+    prompt = f"""You are an elite AI editor curating a technical and professional newsletter archive.
+Evaluate the following email to decide whether it is a valuable, informative newsletter worth publishing.
+
+Sender: {sender}
+Subject: {subject}
+Content Preview: {body_preview[:800]}
+
+Rules:
+- Mark should_publish=false for promotional offers, sales blasts, discount codes, receipts, billing alerts, webinars, or low-value marketing ads.
+- Mark should_publish=true for informative tech, engineering, finance, business, science, AI, or insightful personal essays.
+- Rate relevance_score from 1 (garbage) to 10 (exceptional quality).
+"""
+
+    try:
+        kwargs = {
+            "model": LLM_MODEL,
+            "messages": [{"role": "user", "content": prompt}],
+            "api_key": LLM_API_KEY,
+            "response_format": CurationDecision
+        }
+        if LLM_API_BASE:
+            kwargs["api_base"] = LLM_API_BASE
+
+        response = litellm.completion(**kwargs)
+        raw_content = response.choices[0].message.content
+        decision = CurationDecision.model_validate_json(raw_content)
+        return decision.should_publish, decision.relevance_score, decision.reason
+    except Exception as err:
+        print(f"[WARNING] LLM Curation Stage 1 error ({err}). Falling back to rule decision.")
+        return True, 7, f"Fallback due to error: {err}"
+
+
+def polish_newsletter_with_llm(subject, body_text, existing_categories):
+    """Stage 2: Polish title, extract key takeaways, assign dynamic category, and clean body."""
+    if not ENABLE_LLM_CURATION or not LLM_API_KEY or not litellm:
+        return None
+
+    cats_str = ", ".join(existing_categories) if existing_categories else "None yet"
+
+    prompt = f"""You are an expert technical editor polishing a newsletter post for a web archive.
+
+Subject: {subject}
+Existing Categories in Repository: [{cats_str}]
+
+Full Body Text:
+{body_text[:4000]}
+
+Instructions:
+1. polished_title: Create a clean, catchy, reader-friendly title.
+2. category: Select the best category for this content. You MUST pick an existing category from [{cats_str}] if it fits closely, OR create a concise new category (1-3 words) if none of the existing ones fit.
+3. executive_summary: Write a 2-3 sentence overview summary suitable for a card preview.
+4. key_takeaways: Extract 3 to 5 core bullet point takeaways or key insights.
+5. cleaned_markdown: Clean up the newsletter markdown. Remove unsubscribe footers, email headers, sponsor ads, and tracking clutter. Keep all informative main content intact.
+"""
+
+    try:
+        kwargs = {
+            "model": LLM_MODEL,
+            "messages": [{"role": "user", "content": prompt}],
+            "api_key": LLM_API_KEY,
+            "response_format": PolishedNewsletter
+        }
+        if LLM_API_BASE:
+            kwargs["api_base"] = LLM_API_BASE
+
+        response = litellm.completion(**kwargs)
+        raw_content = response.choices[0].message.content
+        return PolishedNewsletter.model_validate_json(raw_content)
+    except Exception as err:
+        print(f"[WARNING] LLM Polishing Stage 2 error ({err}).")
+        return None
+
+
+def build_jekyll_markdown(subject, sender, email_dt, raw_html, existing_categories=None):
+    """Clean HTML, extract metadata, run LLM enrichment if enabled, and return Jekyll doc."""
     soup = clean_html(raw_html)
 
     featured_image = extract_featured_image(soup)
     gradient_theme = get_gradient_theme(subject)
     is_summary, original_url = detect_summary_and_cta(soup, subject)
-    excerpt = extract_excerpt(soup)
+    default_excerpt = extract_excerpt(soup)
     source_name = extract_newsletter_source(sender)
 
     # Convert cleaned HTML body to Markdown
-    markdown_content = markdownify.markdownify(
+    raw_markdown_content = markdownify.markdownify(
         str(soup),
         heading_style="ATX",
         strip=['script', 'style']
     ).strip()
 
+    # Stage 2 LLM Polishing & Dynamic Categorization
+    polished_title = subject
+    assigned_category = "General"
+    executive_summary = default_excerpt
+    key_takeaways = []
+    final_body_markdown = raw_markdown_content
+
+    if ENABLE_LLM_CURATION and LLM_API_KEY and litellm:
+        polished_result = polish_newsletter_with_llm(
+            subject, raw_markdown_content, existing_categories or []
+        )
+        if polished_result:
+            polished_title = polished_result.polished_title or subject
+            assigned_category = polished_result.category or "General"
+            executive_summary = polished_result.executive_summary or default_excerpt
+            key_takeaways = polished_result.key_takeaways or []
+            if polished_result.cleaned_markdown and len(polished_result.cleaned_markdown) > 50:
+                final_body_markdown = polished_result.cleaned_markdown
+
     formatted_date = email_dt.strftime('%Y-%m-%d %H:%M:%S %z')
-    escaped_title = subject.replace('"', '\\"')
-    escaped_excerpt = excerpt.replace('"', '\\"')
+    escaped_title = polished_title.replace('"', '\\"')
+    escaped_excerpt = executive_summary.replace('"', '\\"')
     escaped_source = source_name.replace('"', '\\"')
+    escaped_category = assigned_category.replace('"', '\\"')
 
     front_matter_lines = [
         "---",
@@ -289,6 +434,7 @@ def build_jekyll_markdown(subject, sender, email_dt, raw_html):
         f'title: "{escaped_title}"',
         f"date: {formatted_date}",
         f'source: "{escaped_source}"',
+        f'category: "{escaped_category}"',
         f'excerpt: "{escaped_excerpt}"',
         f'theme_gradient: "{gradient_theme}"',
     ]
@@ -300,9 +446,16 @@ def build_jekyll_markdown(subject, sender, email_dt, raw_html):
         front_matter_lines.append(f'original_url: "{original_url}"')
 
     front_matter_lines.append(f'is_summary: {"true" if is_summary else "false"}')
+
+    if key_takeaways:
+        front_matter_lines.append("key_takeaways:")
+        for t in key_takeaways:
+            escaped_t = t.replace('"', '\\"')
+            front_matter_lines.append(f'  - "{escaped_t}"')
+
     front_matter_lines.append("---\n\n")
 
-    return "\n".join(front_matter_lines) + markdown_content, is_summary, excerpt, featured_image
+    return "\n".join(front_matter_lines) + final_body_markdown, is_summary, executive_summary, featured_image
 
 
 def publish_to_github(repo, filename, content, subject):
@@ -327,14 +480,24 @@ def publish_to_github(repo, filename, content, subject):
             sha=existing_file.sha
         )
         print(f"[SUCCESS] Updated post on GitHub: {path}")
-    except (UnknownObjectException, GithubException):
-        print(f"[INFO] Creating new post on GitHub: {path}")
-        repo.create_file(
-            path=path,
-            message=commit_message,
-            content=content
-        )
-        print(f"[SUCCESS] Created post on GitHub: {path}")
+    except (UnknownObjectException, GithubException) as ge:
+        if getattr(ge, 'status', None) in (404,):
+            print(f"[INFO] Creating new post on GitHub: {path}")
+            try:
+                repo.create_file(path=path, message=commit_message, content=content)
+                print(f"[SUCCESS] Created post on GitHub: {path}")
+                return
+            except Exception as create_err:
+                print(f"[WARNING] Create file failed ({create_err}), attempting update fallback...")
+
+        # SHA mismatch or conflict fallback: fetch latest sha and update
+        try:
+            latest = repo.get_contents(path)
+            repo.update_file(path=path, message=f"Update newsletter: {subject}", content=content, sha=latest.sha)
+            print(f"[SUCCESS] Updated post on GitHub (with fresh SHA): {path}")
+        except Exception as err:
+            print(f"[ERROR] Could not publish post '{path}' to GitHub: {err}")
+
 
 
 def mark_email_as_read(service, msg_id):
@@ -352,7 +515,7 @@ def mark_email_as_read(service, msg_id):
 
 
 def process_inbox():
-    """Main execution job to query, filter, parse, convert, and publish newsletters."""
+    """Main execution job to query, filter, LLM curate/polish, convert, and publish newsletters."""
     print(f"\n[{datetime.now().isoformat()}] Starting newsletter processing run...")
 
     try:
@@ -371,6 +534,9 @@ def process_inbox():
             print("[INFO] Running in local file save mode.")
 
     try:
+        existing_categories = get_existing_categories()
+        print(f"[INFO] Found {len(existing_categories)} existing categories: {existing_categories}")
+
         results = service.users().messages().list(
             userId='me',
             q='label:newsletter is:unread'
@@ -402,16 +568,25 @@ def process_inbox():
 
                 raw_html = parse_email_parts(payload)
 
-                # Spam & Promotional Filtering
+                # Rule-based Pre-Filter
                 if is_promotional_email(subject, sender, raw_html):
-                    print(f"[SKIP] Promotional / Spam email skipped: '{subject}' ({msg_id})")
+                    print(f"[SKIP] Pre-filter promotional email skipped: '{subject}' ({msg_id})")
                     mark_email_as_read(service, msg_id)
                     continue
+
+                # Stage 1: LLM Curation Gate
+                if ENABLE_LLM_CURATION and LLM_API_KEY and litellm:
+                    should_pub, score, reason = curate_newsletter_with_llm(subject, sender, raw_html)
+                    print(f"[LLM-GATE] Score: {score}/10 | Publish: {should_pub} | Rationale: {reason}")
+                    if not should_pub or score < MIN_RELEVANCE_SCORE:
+                        print(f"[SKIP] LLM Curation filtered out low relevance email: '{subject}'")
+                        mark_email_as_read(service, msg_id)
+                        continue
 
                 print(f"[INFO] Processing newsletter: '{subject}' ({msg_id})")
 
                 markdown_doc, is_summary, excerpt, img_url = build_jekyll_markdown(
-                    subject, sender, email_dt, raw_html
+                    subject, sender, email_dt, raw_html, existing_categories
                 )
 
                 date_prefix = email_dt.strftime('%Y-%m-%d')
@@ -426,7 +601,7 @@ def process_inbox():
                 print(f"[ERROR] Failed to process email ID '{msg_id}': {item_err}")
 
     except Exception as batch_err:
-        print(f"[ERROR] Batch execution error: {batch_err}")
+                print(f"[ERROR] Batch execution error: {batch_err}")
 
 
 def main():
@@ -436,6 +611,10 @@ def main():
     print(f"[CONFIG] Target Repo: {GITHUB_REPO}")
     print(f"[CONFIG] Post Directory: {POSTS_DIR}")
     print(f"[CONFIG] Schedule Interval: Every {FETCH_INTERVAL_HOURS} hour(s)")
+    print(f"[CONFIG] LLM Curation Enabled: {ENABLE_LLM_CURATION}")
+    if ENABLE_LLM_CURATION:
+        print(f"[CONFIG] LLM Model: {LLM_MODEL}")
+        print(f"[CONFIG] Min Relevance Score: {MIN_RELEVANCE_SCORE}")
     if DRY_RUN:
         print("[CONFIG] Mode: DRY_RUN (saving files locally)")
 

@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Wisereads Vol. 82 — From Start-Up to Grown-Up by Alisa Cohn, John Rush on MCP, and more"
+date: 2025-03-16 17:58:23 +0000
+source: "Readwise"
+category: "General"
+excerpt: "Last week, we shared an exclusive three-chapter excerpt of Hit Reverse: New Ideas from Old Books by Jash Dholani. This week, we're sharing a preview of From Start-Up to Grown-Up..."
+theme_gradient: "linear-gradient(135deg, #0284c7 0%, #0d9488 100%)"
+image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
+is_summary: false
+---
+
+Last week, we shared an exclusive three-chapter excerpt of Hit Reverse: New Ideas from Old Books by Jash Dholani. This week, we're sharing a preview of From Start-Up to Grown-Up: Grow Your Leadership to Grow Your Business by executive coach Alisa Cohn—a guide for founders and CEOs to scale their business by scaling themselves.
+Keep reading to add to your Reader account below 👇
+As a reminder, you can also explore and save our community's most highlighted content inside Reader. If this content in general isn't your vibe, please feel free to unsubscribe altogether.
+Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Readwise | | |  |  |  | | --- | --- | | |  | | --- | | [Open in Reader](https://wise.readwise.io/save?url=https%3A//wise.readwise.io/issues/wisereads-vol-82) | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Weekly Wisereads | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Wisereads Vol. 82 — From Start-Up to Grown-Up by Alisa Cohn, John Rush on MCP, and more | | Last week, we shared an exclusive three-chapter excerpt of *Hit Reverse: New Ideas from Old Books* by Jash Dholani. This week, we're sharing a preview of *From Start-Up to Grown-Up: Grow Your Leadership to Grow Your Business* by executive coach Alisa Cohn—a guide for founders and CEOs to scale their business by scaling themselves.  Keep reading to add to your Reader account below 👇  As a reminder, you can also [explore and save our community's most highlighted content](https://read.readwise.io/discover) inside Reader. If this content in general isn't your vibe, please feel free to [unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) altogether.  Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂 | | | |
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Articles of the week | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Oaktree Capital | | | [Gimme Credit](https://www.oaktreecapital.com/insights/memo/gimme-credit/) | | Howard Marks · 16 mins | | Howard Marks of Oaktree Capital weighs in on the unusually narrow yield spread—290 bps versus the 350 bps average—and its implications for investors navigating debt and equity markets. "Why would someone lend money to a risky borrower when there are plenty of safe borrowers to lend to? The answer is that risky borrowers pay more for their money, and if you can charge a risky borrower an interest rate that’s high enough to produce a return above that available on safe debt, even after allowing for expected credit losses, it could be worth taking the risk... The differential between the promised yield on risky debt and the yield on a less risky comparator is called a 'yield spread.'" | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.oaktreecapital.com/insights/memo/gimme-credit/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | thedankoe.com | | | [Why You Fail At Almost Everything You Do](https://thedankoe.com/letters/why-you-fail-at-almost-everything-you-do/) | | Dan Koe · 13 mins | | Rather than relying on someone else’s map, Dan Koe offers a framework for forging your own—one shaped by failure and self-discovery. "What is your relationship with failure? Do you see that as the only source of reliable information to base your decisions on? Or do you see it as a reason to crawl back into your hole and give up? Do you not realize that growth is like being a lobster? That it is painful to grow too big for your shell. And if you don’t remove it, the pain only intensifies until death." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//thedankoe.com/letters/why-you-fail-at-almost-everything-you-do/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Simonwillison.net | | | [Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/) | | Simon Willison · 18 mins | | Co-creator of Django and former Eventbrite engineering director Simon Willison shares how he uses LLMs to speed up development, dictating simple tasks in natural language rather than typing out code. "If your reaction to this is 'surely typing out the code is faster than typing out an English instruction of it', all I can tell you is that it really isn’t for me any more. Code needs to be correct. English has enormous room for shortcuts, and vagaries, and typos, and saying things like 'use that popular HTTP library' if you can’t remember the name off the top of your head." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//simonwillison.net/2025/Mar/11/using-llms-for-code/) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted YouTube Video of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Technology isn't fun anymore](https://www.youtube.com/watch?v=P-TANCVoHlc) | | Drew Gooden · 26 mins | | Blackout restrictions, default motion smoothing, and overpriced, unreliable gadgets—YouTuber Drew Gooden is exhausted. With goofy humor and sharp storytelling, he explores the highs and lows of modern tech. "For every OLED Steam Deck and surprisingly powerful tiny Mac computer, there seemed to be 10 wearable AI companions or a TV that's free because it never stops showing you ads. Or what if you could wear your phone on your head so it could never stop showing you ads?" | | |  | | --- | | [➕  Add video to Reader](https://wise.readwise.io/save?url=https%3A//www.youtube.com/watch%3Fv%3DP-TANCVoHlc) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Twitter Thread of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [What is MCP & why it's a big (huge) deal](https://x.com/johnrushx/status/1897655569101779201/?rw_tt_thread=True) | | John Rush · 2 mins | | The introduction of Model Context Protocols (MCP) allows AI tools to integrate with external services like Gmail and Weather in a standardized way, explains entrepreneur John Rush: "Imagine 10k AI tools and 10k external tools now all have to implement MCP just once each. So it's 20k implementations. Versus 10k\*10k=100M implementations." | | |  | | --- | | [➕  Add tweet to Reader](https://wise.readwise.io/save?url=https%3A//x.com/johnrushx/status/1897655569101779201/%3Frw_tt_thread%3DTrue) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted PDF of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Age and cognitive skills: Use it or lose it](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/age-and-cognitive-skills-use-i/sciadv.ads1560.pdf) | | Eric Hanushek, Lavinia Kinne, Frauke Witthöft, Ludger Woessmann · 40 mins | | Researchers studying cognition and aging find that reading, writing, and math skills can keep improving when used regularly in daily life or work—hopeful news for economies with aging populations. "Notably, those with above-­median usage of each respective skill on average never show a decline in skills in the observed age range. Their skills increase steeply into the fifties and then flatten out, with no indication of average decline. By contrast, for those with below-­median usage, skill decline begins in their mid-­thirties." | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise-assets.s3.amazonaws.com/media/wisereads/articles/age-and-cognitive-skills-use-i/sciadv.ads1560.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Hand-picked book of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [From Start-Up to Grown-Up](https://readwise.io/reader/fd/281335685) | | Alisa Cohn | | You had the vision and skills to launch your start-up, but to truly scale, you need to lead your team—to inspire and empower them, while also managing them. That's where executive coach Alisa Cohn comes in. Having advised top companies like Google, Venmo, and DraftKings, her book *From Start-Up to Grown-Up*offers strategic leadership advice and pragmatic tools to help you grow.  "As a founder, you need to be mentally, physically, and emotionally prepared to deal with the problems that you’ll inevitably face, and your peak performance can only come from both a combination of physical well-being and a positive mental state. They feed each other, of course, but they are also separate things. You have to nourish yourself physically to have the stamina for the long game."  Though written for founders and CEOs, the lessons in this preview apply to any high-performer looking to manage themselves better and amplify their impact. If you enjoy the excerpt, we invite you to [purchase *From Start-Up to Grown-Up*](bit.ly/41ERoor). Don't miss Alisa's special resources: 1) scripts for delicate conversations; 2) a personal operating manual to help you and your team get to know each other better; and 3) a co-founder prenup to help you build alignment with your co-founder. You can grab them at [AlisaCohn.com/readwise](http://alisacohn.com/readwise). | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise.io/reader/fd/281335685) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Handpicked RSS feed of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Thinking Deep & Wide](https://greg210.substack.com/) | | Greg Wheeler’s Substack, *Thinking Deep & Wide*, takes a thoughtful and playful approach to note-taking. What do beard balms and Zettelkastens have in common? Subscribe to find out. From [This Habit Will Outlast Every Notes App](https://wise.readwise.io/save?url=https://greg210.substack.com/p/this-habit-will-outlast-every-notes): "The key to unlocking creativity and growth isn’t found in the next app—it’s in how you engage with what you already have. This is why the Zettelkasten method works so well. It’s not about finding the perfect tool; it’s about developing a habit of thinking through writing—turning fleeting insights into a growing web of understanding." | | |  | | --- | | [🌐  Subscribe to RSS feed in Reader](https://wise.readwise.io/subscribe?url=https%3A//greg210.substack.com/feed) | | | | |
+
+ 
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | | |  | | --- | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | You're receiving this Weekly Wisereads email newsletter because you signed up for [Readwise Reader](https://readwise.io/read). [Click here to unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) from these emails going forward. Readwise 5540 Centerview Drive, Suite 204 Raleigh, NC 27606 | | |
+
+![](https://ea.pstmrk.it/open?m=v3_1.RHpmQ69EXT7tEaMbsmIVbg.-xQ5-aumtw4R8RO0buLiNGtQ9Zn7amZMSHXmoKcwNfAJsA6yVxDfF9ij4HMwrf6H2hky6ha7-PF3NgiafVfyQc3TdSWc4nT39nH1KAAfqQ6Ol_g8rEd4eqd5T5xqYzmzQrmn2d2Gqoqojy4xSoqRSNahy8AeHf3TaZeQ7yeEKsi2yofrgHAvWeLWDp9MjrZlv_53IbRntIxT2szA6OswqIv6Xs-EJQNiYOSlv49levZKmeybDMLwkN0tWRgLH-GKul7as-yy01TGI1wIsEeYuZmB4ECZoVMRgbHS3pKgHdm5ZYXdp7ceM5ptGir10mdrttj4FjFFTo_Vq0jIEOSC-SH8jj1km0vXBD9HaJGEOoK23-W3v77sSsozyBY2Ys0P0nedRzK3dt2fyNnZYAbrwbhlIP4L8o0bLacoB0stRlD0t8ZHAs6ms225gYOKQ2-qzCuQ706IE0wS_Vh0_HDluEMuod83FHy7wFNK9L9zp12N3_esmxFP0ALlzCFcgDQJRxUiZ1moext_sIut0nNqA5utDPw5nqv7MmAbLEKU6HOi28Bk0aJptTTBXnQX0z1_THqfmasV4fIpweuzIL_yLA)

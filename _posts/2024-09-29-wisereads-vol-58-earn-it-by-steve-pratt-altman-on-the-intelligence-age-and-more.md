@@ -1,0 +1,91 @@
+---
+layout: post
+title: "Wisereads Vol. 58 — Earn It by Steve Pratt, Altman on the Intelligence Age, and more"
+date: 2024-09-29 19:58:56 +0000
+source: "Readwise"
+category: "General"
+excerpt: "🚨 PSA: We're actively seeking testers willing to participate in 30- to 40-minute prototype walkthroughs of some new features we're building. If you're interested, please let us ..."
+theme_gradient: "linear-gradient(135deg, #059669 0%, #10b981 100%)"
+image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
+is_summary: false
+---
+
+🚨 PSA: We're actively seeking testers willing to participate in 30- to 40-minute prototype walkthroughs of some new features we're building. If you're interested, please let us know by filling out this form 🙂
+Last week, we shared H. G. Wells' alien invasion tale, The War of the Worlds. This week, we're sharing a preview of Earn It, Steve Pratt's marketing handbook on creating valuable content to attract a loyal audience.
+Keep reading to add to your Reader account below 👇
+As a reminder, if email isn't your thing, you can instead subscribe to the RSS feed. If this content in general isn't your vibe, please feel free to unsubscribe altogether.
+Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Readwise | | |  |  |  | | --- | --- | | |  | | --- | | [Open in Reader](https://wise.readwise.io/save?url=https%3A//wise.readwise.io/issues/wisereads-vol-58) | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Weekly Wisereads | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Wisereads Vol. 58 — Earn It by Steve Pratt, Altman on the Intelligence Age, and more | | **🚨 PSA: We're actively seeking testers willing to participate in 30- to 40-minute prototype walkthroughs of some new features we're building. If you're interested, please let us know by [filling out this form](https://readwise.typeform.com/to/z6O1jecJ) 🙂**  Last week, we shared H. G. Wells' alien invasion tale, *The War of the Worlds*. This week, we're sharing a preview of *Earn It*, Steve Pratt's marketing handbook on creating valuable content to attract a loyal audience.  Keep reading to add to your Reader account below 👇  As a reminder, if email isn't your thing, you can instead [subscribe to the RSS feed](https://wise.readwise.io/subscribe?url=https://wise.readwise.io/feed/). If this content in general isn't your vibe, please feel free to [unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) altogether.  Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂 | | | |
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Articles of the week | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | ia.samaltman.com | | | [The Intelligence Age](https://ia.samaltman.com/) | | Sam Altman · 5 mins | | Days before rumors surfaced about OpenAI transitioning to a for-profit model, founder Sam Altman penned a visionary manifesto about the (near?) future of artificial intelligence. "Here is one narrow way to look at human history: after thousands of years of compounding scientific discovery and technological progress, we have figured out how to melt sand, add some impurities, arrange it with astonishing precision at extraordinarily tiny scale into computer chips, run energy through it, and end up with systems capable of creating increasingly capable artificial intelligence. This may turn out to be the most consequential fact about all of history so far." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//ia.samaltman.com/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | The Walrus | | | [The Collapse of Self-Worth in the Digital Age](https://thewalrus.ca/collapse-of-self-worth-in-the-digital-age/) | | Thea Lim · 13 mins | | [*An Ocean of Minutes*](https://www.amazon.com/Ocean-Minutes-Novel-Thea-Lim/dp/1501192566?qid=&sr=) author Thea Lim reflects on the sea of stats that tries to quantify creativity—a contemporary author's struggle to make a living from art. "I wanted to write my publicist to ask: Should I be worried my stats aren’t higher?... But I never did. I was too embarrassed. I had trained in the religion of art, and to pay mind to the reception of my work was to be a non-believer." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//thewalrus.ca/collapse-of-self-worth-in-the-digital-age/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | ukfoundations.co | | | [Why Britain has stagnated](https://ukfoundations.co/) | | Ben Southwood, Samuel Hughes, and Sam Bowman · 1 hr and 4 mins | | A thoughtful and well-researched essay examines why Britain's productivity growth has lagged behind other nations like France. "For centuries, Britain had a development control system that supported urban growth in the places with the most successful industries, as well as building beautiful cities that we treasure today. Since 1947, however, Britain has had probably the most restrictive development control system in the world. This has held back our strongest sectors and businesses and stopped people from moving to the places with the best jobs." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//ukfoundations.co/) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted YouTube Video of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Exposing The Flaw In Our Phone System](https://www.youtube.com/watch?v=wVyu7NB7W6Y) | | Veritasium · 32 mins | | Linus from Tech Tips watches as Veritasium demonstrates intercepting a call meant for his phone by exploiting a vulnerability in the default protocol for messages between cell networks. "But this isn't the only attack. We can do a lot more with SS7. We can also intercept text messages as part of our suite of attacks. Similar to phone calls, we can trick the network into thinking the target is roaming, which reroutes their messages to our GT. We can then steal one time passwords used in two factor authentication." | | |  | | --- | | [➕  Add video to Reader](https://wise.readwise.io/save?url=https%3A//www.youtube.com/watch%3Fv%3DwVyu7NB7W6Y) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Twitter Thread of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [This guy found the secret to dominating any field](https://x.com/hosun_chung/status/1838008447545299244/?rw_tt_thread=True) | | Hosun · 2 mins | | Drawing insights from Josh Waitzkin, a chess prodigy and martial arts champion, Hosun Chung explores the "Downward Spiral" technique. "Resistance amplifies negative emotions. Acceptance diffuses them. It's like quicksand: The more you fight, the deeper you sink. Waitzkin's method observes the struggle without judgment. This creates mental space for solutions to emerge naturally." | | |  | | --- | | [➕  Add tweet to Reader](https://wise.readwise.io/save?url=https%3A//x.com/hosun_chung/status/1838008447545299244/%3Frw_tt_thread%3DTrue) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted PDF of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Learning 101: The Untaught Basics](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/learning-101-the-untaught-basi/147253.pdf) | | Junaid Qadir and Muhammad Imran · 16 mins | | Instead of cramming and rereading, researchers recommend that aspiring learners adopt a growth mindset, space out and interleave their practice, and recognize that fluency doesn't equal mastery. "There is no formula for the complex process of learning, but if we had to come up with simple one, 'Mastery = Understanding + Repetition (In Varied Settings)' would be a good candidate. The learning potency of variety is also demonstrated in the empirical efﬁcacy of interleaving (i.e., interspersing various topics together) and the positive interleaving effect can be explained on the basis that it allows for encoding and embedding of new knowledge in existing networks of prior perceptions, facts, and thoughts." | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise-assets.s3.amazonaws.com/media/wisereads/articles/learning-101-the-untaught-basi/147253.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Hand-picked book of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Earn It: Unconventional Strategies for Brave Marketers](https://readwise.io/reader/fd/220992106) | | Steve Pratt | | In a media landscape that constantly steals and hijacks our attention, marketer Steve Pratt proposes a fresh alternative: earning it.  Steve's upcoming book, [*Earn It: Unconventional Strategies for Brave Marketers*](https://www.stevepratt.com/book)*,* teaches companies to create compelling content by combining creative bravery with committed execution.  "It took over two and a half hours to float up to the stratosphere, but only nine minutes for Felix Baumgartner to land safely back on the ground in Roswell, New Mexico... And watching Baumgartner free-fall at the speed of sound, what was every single person feeling? A huge adrenaline rush. For an energy drink, there could not be a more perfect emotional association than Red Bull: adrenaline rush. Red Bull Stratos was an epic human achievement. It is also one of the greatest marketing and branding events in history."  We're thrilled that Steve is sharing a preview of *Earn It* with Wisereads readers ahead of its October 1st release. If you enjoy the preview, we encourage you to consider purchasing a full copy [here](https://www.stevepratt.com/book). | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise.io/reader/fd/220992106) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Handpicked RSS feed of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Everything is Amazing](https://everythingisamazing.substack.com/) | | After a decade as a travel writer, Mike Sowden settled down to dive into curiosity and phenomenons of science in his Substack. From [*When The Bubbles Go Downwards*](https://wise.readwise.io/save?url=https://everythingisamazing.substack.com/p/when-the-bubbles-go-downwards): "What happens in these conditions is that during the racing tide, a huge line of standing waves emerge, up to 9 metres tall and foaming continuously in place - and, a little further out, a roaring, thundering, terror-inspiring monster the Greeks called Charybdis, and which the rest of us call a maelstrom." | | |  | | --- | | [🌐  Subscribe to RSS feed in Reader](https://wise.readwise.io/subscribe?url=https%3A//everythingisamazing.substack.com/feed) | | | | |
+
+ 
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | | |  | | --- | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | You're receiving this Weekly Wisereads email newsletter because you signed up for [Readwise Reader](https://readwise.io/read). [Click here to unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) from these emails going forward. Readwise 5540 Centerview Drive, Suite 204 Raleigh, NC 27606 | | |
+
+![](https://ea.pstmrk.it/open?m=v3_1.wdYWrwrGoejgEZs1BMzsiA.iPPqksvr_u17WIhc8sjaVx_hmRpJF4By7x9Uu_o631MW59RrW7-izf0ubv6oNCjgXH4EQWyB7vahaHaUOzqSaG7BsNcZNtbtK5tkw7cOgfKePEVZQi-bz5-q5nHtHydid0wnkpPjicguVTsOijCRsAfmayw820z_N2fmJN_uy8hQ87qFLm1v-FCTv6kCQdQRb-3_aibFZr4SxbnR9Tu-qvT375TjFS5iU-qHdAG6XzDRsi5S1xRVGhsAH7JC9TAd7r2qYYh5hWaB6B6z3aa8kXzVmMRV64u3epB84-XFlQ4KhVe1FIo734jmP2GeW5gfYxonbGcKDGszvyn3AoRxWl_1e9NXZNS4U84g0InPyx6l6nSYUAaZxojjkx5Bgzs_pHEAkWZ1oxxDiotF37XQg7GO-s5yFD5Y1nZ8zkgFwT0-X5yFAONlLybRat0bmbAmwQV_L5DzIJKtmzZ1aWWzY9OXvVelqJD6WLbmdlUw_jwpbzblwCRJpw2Wc9Xqitn-W1m2f1ld2KmuRJVarzw5Wvwt6GCW7NCtREORzLB-RrMK9dd5EdaN5HCQUXuQAuxun0n7Uhq3TebenUoAWRf03w)

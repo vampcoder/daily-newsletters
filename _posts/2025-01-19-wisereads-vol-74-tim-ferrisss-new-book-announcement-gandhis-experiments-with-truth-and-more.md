@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Wisereads Vol. 74 — Tim Ferriss's new book announcement, Gandhi's Experiments with Truth, and more"
+date: 2025-01-19 17:01:49 +0000
+source: "Readwise"
+category: "General"
+excerpt: "Last week, we shared John Steinbeck's first novel, Cup of Gold, following the fearsome pirate Captain Morgan. This week we're sharing the entirety of Mahatma Gandhi's autobiogra..."
+theme_gradient: "linear-gradient(135deg, #d97706 0%, #dc2626 100%)"
+image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
+is_summary: false
+---
+
+Last week, we shared John Steinbeck's first novel, Cup of Gold, following the fearsome pirate Captain Morgan. This week we're sharing the entirety of Mahatma Gandhi's autobiography, The Story of My Experiments with Truth.
+Keep reading to add to your Reader account below 👇
+As a reminder, you can also explore and save our community's most highlighted content inside Reader. If this content in general isn't your vibe, please feel free to unsubscribe altogether.
+Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Readwise | | |  |  |  | | --- | --- | | |  | | --- | | [Open in Reader](https://wise.readwise.io/save?url=https%3A//wise.readwise.io/issues/wisereads-vol-74) | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Weekly Wisereads | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Wisereads Vol. 74 — Tim Ferriss's new book announcement, Gandhi's Experiments with Truth, and more | | Last week, we shared John Steinbeck's first novel, *Cup of Gold*, following the fearsome pirate Captain Morgan. This week we're sharing the entirety of Mahatma Gandhi's autobiography, *The Story of My Experiments with Truth.*  Keep reading to add to your Reader account below 👇  As a reminder, you can also [explore and save our community's most highlighted content](https://read.readwise.io/discover) inside Reader. If this content in general isn't your vibe, please feel free to [unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) altogether.  Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂 | | | |
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Articles of the week | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | The Atlantic | | | [The Anti-Social Century](https://www.theatlantic.com/magazine/archive/2025/02/american-loneliness-personality-politics/681091/) | | Derek Thompson · 30 mins | | Journalist Derek Thompson investigates America’s historical surge in aloneness, linking it to a shift from communal gathering spaces toward more comfortable homes and private entertainment. "Phones mean that solitude is more crowded than it used to be, and crowds are more solitary. 'Bright lines once separated being alone and being in a crowd,' Nicholas Carr, the author of the new book *Superbloom: How Technologies of Connection Tear Us Apart*, told me... Now our social time is haunted by the possibility that something more interesting is happening somewhere else, and our downtime is contaminated by the streams and posts and texts of dozens of friends, colleagues, frenemies, strangers." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.theatlantic.com/magazine/archive/2025/02/american-loneliness-personality-politics/681091/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Tim.blog | | | [My First Book in 7 Years (And Some Big Experiments)](https://tim.blog/2025/01/13/the-no-book/) | | Tim Ferriss · 14 mins | | Tim Ferriss, author of *The 4-Hour Workweek* and *Tools of Titans*, recently teased his upcoming book—a guide to protecting priorities by saying "No" to everything else. He plans to release *The No Book* serially in his [5-Bullet Friday Newsletter](https://go.tim.blog/5-bullet-friday-1/). "The path of no is also the path of selective yesses. This book is a guide to finding the critical few among the trivial many. It’s about finding the big yesses in our lives. Just a few. These may be people, partners, projects, places, and passions—yesses so incredibly fulfilling that they enable us to say no to everything else. In fact, you only have to get a few big yesses right to live a deeply successful and joyful life." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//tim.blog/2025/01/13/the-no-book/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Vox | | | [How meditation deconstructs your mind](https://www.vox.com/future-perfect/392634/how-meditation-works-new-science-consciousness) | | Oshan Jarow · 14 mins | | Although mindfulness has gone mainstream, Oshan Jarow suggests that breakthroughs in meditation research could unlock deeper, transformative meditation experiences for everyday people. "As psychotherapist Miles Neale, who coined the term 'McMindfulness,' writes, if stress relief is all we take meditation to be, it’s 'like using a rocket launcher to light a candle.' Some meditation practices can help ease the anxious edges of modern life. Others can change your mind forever." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.vox.com/future-perfect/392634/how-meditation-works-new-science-consciousness) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted YouTube Video of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [My 17 Minute AI Workflow To Stand Out At Work](https://www.youtube.com/watch?v=yqq_U2fxd2U) | | Vicky Zhao · 17 mins | | Vicky Zhao tackles the "garbage in, garbage out" problem of LLMs by using NotebookLM and Claude to break down rigorous academic papers, providing higher-quality inputs for knowledge work. "Now, most people spend the majority of their time thinking about how they can outsource their thinking process to AI... the results are not particularly fantastic. Why is that? It's because the input that large language models (LLMs) have is pretty average. We're averaging down to the level of the Internet; there's some gold in it, but the majority is pretty mediocre." | | |  | | --- | | [➕  Add video to Reader](https://wise.readwise.io/save?url=https%3A//www.youtube.com/watch%3Fv%3Dyqq_U2fxd2U) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Twitter Thread of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [One pattern I’ve noticed in all miserable people](https://x.com/taylinsimmonds/status/1878819866070679565/?rw_tt_thread=True) | | Taylin John Simmonds · 2 mins | | Expanding on his viral tweet from last year, Taylin John Simmonds shares how overthinking and underacting breed misery. "Overthinking = scattered consciousness. Focus = single pointed consciousness. If you allow yourself to be distracted by social media, messages, emails, calls, and cheap media…You are training your mind to be chaotic." | | |  | | --- | | [➕  Add tweet to Reader](https://wise.readwise.io/save?url=https%3A//x.com/taylinsimmonds/status/1878819866070679565/%3Frw_tt_thread%3DTrue) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted PDF of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Future of Jobs Report 2025](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/future-of-jobs-report-2025/WEF_Future_of_Jobs_Report_2025.pdf) | | World Economic Forum · 6 hrs and 10 mins | | Drawing on a survey of over 1,000 employers—representing 14 million workers across 55 economies—the World Economic Forum examines how technology, cost-of-living pressures, and climate-change goals will shape the future of work. "Analytical thinking remains the most sought-after core skill among employers, with seven out of 10 companies considering it as essential in 2025. This is followed by resilience, flexibility and agility, along with leadership and social influence." | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise-assets.s3.amazonaws.com/media/wisereads/articles/future-of-jobs-report-2025/WEF_Future_of_Jobs_Report_2025.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Hand-picked book of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [The Story of My Experiments with Truth](https://readwise.io/reader/fd/261399512) | | Mahatma Gandhi | | Revered for his leadership in India’s nonviolent struggle for independence, Mohandas K. Gandhi was also a prolific writer, activist, and lawyer. In his autobiography, *The Story of My Experiments with Truth*, he recounts his moral and spiritual development from childhood through his education, marriage, and early professional life in South Africa.  "The seeker after truth should be humbler than the dust. The world crushes the dust under its feet, but the seeker after truth should so humble himself that even the dust could crush him. Only then, and not till then, will he have a glimpse of truth."  This edition of [*The Story of My Experiments with Truth*](https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai) is available through Standard Ebooks. In celebration of Public Domain Day in the U.S., they’ve added twenty new titles to their meticulously formatted and free ebook collection [here](https://standardebooks.org/blog/public-domain-day-2025). | | |  | | --- | | [➕  Add EPUB to Reader](https://wise.readwise.io/save?url=https%3A//readwise.io/reader/fd/261399512) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Handpicked RSS feed of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Chamath Palihapitiya](https://chamath.substack.com/) | | All-In Pod "Bestie" and Social Capital CEO Chamath Palihapitiya delivers weekly reading recommendations on his Substack, covering technology, markets, and the economy. From [What I Read This Week](https://wise.readwise.io/save?url=https://chamath.substack.com/p/what-i-read-this-week-e2c): "The Federal Reserve is [losing credibility with markets](https://www.bloomberg.com/news/articles/2025-01-08/key-us-treasury-yields-approach-2023-peaks-with-5-in-sight). What's going on?... When the Fed cuts rates, it's trying to make borrowing cheaper throughout the economy. But if markets don't believe in the Fed's economic assessment or policy decisions, they can push back through higher long-term rates, essentially canceling out the Fed's intended effects." | | |  | | --- | | [🌐  Subscribe to RSS feed in Reader](https://wise.readwise.io/subscribe?url=https%3A//chamath.substack.com/feed) | | | | |
+
+ 
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | | |  | | --- | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | You're receiving this Weekly Wisereads email newsletter because you signed up for [Readwise Reader](https://readwise.io/read). [Click here to unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) from these emails going forward. Readwise 5540 Centerview Drive, Suite 204 Raleigh, NC 27606 | | |
+
+![](https://ea.pstmrk.it/open?m=v3_1.B-fqAtwlUcp_S6kwfPJGxg.SDqyjevevfGJZxIGI9DdAVC58vTeXMq7s6WgBl7dEE9NUsHHpH5IwNcNt3f41-HBRlmDK1Ju-yBfIqg9M3hGWTlSziE-Gqn-VwvBzxkNB7RLXptr0jhVnRYnf21rhppa57JmtQ7fiBYmUju_8H4AWludOu5229atvPpKe2zNsfVfPOGSW2bGy-6fvZi7FbwL3znsP1ANi8oGZcIThIlDOBvTA1HxqDgXNouf4ILGE0ha3RgXD8oBW5wA2S4ZFknyqUgxQsJa-R13zSWhRzs__kSGaCzYB3fVrQKi0TkN63yiwYMEub2H5O7Gs9_L1EjN-2u-s_XYTa-nqgjDYPiYkIxiJDvQ_ojta_X26GV8taNfOJORqgwliS0m5U0XrDcjZZwilDDCSHrHPsAMM17X2QER-JLqJVJvz3XmjwLdUyZGfmqWTjkk8roHW_MYc4Ow8DGI5-4Mp6hsm8imB_lMuDNNodMlRxpGR8pVqx8zG-Vro6FklfvlsGOx4tfkEpLcEvMZoGK7R3otovWcvLJpOnVoeK4ElfqZwZYzNWyAW-7Dg64eNDE8OLrfTu7RN4-UAQA8_I8ChSHh7Y3edTHH1kS_s-ERIAQOrjC_jAcxFKM)
