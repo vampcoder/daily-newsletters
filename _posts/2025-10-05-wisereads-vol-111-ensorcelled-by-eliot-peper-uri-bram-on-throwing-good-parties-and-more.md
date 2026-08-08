@@ -1,0 +1,89 @@
+---
+layout: post
+title: "Wisereads Vol. 111 — Ensorcelled by Eliot Peper, Uri Bram on throwing good parties, and more"
+date: 2025-10-05 21:17:54 +0000
+source: "Readwise"
+excerpt: "Last week, we shared Fyodor Dostoevsky's Notes from Underground, a brief but foundational work of existentialist literature. This week, we're sharing an exclusive copy of Eliot ..."
+theme_gradient: "linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)"
+image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
+is_summary: false
+---
+
+Last week, we shared Fyodor Dostoevsky's Notes from Underground, a brief but foundational work of existentialist literature. This week, we're sharing an exclusive copy of Eliot Peper's latest release, Ensorcelled, an adventurous short story praised by Samuel Arbesman, Kevin Kelly, and Craig Mod.
+Keep reading to add to your Reader account below 👇
+As a reminder, you can also explore and save our community's most highlighted content inside Reader. If this content in general isn't your vibe, please feel free to unsubscribe altogether.
+Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Readwise | | |  |  |  | | --- | --- | | |  | | --- | | [Open in Reader](https://wise.readwise.io/save?url=https%3A//wise.readwise.io/issues/wisereads-vol-111) | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Weekly Wisereads | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Wisereads Vol. 111 — Ensorcelled by Eliot Peper, Uri Bram on throwing good parties, and more | | Last week, we shared Fyodor Dostoevsky's *Notes from Underground*, a brief but foundational work of existentialist literature. This week, we're sharing an exclusive copy of Eliot Peper's latest release, *Ensorcelled*, an adventurous short story praised by Samuel Arbesman, Kevin Kelly, and Craig Mod.  Keep reading to add to your Reader account below 👇  As a reminder, you can also [explore and save our community's most highlighted content](https://read.readwise.io/discover) inside Reader. If this content in general isn't your vibe, please feel free to [unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) altogether.  Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂 | | | |
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Articles of the week | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Heptabase on Medium | | | [The Best Way to Use AI for Learning](https://medium.com/heptabase/the-best-way-to-use-ai-for-learning-762c3467bdf1#fe23) | | 詹雨安 Alan Chan · 18 mins | | Heptabase co-founder and CEO Alan Chan explains how he uses AI and a digital whiteboard to deepen rather than just broaden his learning. "I think the most important question to ask is not 'how to learn more efficiently,' but 'how to become capable of learning knowledge that is more complex, abstract, and challenging.' At the end of the day, I believe the value of learning does not lie in accumulating as much knowledge as possible, but in cultivating the ability to think more deeply about important questions." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//medium.com/heptabase/the-best-way-to-use-ai-for-learning-762c3467bdf1%23fe23) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Julian.ac | | | [Failing to Understand the Exponential, Again](https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/) | | Julian Schrittwieser · 3 mins | | Amid mixed reviews of the latest AI model releases, Anthropic researcher Julian Schrittwieser turns to the data to forecast steady gains. "Even a relatively conservative extrapolation of these trends suggests that 2026 will be a pivotal year for the widespread integration of AI into the economy: Models will be able to autonomously work for full days (8 working hours) by mid-2026. At least one model will match the performance of human experts across many industries before the end of 2026." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Atoms vs Bits | | | [21 Facts About Throwing Good Parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/) | | Uri Bram · 4 mins | | Author and party game-maker Uri Bram reveals what makes a great gathering, just in time for the holidays. His advice includes: "Prioritize your ease of being over any other consideration: parties are like babies, if you’re stressed while holding them they’ll get stressed too" and "A large party is more like an Everything Soup: you mainly need to avoid ingredients that ruin the flavor for everyone else; beyond that you can mostly throw in whatever and see what works." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.atvbt.com/21-facts-about-throwing-good-parties/) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted YouTube Video of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [40 Harsh Truths I Wish I Knew In My 20s](https://www.youtube.com/watch?v=w39A92UzTDY) | | Daniel Pink · 13 mins | | Drawing on his experience advising companies and working in the White House, author Daniel Pink shares rapid-fire, no-nonsense advice he wishes he had known earlier in his career: "Don't work with some people; including a few talented people who are jerks. You might believe you can change them, tolerate them, or steer around them. You can't. They're toxic. In the end, they'll poison you" and "Curiosity beats certainty. You'll believe some things deeply, and that can be good... whenever you're feeling especially certain, whenever you know you're totally right, ask yourself, why might I be wrong?" | | |  | | --- | | [➕  Add video to Reader](https://wise.readwise.io/save?url=https%3A//www.youtube.com/watch%3Fv%3Dw39A92UzTDY) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Twitter Thread of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Given its status as one of the great American business biographies, I decided to read Titan](https://x.com/patrickc/status/1972382568990626228/?rw_tt_thread=True) | | Patrick Collison · 6 mins | | Stripe CEO Patrick Collison reflects on his reading of *Titan* by Ron Chernow, which follows the infamous John D. Rockefeller and the rise of Standard Oil. "Certain periods seem more propitious for the rise of noteworthy figures, at least in business: Carnegie, Morgan, and Rockefeller were all born in a four year span. (Steve Jobs and Bill Gates were also born in the same year.) I wonder how much of this is about the culture vs the business opportunities. More generally, I hadn’t appreciated the fervor (as perceived at the time) of the late 19th century." | | |  | | --- | | [➕  Add tweet to Reader](https://wise.readwise.io/save?url=https%3A//x.com/patrickc/status/1972382568990626228/%3Frw_tt_thread%3DTrue) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted PDF of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [GDPval: Evaluating AI Model Performance On Real-World Economically Valuable Tasks](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/gdpval-evaluating-ai-model-per/GDPval.pdf) | | Tejal Pathwardhan, Rachel Dias, Elizabeth Proch, et al. · 47 mins | | OpenAI introduces GDPval, a new benchmark designed to simulate real-world tasks from 44 occupations across key sectors of the U.S. economy. "We find that frontier model performance on GDPval is improving roughly linearly over time, and that the current best frontier models are approaching industry experts in deliverable quality. We analyze the potential for frontier models, when paired with human oversight, to perform GDPval tasks cheaper and faster than unaided experts." | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise-assets.s3.amazonaws.com/media/wisereads/articles/gdpval-evaluating-ai-model-per/GDPval.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Hand-picked book of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Ensorcelled](https://readwise.io/reader/fd/371705927) | | Eliot Peper | | In this punchy short story, Tam reluctantly skips the release of the much-anticipated game *Ark of the Shadow Moon* for a camping trip. What follows is a gripping tale about what can happen when you put down the distractions and pay close attention to the world around you.  "You could become so bewitched by a seductive *elsewhere* that you missed out on ever being truly *here*, and yet, elsewhere was sometimes exactly where you needed to go."  We're thrilled that Eliot is sharing a full copy of *Ensorcelled* with Wisereads readers before its official release. If you enjoy the story, you can purchase [a signed copy on his website](https://store.eliotpeper.com/products/ensorcelled), look out for the [Kindle and audio editions](https://eliotpeper.com/books/ensorcelled) on October 8th, or explore his other work [here](https://eliotpeper.com/books). | | |  | | --- | | [➕  Add EPUB to Reader](https://wise.readwise.io/save?url=https%3A//readwise.io/reader/fd/371705927) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Handpicked RSS feed of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Manuscriptions](https://www.eleanorkonik.com/) | | Although we exclude our own content from Wisereads, we’d be remiss not to spotlight our QA specialist’s Substack. On *Manuscriptions*, Eleanor Konik shares book reviews, behind-the-scenes looks at her Obsidian + Readwise-powered workflows, and thoughtful lessons drawn from history, science, and everyday life. From [The Konik Method for Organizing Electronic Notes](https://wise.readwise.io/save?url=https://www.eleanorkonik.com/p/the-konik-method-for-organizing-electronic): "My point here is not to suggest that you should use my tagging schema... My point is that it is helpful to have a tagging schema that is customized to your preferences and reasons for reading. What are you interested in? What motivates you to take notes on books at all?" | | |  | | --- | | [🌐  Subscribe to RSS feed in Reader](https://wise.readwise.io/subscribe?url=https%3A//eleanorkonik.substack.com/feed) | | | | |
+
+ 
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | | |  | | --- | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | You're receiving this Weekly Wisereads email newsletter because you signed up for [Readwise Reader](https://readwise.io/read). [Click here to unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) from these emails going forward. Readwise 5540 Centerview Drive, Suite 204 Raleigh, NC 27606 | | |
+
+![](https://ea.pstmrk.it/open?m=v3_1.FUBrHF4WB_JH5-UfTu-GUg.YwPYofSlxSRx48tDJPF63j7H2bb9N-2VRzAiLrCcjz0n4sdjcvCTvo_-0KUFmKNmQyAWXVu1VUW50WE0yEa62WoIPJeBAV8jgXfFHTt88yyXzDOqTPlzYRKkAy_iAZU8zecy2AYU9SXyr2uc_kHZgzhN-e8GE8Nl1J7Gj6CKfDNadLbC-gpmPba98SqRxpLqkHMj09iEWjU617VZ4TxZi1BY4HXBKL18MYTX1m_OgBEokUJdRyQemRhZqK6Yf5OhkhMddFnMzh9GdJX8k67jldGS6WhyWWhQl3Qi3KSQb1_B5EuxCqdVXUcqUzDQn8MFu8P1opRgaohu5dVTQV2IsSU7AxAujeGOjXLRAVGjVEhIYcW8FlbyY5erbaPAE2J-fTDgxxV2bXc_G6ScG2y7Sx0Xb0mOtuZMqOYrVLIZSr2UT18nh6PNeZ41PQ8yWzhD1mUIbH7AJDGhCu8rZQe9j9xKTh2KctjnonpZwMdbuLjn5w_iTjdmVVdVhpj2MFtbvUhIGiS5ClLaG3TZat_uHyL97uxj0cQ-N_qNZgxfwlGaUSjlUypw7aHB7BIbsS73hLnJIxklXEkQxwANp9y8tQPiMVtv10jaPxA3MFF9vr4)

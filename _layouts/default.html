@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  {% seo %}
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-container">
+      <a href="{{ "/" | relative_url }}" class="logo-group">
+        <div class="logo-icon">📬</div>
+        <div class="logo-text">Newsletter<span>Pulse</span></div>
+      </a>
+    </div>
+  </header>
+
+  <main class="main-wrapper">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <p>© {{ 'now' | date: "%Y" }} {{ site.title }}. Powered by Automated Gmail & GitHub Pages Pipeline.</p>
+  </footer>
+
+</body>
+</html>

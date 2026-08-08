@@ -1,0 +1,17 @@
+# Credentials & secrets
+credentials.json
+client_secret_*.json
+token.json
+.env
+
+# Python bytecode & environments
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# OS & IDE metadata
+.DS_Store
+.vscode/
+.idea/

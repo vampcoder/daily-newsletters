@@ -1,0 +1,9 @@
+title: "Newsletter Pulse"
+description: "Curated & Automated Gmail Newsletter Archive"
+baseurl: "/daily-newsletters"
+url: "https://vampcoder.github.io"
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

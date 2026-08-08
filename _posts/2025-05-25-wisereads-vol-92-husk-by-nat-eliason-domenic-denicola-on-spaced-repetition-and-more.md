@@ -1,0 +1,89 @@
+---
+layout: post
+title: "Wisereads Vol. 92 — Husk by Nat Eliason, Domenic Denicola on spaced repetition, and more"
+date: 2025-05-25 19:43:47 +0000
+source: "Readwise"
+excerpt: "Last week, we featured an excerpt of Island of the Blue Foxes: Disaster and Triumph on the World's Greatest Scientific Expedition by Stephen R. Bown. This week, we're thrilled t..."
+theme_gradient: "linear-gradient(135deg, #9333ea 0%, #c026d3 100%)"
+image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
+is_summary: false
+---
+
+Last week, we featured an excerpt of Island of the Blue Foxes: Disaster and Triumph on the World's Greatest Scientific Expedition by Stephen R. Bown. This week, we're thrilled to share an exclusive seven-chapter preview of our friend Nat Eliason's upcoming sci-fi debut, Husk. Plus, don't miss your opportunity to secure one of 10 paper copies signed by Nat himself!
+Keep reading to add to your Reader account below 👇
+As a reminder, you can also explore and save our community's most highlighted content inside Reader. If this content in general isn't your vibe, please feel free to unsubscribe altogether.
+Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Readwise | | |  |  |  | | --- | --- | | |  | | --- | | [Open in Reader](https://wise.readwise.io/save?url=https%3A//wise.readwise.io/issues/wisereads-vol-92) | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Weekly Wisereads | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Wisereads Vol. 92 — Husk by Nat Eliason, Domenic Denicola on spaced repetition, and more | | Last week, we featured an excerpt of *Island of the Blue Foxes: Disaster and Triumph on the World's Greatest Scientific Expedition* by Stephen R. Bown. This week, we're thrilled to share an exclusive seven-chapter preview of our friend Nat Eliason's upcoming sci-fi debut, *Husk.* **Plus, don't miss** **your opportunity to secure one of 10 paper copies signed by Nat himself!**  Keep reading to add to your Reader account below 👇  As a reminder, you can also [explore and save our community's most highlighted content](https://read.readwise.io/discover) inside Reader. If this content in general isn't your vibe, please feel free to [unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) altogether.  Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂 | | | |
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Articles of the week | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | dcurt.is | | | [Thoughts on thinking](https://dcurt.is/thinking/) | | Dustin Curtis · 3 mins | | Svblte founder and nomad Dustin Curtis once believed AI was a "bicycle for the mind," but now questions that idea in his latest post. "Intellectual rigor comes from the journey: the dead ends, the uncertainty, and the internal debate. Skip that, and you might still get the insight–but you’ll have lost the infrastructure for meaningful understanding. Learning by reading LLM output is cheap. Real exercise for your mind comes from building the output yourself." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//dcurt.is/thinking/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | The Coder Cafe | | | [Working on Complex Systems](https://www.thecoder.cafe/p/complex-systems?hide_intro_popup=true) | | Teiva Harsanyi · 9 mins | | Complex systems demand different solutions than complicated—but predictable—ones. During his time at Google, Teiva Harsanyi has learned to spot the hallmarks of complexity: nonlinearity, emergent behavior, and hysteresis. "A real-world example to illustrate hysteresis is traffic congestion: even after a road accident is cleared, delays persist because vehicles remain clustered. Similarly, in distributed systems, failures can cause cascading slowdowns, even after the root issue is fixed." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.thecoder.cafe/p/complex-systems%3Fhide_intro_popup%3Dtrue) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Domenic.me | | | [Spaced Repetition Systems Have Gotten Way Better](https://domenic.me/fsrs/) | | Domenic Denicola · 9 mins | | A favorite subject of ours, spaced repetition, is at the heart of developer Domenic Denicola’s breakdown of flashcards for retention. "What gives these programs their name is how they space out repeatedly prompting you to review the same card, depending on how you self-grade your response... we’re trying to beat the 'forgetting curve', by testing ourselves on the material 'just before we were about to forget it'." If you're curious, give spaced repetition a try with your Readwise Daily Review. | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//domenic.me/fsrs/) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted YouTube Video of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [How to 'See' the 4th Dimension with Topology](https://www.youtube.com/watch?v=MURzTFRRuJQ) | | Quanta Magazine · 13 mins | | Mathematician Maggie Miller studies shapes that resemble flat Euclidean space up close—called manifolds—to understand the geometry and topology of the fourth dimension. "Two-dimensional manifolds are much easier to imagine—they're surfaces, things like the boundary of a ball, called a sphere. The sphere, like the surface of the Earth, is a two-dimensional manifold. Even though the Earth is not flat, it's very difficult to tell that. If you zoom in really close, you can only see a very small portion of the earth. It looks exactly like a flat plane." | | |  | | --- | | [➕  Add video to Reader](https://wise.readwise.io/save?url=https%3A//www.youtube.com/watch%3Fv%3DMURzTFRRuJQ) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Twitter Thread of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [I promise you you’re vibe coding wrong](https://x.com/vasumanmoza/status/1923912878370980115/?rw_tt_thread=True) | | Vasuman Moza · 2 mins | | To create clean code for products, ChatGPT and Cursor need a roadmap and rails. Vas, an engineer at Meta, shares his structured prompts for building this foundation: "Open ChatGPT (4o, not o1/o3/o4) and say: 'I’m building a [description of your product - the more detailed the better]. Use Next.js for frontend, Supabase for DB + auth'" then say: "'Using that architecture, write a granular step-by-step plan to build the MVP. Each task should: Be incredibly small + testable, have a clear start + end, focus on one concern.'" | | |  | | --- | | [➕  Add tweet to Reader](https://wise.readwise.io/save?url=https%3A//x.com/vasumanmoza/status/1923912878370980115/%3Frw_tt_thread%3DTrue) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted PDF of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [AI Agents vs. Agentic AI](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/ai-agents-vs-agentic-ai/2505.10468v3.pdf) | | Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee · 1 hr and 30 mins | | In their recent paper, researchers at Cornell and the University of the Peloponnese in Greece explore the distinctions between AI agents and agentic AI. "Generative AI is positioned as a precursor, with AI agents advancing through tool integration, prompt engineering, and reasoning enhancements. In contrast, agentic AI systems represent a paradigmatic shift marked by multi-agent collaboration, dynamic task decomposition, persistent memory, and orchestrated autonomy." | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise-assets.s3.amazonaws.com/media/wisereads/articles/ai-agents-vs-agentic-ai/2505.10468v3.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Hand-picked book of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Husk](https://readwise.io/reader/fd/307534453) | | Nathaniel Eliason | | Something’s not quite right in the digital paradise of Meru. On his 25th birthday, Isaac plans to upload his consciousness and join the millions who’ve achieved immortality in server racks maintained by the few technicians spared by the Plague. But is there a hidden cost to eternal life?  "I've watched the video on the process dozens of times, I know the intimate detail of every step. The sedative it will inject to freeze my body once the door is sealed. The tiny incision its robotic arm will cut in the top of my skull to feed in the neural lace. How it will spread its thin sheet of receptors across my brain, providing the bridge for my consciousness between this body and the digital world. How it systematically reproduces digital versions of each bodily function and sense to slowly hijack my perception of where my body is located, facilitating the jump. The beautiful tunnel of light I'll walk through as my mind accepts its new host, waking up to a cheering sea of the people who have gone before me."  We’re psyched that Nat is sharing an early preview of his dystopian sci-fi debut, *Husk,* in our humble Wisereads newsletter. We tore through this epic ride that forces you to question what makes you human, and bet you will too. If so, you can grab [the full ebook here](https://www.amazon.com/dp/B0F162FTWR/), out Tuesday.  **Nat's also generously giving away 10 copies for readers. Just reply with your address, and he'll send them out on a first-come, first-served basis.** 🎉 | | |  | | --- | | [➕  Add EPUB to Reader](https://wise.readwise.io/save?url=https%3A//readwise.io/reader/fd/307534453) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Handpicked RSS feed of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Seeking Wisdom](https://dannykenny.substack.com/) | | In his Substack, behavioral scientist Danny Kenny helps high-achievers transform their relationship with success. From [Doing More vs. Doing What Matters](https://wise.readwise.io/save?url=https://dannykenny.substack.com/p/doing-more-vs-doing-what-matters): "This is the hollow chase that traps so many of us: we optimize our systems, track our metrics, implement the latest productivity hack to pursue recognition—all while avoiding the harder question of whether we're moving efficiently in the entirely wrong direction." | | |  | | --- | | [🌐  Subscribe to RSS feed in Reader](https://wise.readwise.io/subscribe?url=https%3A//dannykenny.substack.com/feed) | | | | |
+
+ 
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | | |  | | --- | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | You're receiving this Weekly Wisereads email newsletter because you signed up for [Readwise Reader](https://readwise.io/read). [Click here to unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) from these emails going forward. Readwise 5540 Centerview Drive, Suite 204 Raleigh, NC 27606 | | |
+
+![](https://ea.pstmrk.it/open?m=v3_1.k1H9Xkb568LaW_tE_wkXfQ.J1TFe85zCb2Zxrn8k51gSRzZhj9e2MoU8-LdTJVG_EwwAnXheSCrEZ5UNy_lZvwFSbX5uzOeOY7GBck156FLnpmJDJNkk1_QoQHvvPS0iFEfLeYRT-J5ONun9H9hiQE4SDvZOyOgu3sGTBFhcu2jYB_AQSRn5oKzNjGJBrb80q5zRrk9WYEhTOKZXoEeG7LxrWY_uavh7newzb1hfIQxL5hpx43RlihRSCF5-ep52uz-qeo22YWRCgGqx-HE9mNg_duSmBGP64sKs7uHVaATvUJD-aBrRXFpcaWgJZWwq2GMY6I7fnW9BPgkL1WaZmeAv2rMI7Wcz2wD2zaq0uvex82hQy2xCvx4e5pr6GfOB3h0He4Bsa0AQfKLKCSEvpFuPb-QILPBe0AvPK-twb19__8BhhTGwa4cop_MKxXeb2yA8lB0TCSmcMJERuuvocYJT3n7Tkg5v5pAMg4AINCPteV0fRDecOgtHqoHoFRejkm1y6-1mMSshiBRiCVcIPSkQY9j86QvNh3rOqy-Ifd8cfUCO5Li8u-m3iVhBbT1hhFiWi6-Ol6Jn7Ao6ovraay6e4oyN8T5aYqOgzd2Px0hBw)

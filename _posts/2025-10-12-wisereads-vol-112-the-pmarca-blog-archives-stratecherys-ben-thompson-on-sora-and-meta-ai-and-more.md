@@ -1,0 +1,89 @@
+---
+layout: post
+title: "Wisereads Vol. 112 — The Pmarca Blog Archives, Stratechery's Ben Thompson on Sora and Meta AI, and more"
+date: 2025-10-12 19:34:02 +0000
+source: "Readwise"
+excerpt: "Last week, we shared an exclusive copy of Eliot Peper's latest release, Ensorcelled, an adventurous short story praised by Samuel Arbesman, Kevin Kelly, and Craig Mod. This week..."
+theme_gradient: "linear-gradient(135deg, #9333ea 0%, #c026d3 100%)"
+image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
+is_summary: false
+---
+
+Last week, we shared an exclusive copy of Eliot Peper's latest release, Ensorcelled, an adventurous short story praised by Samuel Arbesman, Kevin Kelly, and Craig Mod. This week, we’re featuring a collection of Marc Andreessen’s timeless blog posts from 2007 to 2009: 200 pages of startup and leadership wisdom in one ebook.
+Keep reading to add to your Reader account below 👇
+As a reminder, you can also explore and save our community's most highlighted content inside Reader. If this content in general isn't your vibe, please feel free to unsubscribe altogether.
+Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Readwise | | |  |  |  | | --- | --- | | |  | | --- | | [Open in Reader](https://wise.readwise.io/save?url=https%3A//wise.readwise.io/issues/wisereads-vol-112) | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Weekly Wisereads | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Wisereads Vol. 112 — The Pmarca Blog Archives, Stratechery's Ben Thompson on Sora and Meta AI, and more | | Last week, we shared an exclusive copy of Eliot Peper's latest release, *Ensorcelled*, an adventurous short story praised by Samuel Arbesman, Kevin Kelly, and Craig Mod. This week, we’re featuring a collection of Marc Andreessen’s timeless blog posts from 2007 to 2009: 200 pages of startup and leadership wisdom in one ebook.  Keep reading to add to your Reader account below 👇  As a reminder, you can also [explore and save our community's most highlighted content](https://read.readwise.io/discover) inside Reader. If this content in general isn't your vibe, please feel free to [unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) altogether.  Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂 | | | |
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Articles of the week | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Terrible Software | | | [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/) | | Matheus Lima · 3 mins | | After stints as a software engineer at companies like Carta and Tremendous, Matheus Lima is making the case for engaging in workplace politics so the best ideas actually get built. "The alternative to good politics isn’t no politics. It’s bad politics winning by default. It’s the loud person who’s wrong getting their way because the quiet person who’s right won’t speak up. It’s good projects dying because nobody advocated for them. It’s talented people leaving because they couldn’t navigate the organizational dynamics." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//terriblesoftware.org/2025/10/01/stop-avoiding-politics/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Pmarchive | | | [Part 2: Guide to Big Companies: Retaining great people](https://pmarchive.com/guide_to_big_companies_part2.html) | | Marc Andreessen · 10 mins | | In an oldie but goodie post, Marc Andreessen walks leaders through the keys to retaining talent. Rule number one: build a winning company. "All the raises, perks, and HR-sponsored “company values” drafting sessions in the world won’t help you retain great people if you’re not winning—not even the $6,000 heated Japanese toilets in all the restrooms, the $30,000 Olympic lap pool out back, and the free $4 bottles of organic orange juice in all the snack rooms." *Keep reading to explore more of Andreessen's guides in the ebook archive below.* | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//pmarchive.com/guide_to_big_companies_part2.html) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Stratechery | | | [Sora, AI Bicycles, and Meta Disruption](https://stratechery.com/2025/sora-ai-bicycles-and-meta-disruption/) | | Ben Thompson · 17 mins | | Ben Thompson initially predicted Meta’s AI video app would outshine OpenAI’s Sora, believing users would favor consumption over creation. This week’s App Store rankings suggest the opposite. "What I didn’t fully appreciate, however, is what falls in the middle: the fact that so many more people get to be creators, and what a blessing that is. How many people have had ideas in their head, yet were incapable of substantiating them, and now can?... why should I begrudge the latest unbundling, and the many more people who will benefit from AI substantiation of their creative impulses? Bicycles for all!" | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//stratechery.com/2025/sora-ai-bicycles-and-meta-disruption/) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted YouTube Video of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Let the LLM Write the Prompts: An Intro to DSPy in Compound AI Pipelines](https://www.youtube.com/watch?v=I9ZtkgYZnOw) | | Databricks · 31 mins | | Data science leader Drew Breunig shows how to use DSPy to replace prompt engineering guesswork with a Python-based pipeline. "We write tasks. We don’t write prompts. We can use DSPy to optimize our function against our eval data to make sure that our prompt is accountable and performing. And we can embrace model portability. When a new model gets released, we switch over, we run our optimization against our eval, and we’re off to the races." | | |  | | --- | | [➕  Add video to Reader](https://wise.readwise.io/save?url=https%3A//www.youtube.com/watch%3Fv%3DI9ZtkgYZnOw) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Twitter Thread of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [You have 12 shots in life](https://x.com/13yearoldvc/status/1950276106323664949/?rw_tt_thread=True) | | Jessy · 5 mins | | An intern with his whole career ahead of him, Jessy breaks his working life into 12 four-year chapters: 12 chances to do something that matters. "This changes everything about how to play. You don't need to be right 100% of the time. You need to be really right 20% of the time. Sometimes, you just need to be really right once out of 12 shots - that's only 8% success rate for extraordinary impact." | | |  | | --- | | [➕  Add tweet to Reader](https://wise.readwise.io/save?url=https%3A//x.com/13yearoldvc/status/1950276106323664949/%3Frw_tt_thread%3DTrue) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted PDF of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Less is More: Recursive Reasoning with Tiny Networks](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/less-is-more-recursive-reasoni/2510.04871v1.pdf) | | Alexia Jolicoeur-Martineau · 31 mins | | Researcher Alexia Jolicoeur-Martineau improves performance on complex tasks like Sudoku and maze solving by reducing network size and layer count. "The benefit from recursive reasoning can be massively improved... We propose Tiny Recursive Model (TRM), an improved and simplified approach using a much smaller tiny network with only 2 layers that achieves significantly higher generalization than HRM on a variety of problems. In doing so, we improve the state-of-the-art test accuracy on Sudoku-Extreme from 55% to 87%, Maze-Hard from 75% to 85%." | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise-assets.s3.amazonaws.com/media/wisereads/articles/less-is-more-recursive-reasoni/2510.04871v1.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Hand-picked book of the week | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [The Pmarca Blog Archives](https://d1lamhf6l6yk6d.cloudfront.net/uploads/2021/08/The-pmarca-Blog-Archives.pdf) | | Marc Andreessen | | Long before his tweeted manifestos, Marc Andreessen (aka "Pmarca") was untangling ideas and sharing practical wisdom on his blog. Now, the best of the *Andreessen Horowitz* cofounder’s posts are collected in an ebook [curated by the a16z editorial team](https://a16z.com/the-pmarca-blog-archive-is-back-as-an-ebook/) and Pressbooks.    "I’m a firm believer that most people who do great things are doing them for the first time. Returning to my theory of hiring, I’d rather have someone all fired up to do something for the first time than someone who’s done it before and isn’t that excited to do it again. You rarely go wrong giving someone who is high potential the shot."    Spanning topics from startups to hiring, big companies, productivity, psychology, and sci-fi novel recommendations, these 200 pages offer both a time capsule of 2007–2009 and timeless business advice. | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//d1lamhf6l6yk6d.cloudfront.net/uploads/2021/08/The-pmarca-Blog-Archives.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Handpicked RSS feed of the week | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Kevin Kelly](https://kevinkelly.substack.com/) | | On his newly launched Substack, *Wired*'s Senior Maverick and prolific author Kevin Kelly writes about AI, technology, history, and progress. From [Hill-Making vs Hill-Climbing](https://wise.readwise.io/save?url=https://kevinkelly.substack.com/p/hill-making-vs-hill-climbing): "There are two modes of learning, two paths to improvement. One is to relentlessly, deliberately improve what you can do already, by trying to perfect your process. Focus on optimizing what works. The other way is to create new areas that can be exploited and perfected. Explore regions that are suboptimal with a hope you can make them work – and sometimes they will – giving you new territory to work in." | | |  | | --- | | [🌐  Subscribe to RSS feed in Reader](https://wise.readwise.io/subscribe?url=https%3A//kevinkelly.substack.com/feed) | | | | |
+
+ 
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | | |  | | --- | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | You're receiving this Weekly Wisereads email newsletter because you signed up for [Readwise Reader](https://readwise.io/read). [Click here to unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) from these emails going forward. Readwise 5540 Centerview Drive, Suite 204 Raleigh, NC 27606 | | |
+
+![](https://ea.pstmrk.it/open?m=v3_1.dTvs1Gyyqp9kER0EFQPq2A.48R2ycxO7kCZ7nIBrK69e3SD0OMJ78HKsdpicqv9LOdMQJByAsUlktC9XLC6pEmEK-78rvPfpSZMCM23uF84RZlkpa63V07fbgznGbrn499yNLjwLTtoeZWJdzbywx1vU0bqrrBw870XQJ7etHr11yt0p9OsIhh1Aguza23CabAo8Nji5dWcxryiOxabBW3xVxPWOz-3E3h-ECiKdDTn8EEKzSIcUyP_geBO823kklpU0IOSWTnzFbb090HZy4QhVIgRGZ7eTOOFIKhzh-P56L0XlGDzXWyFvjvblfUMAlZ9IZl0C-LhVu3zP-NjELe1izfL0p0wTsINtz6D_iihmCqVISaAbgl2pg7La0lXSX-8NqaSsnwjH5GYkuaBcsCmuYPy1l9k0TswaO4-Ky4ClQJMYg9vK0toqfB4Pe455xcWAHz3z_EoZa_Lkt5RRwR8M2YSFCS8m1MuZZLWHypBwIu25KZ4mTuBZWfGs7bIFumMrt3xUJvNC8TISGsfKQJsA7eu8OL_cgtFWzQht3XzyiFdQyXT4ya1MbvkkVnNfzAupvL642WAKs2fS90QTjiH6CKL8nsnOiHSzhQTQVvjshYLbcm6wIoLgf7hMVLpOgw)

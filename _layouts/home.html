@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<section class="hero-section">
+  <h1 class="hero-title">Your Curated Newsletter Digest</h1>
+  <p class="hero-subtitle">Automated, distraction-free archive of your daily newsletters.</p>
+</section>
+
+<div class="card-grid">
+  {% for post in site.posts %}
+  <a href="{{ post.url | relative_url }}" class="tile-card">
+    <div class="tile-media" style="{% if post.image == nil or post.image == '' %}background: {{ post.theme_gradient | default: 'linear-gradient(135deg, #4f46e5, #7c3aed)' }};{% endif %}">
+      {% if post.image and post.image != "" %}
+        <img src="{{ post.image }}" alt="{{ post.title | escape }}" loading="lazy" onerror="this.style.display='none';">
+      {% endif %}
+      <div class="tile-badges">
+        <span class="badge badge-source">{{ post.source | default: "Newsletter" }}</span>
+        {% if post.is_summary %}
+          <span class="badge badge-summary">Teaser Summary</span>
+        {% else %}
+          <span class="badge badge-full">Full Article</span>
+        {% endif %}
+      </div>
+    </div>
+    
+    <div class="tile-content">
+      <div class="tile-meta">{{ post.date | date: "%b %d, %Y" }}</div>
+      <h2 class="tile-title">{{ post.title }}</h2>
+      <p class="tile-excerpt">{{ post.excerpt | strip_html }}</p>
+      
+      <div class="tile-footer">
+        {% if post.is_summary %}
+          <span>Read Teaser →</span>
+        {% else %}
+          <span>Read Full Article →</span>
+        {% endif %}
+      </div>
+    </div>
+  </a>
+  {% endfor %}
+</div>

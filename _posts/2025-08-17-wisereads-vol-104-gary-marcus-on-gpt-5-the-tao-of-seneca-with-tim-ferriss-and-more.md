@@ -1,0 +1,89 @@
+---
+layout: post
+title: "Wisereads Vol. 104 — Gary Marcus on GPT-5, The Tao of Seneca with Tim Ferriss, and more"
+date: 2025-08-17 22:49:17 +0000
+source: "Readwise"
+excerpt: "Last week, we shared Edwin A. Abbott's Flatland, his 19th-century social satire and masterclass in abstraction. This week, we're sharing Tim Ferriss' The Tao of Seneca: Volume O..."
+theme_gradient: "linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)"
+image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
+is_summary: false
+---
+
+Last week, we shared Edwin A. Abbott's Flatland, his 19th-century social satire and masterclass in abstraction. This week, we're sharing Tim Ferriss' The Tao of Seneca: Volume One, the first installment drawn from Seneca the Younger’s timeless epistolary wisdom.
+Keep reading to add to your Reader account below 👇
+As a reminder, you can also explore and save our community's most highlighted content inside Reader. If this content in general isn't your vibe, please feel free to unsubscribe altogether.
+Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Readwise | | |  |  |  | | --- | --- | | |  | | --- | | [Open in Reader](https://wise.readwise.io/save?url=https%3A//wise.readwise.io/issues/wisereads-vol-104) | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Weekly Wisereads | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Wisereads Vol. 104 — Gary Marcus on GPT-5, The Tao of Seneca with Tim Ferriss, and more | | Last week, we shared Edwin A. Abbott's *Flatland*, his 19th-century social satire and masterclass in abstraction. This week, we're sharing Tim Ferriss' *The Tao of Seneca: Volume One*, the first installment drawn from Seneca the Younger’s timeless epistolary wisdom.  Keep reading to add to your Reader account below 👇  As a reminder, you can also [explore and save our community's most highlighted content](https://read.readwise.io/discover) inside Reader. If this content in general isn't your vibe, please feel free to [unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) altogether.  Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂 | | | |
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Articles of the week | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Rational in the Fullness of Time | | | [Hire people who give a shit.](https://alexw.substack.com/p/hire) | | Alexandr Wang · 3 mins | | Meta’s Chief AI Officer Alexandr Wang, founder of Scale, has been around the hiring block. It's no surprise his no-frills advice on hiring people who give a shit about the mission and their work is circulating again: "If someone is applying to Scale and has never been deeply obsessed about something before, then it’s a bad bet to think Scale will be the first. I have a particular line of questioning around this: What’s the hardest you’ve ever worked on something? How many hours were you working a week? Why did you work so hard? Why did you care?" | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//alexw.substack.com/p/hire) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Marcus on AI | | | [GPT-5: Overdue, overhyped and underwhelming. And that’s not the worst of it.](https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming) | | Gary Marcus · 10 mins | | After the Death Star-level hype around GPT-5 and the release-week letdown among OpenAI fans, Gary Marcus is taking a victory lap: "By the end of the night, OpenAI’s street cred had dramatically fallen. On the question of 'which company [will have] the best AI model at the end of August', a Polymarket poll charted OpenAI dropping from 75% to 14% in the space of an hour." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Collab Fund | | | [Different Kinds of Smart](https://collabfund.com/blog/different-kinds-of-smart/) | | Morgan Housel · 5 mins | | During the greatest bull market of all time, the "smartest" investors at Long Term Capital Management went broke. That leads author Morgan Housel to one conclusion: there’s more to being smart than narrow expertise. "Being an expert in economics would help you understand the world if the world were governed purely by economics. But it’s not... Someone with B+ intelligence in several fields likely has a better grasp of how the world works than someone with A+ intelligence in one field but an ignorance of that field just being one piece of a complicated puzzle." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//collabfund.com/blog/different-kinds-of-smart/) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted YouTube Video of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [I've read 613 business books - these 16 will make you RICH](https://www.youtube.com/watch?v=QMgKbk9LSjI) | | Anthony Vicino · 19 mins | | Anthony Vicino, once $75K in debt and now a thriving entrepreneur and best-selling author, reveals the books that helped him turn his fortune around. On mindset: "I recommend you go straight to the primary sources, one of which is this book, *Letters from a Stoic* by Seneca." On health: "[*Outlive* by Peter Attia](https://www.amazon.com/Outlive-Longevity-Peter-Attia-MD/dp/0593236599?sr=1-1). This book lays out a comprehensive framework for not only living longer, but living better." On wealth: "My all-time favorite book on the topic of money is called [*How to Get Rich* by Felix Dennis](https://www.amazon.com/How-Get-Rich-Greatest-Entrepreneurs/dp/1591842719?sr=1-1)... Very, very few billionaires have ever written books on money, and so when they do, it's generally worth paying attention to what they have to say." On skills: "[*Traction* by Gino Wickman](https://www.amazon.com/Traction-Get-Grip-Your-Business/dp/1936661837). This is the closest thing you're going to find to an out-of-the-box operating system that you can immediately plug into your business." | | |  | | --- | | [➕  Add video to Reader](https://wise.readwise.io/save?url=https%3A//www.youtube.com/watch%3Fv%3DQMgKbk9LSjI) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Twitter Thread of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [I’ve got bad news](https://x.com/GestaltU/status/1954561703967867019/?rw_tt_thread=True) | | Adam Butler · 3 mins | | Another creator closely following AI weighs in on GPT-5’s release, joining the chorus that scaling current models won’t deliver the breakthroughs once promised. "The problem isn’t that the models stopped improving. It’s that the improvements we need are measured in orders of magnitude, not percentage points. Every step up the scaling laws now demands a city’s worth of electricity and a sovereign wealth fund’s worth of GPUs." | | |  | | --- | | [➕  Add tweet to Reader](https://wise.readwise.io/save?url=https%3A//x.com/GestaltU/status/1954561703967867019/%3Frw_tt_thread%3DTrue) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted PDF of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/is-chain-of-thought-reasoning-/2508.01191v3.pdf) | | Arizona State University · 37 mins | | Cited by Gary Marcus in his reflection on AI progress, a new Arizona State University paper questions whether so-called “reasoning” models can generalize beyond their training data: "The apparent reasoning prowess of Chain-of-Thought (CoT) is largely a brittle mirage... CoT is not a mechanism for genuine logical inference but rather a sophisticated form of structured pattern matching, fundamentally bounded by the data distribution seen during training." | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise-assets.s3.amazonaws.com/media/wisereads/articles/is-chain-of-thought-reasoning-/2508.01191v3.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Hand-picked book of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [The Tao of Seneca](https://readwise.io/reader/fd/351981646) | | Tim Ferriss | | Although Stoicism has seen a resurgence thanks to creative authors and influencers, nothing compares to returning to the source. As entrepreneur and this week’s video subject Anthony Vicino notes: *Epistulae Morales ad Lucilium,* or *Letters from a Stoic,* remains essential reading.  In these 124 letters written late in life, Seneca the Younger offers timeless advice on topics like despising death, brains and brawns, discursive reading, and groundless fears.  "There are more things, Lucilius, likely to frighten us than there are to crush us; we suffer more often in imagination than in reality."  We're thrilled to revisit Tim Ferriss' *The Tao of Seneca: Volume One*, which features the first segment of these letters, along with original illustrations, profiles of modern Stoics, interviews, and more. [Volumes Two and Three are also free](https://tim.blog/2017/07/06/tao-of-seneca/)! 🎉 | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise.io/reader/fd/351981646) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Handpicked RSS feed of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Mindbox](https://contemplationstation.substack.com/) | | Recent Harvard neuroscience graduate Yana Yuhai launched a Substack on practical neuroscience for self-discovery and well-being. From [how to pay attention again (the neuroscience of focus in the age of everything)](https://wise.readwise.io/save?url=https://contemplationstation.substack.com/p/how-to-pay-attention-again-the-neuroscience): "This loss of agency over our own attention that many of us are experiencing is not about willpower. It’s about neuroscience: The brain is wired to seek novelty. When something new pops up (a notification, a headline, a banner), your dopamine system lights up. And dopamine isn’t just about pleasure; it’s about anticipation. In other words, it’s the thrill of what might be next that hooks you." | | |  | | --- | | [🌐  Subscribe to RSS feed in Reader](https://wise.readwise.io/subscribe?url=https%3A//contemplationstation.substack.com/feed) | | | | |
+
+ 
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | | |  | | --- | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | You're receiving this Weekly Wisereads email newsletter because you signed up for [Readwise Reader](https://readwise.io/read). [Click here to unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) from these emails going forward. Readwise 5540 Centerview Drive, Suite 204 Raleigh, NC 27606 | | |
+
+![](https://ea.pstmrk.it/open?m=v3_1.Ljtu9VVDc2rKbyHeHFzVnw.qQfufwtQprt0ylvBBKBz3jI1nAnr2pXIOSVbTbzu7kSf5YnMZKKb5n-2EHBNB7rSegajv1e6r3KZglxDMRmJPM5VvG1bxCm2aS62XmBJ0l9WXnV4uHnHAi_81WRTLBqh2yHOVvPE5RUWhEgP6SW1_-0BP_b7Q-juQEEgP7nKu3KO76UpuMK8hIaQlIO4QQUe2G_EuUc3ktZ52HaPY3LtA3Sq7q1dPDcFZyJrMhtOqMQWyhbSSk83RQSSNkBptzbxJ84jMVbhoa1BO690gvv1YXJlojePnlWf1GIpcy6Gy3ePU-v0nN6KC1rxY3wUN0j79zHd1SEmsfPQqL5YFRonV1VMOAGQw3LQLhz3Ozcd9FnAZVYnbjSYAhQ93oCeKwaUyW3KNF2sPuMZNk9-_5nCLiJQpavizBzYYcCkGHuLihIcu5GcqP_Y7FHdExz5gY4cp1G-pbXHUIx2K0i1ybOPHYfpKb4cEUqP7SLdnzBno3CTmeniyMjatc9OWun16Rje2cr80CwC80pi7NOdQp5oumCuDkeiemStE7HTLpfFdvbFfDHnFQms9uZl_p8TN_yUR3ZxBj-mqr3_w98UzX-vQQ)

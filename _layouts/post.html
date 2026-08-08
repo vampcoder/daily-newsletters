@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<article class="post-container">
+  <header class="post-header">
+    <a href="{{ "/" | relative_url }}" class="back-btn">← Back to Newsletters</a>
+
+    <div class="post-info-bar">
+      <span class="badge badge-source">{{ page.source | default: "Newsletter" }}</span>
+      <span class="tile-meta">{{ page.date | date: "%B %d, %Y" }}</span>
+      {% if page.is_summary %}
+        <span class="badge badge-summary">Teaser Summary</span>
+      {% else %}
+        <span class="badge badge-full">Full Content</span>
+      {% endif %}
+    </div>
+
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  {% if page.original_url %}
+  <div class="cta-banner">
+    <div class="cta-text">
+      <strong>Looking for the complete article?</strong><br>
+      This newsletter is a summary preview. Read the full post directly on the publisher's site.
+    </div>
+    <a href="{{ page.original_url }}" target="_blank" rel="noopener noreferrer" class="cta-button">
+      🔗 Read Original Article Online
+    </a>
+  </div>
+  {% endif %}
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% if page.original_url %}
+  <div class="cta-banner" style="margin-top: 3rem;">
+    <div class="cta-text">
+      <strong>Finished reading the preview?</strong>
+    </div>
+    <a href="{{ page.original_url }}" target="_blank" rel="noopener noreferrer" class="cta-button">
+      🔗 Read Original Article Online
+    </a>
+  </div>
+  {% endif %}
+</article>

@@ -1,0 +1,89 @@
+---
+layout: post
+title: "Wisereads Vol. 110 — Robin Guo on Life is Poker, Not Chess, Dostoevsky’s Notes from Underground, and more"
+date: 2025-09-29 00:42:26 +0000
+source: "Readwise"
+excerpt: "Last week, we shared The Montessori Method, Maria Montessori's radical exploration of curiosity-led education. This week, we're sharing Fyodor Dostoevsky's Notes from Undergroun..."
+theme_gradient: "linear-gradient(135deg, #d97706 0%, #dc2626 100%)"
+image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
+is_summary: false
+---
+
+Last week, we shared The Montessori Method, Maria Montessori's radical exploration of curiosity-led education. This week, we're sharing Fyodor Dostoevsky's Notes from Underground, a brief but foundational work of existentialist literature.
+Keep reading to add to your Reader account below 👇
+As a reminder, you can also explore and save our community's most highlighted content inside Reader. If this content in general isn't your vibe, please feel free to unsubscribe altogether.
+Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Readwise | | |  |  |  | | --- | --- | | |  | | --- | | [Open in Reader](https://wise.readwise.io/save?url=https%3A//wise.readwise.io/issues/wisereads-vol-110) | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Weekly Wisereads | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Wisereads Vol. 110 — Robin Guo on Life is Poker, Not Chess, Dostoevsky’s Notes from Underground, and more | | Last week, we shared *The Montessori Method,* Maria Montessori's radical exploration of curiosity-led education. This week, we're sharing Fyodor Dostoevsky's *Notes from Underground*, a brief but foundational work of existentialist literature.  Keep reading to add to your Reader account below 👇  As a reminder, you can also [explore and save our community's most highlighted content](https://read.readwise.io/discover) inside Reader. If this content in general isn't your vibe, please feel free to [unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) altogether.  Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂 | | | |
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Articles of the week | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Blog.samaltman.com | | | [Abundant Intelligence](https://blog.samaltman.com/abundant-intelligence/) | | Sam Altman · 2 mins | | OpenAI CEO Sam Altman has unveiled plans for a new factory aimed at pushing past current compute limits to pursue bold goals like curing cancer and tutoring for every student. "Our vision is simple: we want to create a factory that can produce a gigawatt of new AI infrastructure every week. The execution of this will be extremely difficult; it will take us years to get to this milestone and it will require innovation at every level of the stack, from chips to power to building to robotics." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//blog.samaltman.com/abundant-intelligence/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Jenson.org | | | [Boring is good](https://jenson.org/boring/) | | Scott Jenson · 6 mins | | UX design veteran Scott Jenson predicts that Small Language Models will steadily replace larger general-purpose models in niche use cases, describing a future that's far less glamorous than headlines suggest. "Ultimately, a mature technology doesn’t look like magic; it looks like infrastructure. It gets smaller, more reliable, and much more boring. We’re here to solve problems, not look cool." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//jenson.org/boring/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | The Bird's Nest | | | [Life is Poker, Not Chess](https://www.robin-guo.com/p/life-is-poker-not-chess) | | Robin Guo · 8 mins | | As an investor at a16z, Robin Guo draws on his poker background not just in business, but in life. He shares how probability, table selection, bluffing, and variance come into play in everyday decisions. "Chess assumes a controlled environment: perfect information, one opponent, predictable outcomes. Life is much messier. Life is multiple players with hidden cards, changing rules, and luck that can absolutely demolish skill in any given hand. Once you start seeing life through the poker lens, you realize most people are playing chess in a poker world. No wonder they're frustrated when the "right" moves don't pay off." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.robin-guo.com/p/life-is-poker-not-chess) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted YouTube Video of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Wait... Smart Glasses are Suddenly Good?](https://www.youtube.com/watch?v=7gtc1DW2Tgo) | | Marques Brownlee · 12 mins | | Just ten months after roasting Meta’s prototype Orion AR glasses, Marques Brownlee is now raving about their successor: the Meta Ray-Ban Display, soon to hit shelves. "And as I'm getting to try these, I just keep thinking, 'The rate of improvement is kind of insane.'...  it got me thinking about if it could bring us closer to a post-smartphone world, which is obviously still super far away." | | |  | | --- | | [➕  Add video to Reader](https://wise.readwise.io/save?url=https%3A//www.youtube.com/watch%3Fv%3D7gtc1DW2Tgo) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Twitter Thread of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [The Humanoid Thesis](https://x.com/rewkang/status/1968392366987121081/?rw_tt_thread=True) | | Andrew Kang · 8 mins | | Mechanism founder and investor Andrew Kang explains why his firm believes general-purpose humanoid robots will take center stage, and why they’re backing companies like Apptronik and Figure. "Why do they have to look like humans? Because we’ve already built the world for humans. Door handles, shelves, forklifts, stairs—it’s all optimized for two arms, two legs, and a certain height. You can’t beat a form factor that’s natively interoperable with everything. We’ve optimized hundreds of years of infrastructure around human ergonomics." | | |  | | --- | | [➕  Add tweet to Reader](https://wise.readwise.io/save?url=https%3A//x.com/rewkang/status/1968392366987121081/%3Frw_tt_thread%3DTrue) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted PDF of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Nine Things I Learned In Ninety Years](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/nine-things-i-learned-in-ninet/Nine-Things-I-Learned-in-Ninety-Years.pdf) | | Edward Packard · 15 mins | | At the age of 94, Edward Packard, ideator and writer of Bantam’s first *Choose Your Own Adventure* book, reflects on some hard-earned wisdom. "Professor Korsgaard says, 'Your movements have to come from your constitutional rule over yourself. Otherwise, you’ll be ruled by a heap of impulses.' That permeated my consciousness. If you aren’t self-constituted, if you aren’t unified, if you don’t have integrity, you’ll be a mess." | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise-assets.s3.amazonaws.com/media/wisereads/articles/nine-things-i-learned-in-ninet/Nine-Things-I-Learned-in-Ninety-Years.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Hand-picked book of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Notes from Underground](https://readwise.io/reader/fd/368578411) | | Fyodor Dostoevsky | | Dostoevsky’s *Notes from Underground* drags readers into the mind of a brilliant, self-sabotaging narrator who dismantles neat ideas about reason, progress, and free will. Unsettling, razor-sharp, and surprisingly funny, it laid the groundwork for existentialist fiction to come; perfect for readers who like their big ideas delivered with bite.  "I swear, gentlemen, that to be too conscious is an illness—a real thoroughgoing illness."  This edition of [*Notes from Underground*](https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett) is available through Standard Ebooks. You can explore their collection of high quality, carefully formatted, and free public domain ebooks [here](https://standardebooks.org/ebooks). | | |  | | --- | | [➕  Add EPUB to Reader](https://wise.readwise.io/save?url=https%3A//readwise.io/reader/fd/368578411) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Handpicked RSS feed of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [High Agency](None) | | After his [viral essay on high agency](https://wise.readwise.io/save?url=https://www.highagency.com/), George Mack launched a Substack to keep the conversation going around one of the most valued skills of our time. From [10 ideas for overthinkers](https://wise.readwise.io/save?url=https://essays.highagency.com/p/10-ideas-for-overthinkers): "The low agency model of time has three modes: Past, present and future. The high agency model of time has five modes: Past-dwelling, past rectifying, present, future-worrying, and future-building. The low agency model of time assumes all time spent thinking about the past and the future is the same. It’s not. Rectifying the past is 100x better than dwelling on it. Building the future is 100x better than worrying about it." | | |  | | --- | | [🌐  Subscribe to RSS feed in Reader](https://wise.readwise.io/subscribe?url=https%3A//essays.highagency.com/feed) | | | | |
+
+ 
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | | |  | | --- | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | You're receiving this Weekly Wisereads email newsletter because you signed up for [Readwise Reader](https://readwise.io/read). [Click here to unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) from these emails going forward. Readwise 5540 Centerview Drive, Suite 204 Raleigh, NC 27606 | | |
+
+![](https://ea.pstmrk.it/open?m=v3_1.1D67-RYtgJD3ljDBXM_TbA.z7tAKdQQxY1nC_kT4k_Ydl9YKhAgg80R2yC2qYpQbLty0JnEEFlwi0YuO4HRkHEABoCLwdZ7cjv90P163wxVlFcg4YTEfu-affuqmck7qx_V52y0qPpze5PxVKwe3NyhlwaJG-DdANWz2mBsFyDfOBFTJglqYFg0nshebOSYRbLXjEFsoiqiiApq_tvjVBqHbzO6wXhY6oC64tPWtwThJapL4ibRoTHEPJidJ0NzAl8d-fqGBAhlswWPVOjoEn1ZMM4_HN-QYt7H1pUxsa4B20LwPGntZ2Ll33ptGSO0rRx11I6V09RcJKItEEZTbBaIrCC3oF-yuNyNCPmMSDCoAsw771ZxiGFqR7JtZ8x9Fg-KGPRefAW_Gzi3o_5fgzYAq3OShgB7nTq1e_xwDZrg9_5-vvNzxXLwoiGLFOOkso6AN3yoyx_iQM-WofrFcG0LtAQucPFEmvPbrTGCWVqIS3gLLRPwz1sbzXEF2uEAWMQ5jRLZg_Cpe8uCsqPFFLar2Ia1egE-mg_63MoR4JRKml-RZhvkMRCQA7Guj5sd7bCFhaFmGLSK8a-hbvce8dnKKp5yipYQjM34IsTijPrVrAOeNyQ0UW9mxgx5IAcDheNr2_JWVOiipDZFofbyNC8a)

@@ -1,0 +1,89 @@
+---
+layout: post
+title: "Wisereads Vol. 93 — How to Fall in Love with Questions by Elizabeth Weingarten, Jessica Livingston on finding your people, and more"
+date: 2025-06-01 18:41:05 +0000
+source: "Readwise"
+excerpt: "Welcome to Weekly Wisereads! 🙂 We've been sending the week’s most-highlighted documents in Readwise to users of our all-in-one reading app Reader every Sunday for the past 93 we..."
+theme_gradient: "linear-gradient(135deg, #0284c7 0%, #0d9488 100%)"
+image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
+is_summary: false
+---
+
+Welcome to Weekly Wisereads! 🙂
+We've been sending the week’s most-highlighted documents in Readwise to users of our all-in-one reading app Reader every Sunday for the past 93 weeks. This week, we wanted to send a sample issue to past users as well.
+If you like what you see and want to subscribe or give Reader a try (with a new 30-day free trial), save any of the documents below. Otherwise, feel free to disregard this email and you'll never receive another Weekly Wisereads.
+Keep reading for a special preview of Elizabeth Weingarten's debut, How to Fall in Love with Questions: A New Way to Thrive in Times of Uncertainty.
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Readwise | | |  |  |  | | --- | --- | | |  | | --- | | [Open in Reader](https://wise.readwise.io/save?url=https%3A//wise.readwise.io/issues/wisereads-vol-93) | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Weekly Wisereads | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Wisereads Vol. 93 — How to Fall in Love with Questions by Elizabeth Weingarten, Jessica Livingston on finding your people, and more | | Welcome to Weekly Wisereads! 🙂  We've been sending the week’s most-highlighted documents in Readwise to users of our all-in-one reading app Reader every Sunday for the past 93 weeks. This week, we wanted to send a sample issue to past users as well.  If you like what you see and want to **subscribe or give Reader a try** (with a new 30-day free trial), save any of the documents below. Otherwise, feel free to disregard this email and you'll never receive another Weekly Wisereads.  Keep reading for a special preview of Elizabeth Weingarten's debut, *How to Fall in Love with Questions: A New Way to Thrive in Times of Uncertainty.* | | | |
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Articles of the week | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Keeping Tabs | | | [Letter to Arc members 2025](https://browsercompany.substack.com/p/letter-to-arc-members-2025) | | The Browser Company · 12 mins | | The team behind the Arc browser explains their pivot to building Dia, designed to adapt to how AI has transformed internet use while tackling their original experimental browser’s issues: speed, security, and simplicity. "Early on, Scott Forstall told us Arc felt like a saxophone — powerful but hard to learn. Then he challenged us: make it a piano. Something anyone can sit down at and play. This is now the idea behind Dia: hide complexity behind familiar interfaces." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//browsercompany.substack.com/p/letter-to-arc-members-2025) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Foundersatwork.posthaven.com | | | [Find Your People](https://foundersatwork.posthaven.com/find-your-people/) | | Jessica Livingston · 5 mins | | In her commencement speech to the Bucknell University Class of 2025, Y Combinator cofounder Jessica Livingston urges young graduates to find direction by seeking out people who are doing interesting work. "My favorite trick is people. Talk to people. Get introduced to new people. Find the people that you think are interesting, and then ask what they're working on. And if you find yourself working at a place where you don't like the people, get out." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//foundersatwork.posthaven.com/find-your-people/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Wheresyoured.at | | | [The Era Of The Business Idiot](https://www.wheresyoured.at/the-era-of-the-business-idiot/) | | Edward Zitron · 51 mins | | Tech writer Edward Zitron delivers a scathing critique of modern managers, executives, and politicians while tracing the evolving role corporations play within the fair market. "Our society is in the thrall of dumb management, and functions as such. Every government, the top quarter of every org chart, features little Neros who, instead of battling the fire engulfing Rome, are sat in their palaces strumming an off-key version of 'Wonderwall' on the lyre and grumbling about how the firefighters need to work harder, and maybe we could replace them with an LLM and a smart sprinkler system." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.wheresyoured.at/the-era-of-the-business-idiot/) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted YouTube Video of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) | | 3Blue1Brown · 25 mins | | On 3Blue1Brown, Grant Sanderson uses animation to teach the basics of bitcoin: distributed ledgers, digital signatures, secret keys, and proof-of-work algorithms. "Think back to our distributed ledger situation. Everyone is there broadcasting transactions, and we want a way for them to agree on what the correct ledger is... In the same way that a transaction is only considered valid when it’s signed by the sender, a block is only considered valid if it has a proof of work." | | |  | | --- | | [➕  Add video to Reader](https://wise.readwise.io/save?url=https%3A//www.youtube.com/watch%3Fv%3DbBC-nXj3Ng4) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Twitter Thread of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Shocker! Claude 4 system prompt was leaked, and it's a goldmine!](https://x.com/intuitmachine/status/1926190101853319646/?rw_tt_thread=True) | | Carlos E. Perez · 9 mins | | Software architect and Intuition Machine co-founder Carlos Perez takes a deep dive into the agentic patterns of Anthropic’s newest model, Claude 4, highlighting how run-loop prompting enables: "Agentic persistence: It can follow through on multi-step tasks without losing coherence" and "Responsiveness: It adapts its next move based on outcomes of previous steps." | | |  | | --- | | [➕  Add tweet to Reader](https://wise.readwise.io/save?url=https%3A//x.com/intuitmachine/status/1926190101853319646/%3Frw_tt_thread%3DTrue) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted PDF of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Things I Have Learned From Being in Unhealthy Connection](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/things-i-have-learned-from-bei/Things-I-Have-Learned-From-Being-in-Un_yCreHGh.pdf) | | Rosa Lewis · 18 mins | | In her list of 150 tips for navigating unhealthy relationship dynamics, mystic, meditation guide, and artist Rosa Lewis explores how sincerity, withdrawal, and self-sacrifice shape our connections. Her sage advice includes: "People who care about you will care about how they make you feel" and "People who are sincere tend to project their sincerity onto others, and people who are performative tend to project their performativity onto others." | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise-assets.s3.amazonaws.com/media/wisereads/articles/things-i-have-learned-from-bei/Things-I-Have-Learned-From-Being-in-Un_yCreHGh.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Hand-picked book of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [How to Fall In Love with Questions](https://readwise.io/reader/fd/314954889) | | Elizabeth Weingarten | | On the brink of asking her husband for a divorce, applied behavioral scientist and journalist Elizabeth Weingarten found her research on the role of questions in our lives suddenly becoming deeply personal: what do we do in times of uncertainty? Tired of the cliché advice to "embrace" uncertainty, Elizabeth turned to the wisdom of Austrian poet Rainer Maria Rilke, who advised a young poet:  "I want to ask you, dear sir, as best I can, to have patience about everything that is still unresolved in your heart; try to love the questions themselves, like locked rooms, like books written in a truly foreign language. Don’t look for the answers now: they cannot be given to you yet because you cannot yet live them, and what matters is to live everything. For now, live the questions. If you do, then maybe, gradually, without your realizing it, some far-off day you will live your way into the answer."  Inspired by Rilke’s 150-year-old insight and contemporary science, Elizabeth Weingarten offers a fresh perspective on navigating life’s greatest mysteries in her debut, *How to Fall in Love with Questions*—without rushing for quick, easy answers.  We’re thrilled that Elizabeth is sharing a preview of her book with Wisereads readers. If you enjoy the preview, you can purchase [a full copy](https://www.harpercollins.com/products/how-to-fall-in-love-with-questions-elizabeth-weingarten?variant=42922801758242), out now. | | |  | | --- | | [➕  Add EPUB to Reader](https://wise.readwise.io/save?url=https%3A//readwise.io/reader/fd/314954889) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Handpicked RSS feed of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Of Permanent Things](https://shannonhood.substack.com/) | | Shannon Hood, a homeschooling mother of six and voracious reader, reflects on the enduring aspects of her life—motherhood, friendship, and great literature—in her Substack. From [Book Club for Two](https://wise.readwise.io/save?url=https://shannonhood.substack.com/p/book-club-for-two?triedRedirect=true): "There is a closeness, a communion that occurs when we share intimate thoughts and feelings with each other, and one of the simplest ways to do this is to read great books and share our ideas about them with someone else." | | |  | | --- | | [🌐  Subscribe to RSS feed in Reader](https://wise.readwise.io/subscribe?url=https%3A//shannonhood.substack.com/feed) | | | | |
+
+ 
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | | |  | | --- | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | You're receiving this Weekly Wisereads email newsletter because you signed up for [Readwise Reader](https://readwise.io/read). [Click here to unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) from these emails going forward. Readwise 5540 Centerview Drive, Suite 204 Raleigh, NC 27606 | | |
+
+![](https://ea.pstmrk.it/open?m=v3_1.gzJYJQ81l1IhmSY7ynJYpQ.Bna0fOTacpwcWEG_B0gNbHdAsyYD4FsXIjzJWQJu-n15hDPyfh3BxJ65YtG2i6HFK6UeQFfaFIV7NAf8_F5eXvWi-gJuLfYuO5cNaT_tQmo5W2yjWhE-RbnAulnYsju4OZBoRSLoFA9f8VJQGS9Qs0r6gqHt0RelRJ1ddU9F-jvWD6GTBK50oRsY2PZbh1IEQYzK15qKpz8GX17W8X-_IipUPR4euWtnqObklnNJX1zXdarVcIEFNRSj6FhisDbVwK0M6Hl0cGXqoajwQrGbkq_4BlSGMzWxcSHyVCu5L9ZP2ZjUclk3GcbvKcyGqlTW9GsqBaXb5B6Iam_DubPWglEDHsS3nn2mrb8cr7cgbvbtjXtMEu5BNbVRn5h9jB0OZDRGsTd7jyTMCKY6hh_oOTGqlBnqco9jgCtQBa2LTgJMqFkVK-kKLij-rk8K9GV1KQQ9xPxm8D8605YEFAiDgO8dxX36BhbxkTuWH7wrB7EwlVQ5TIaynDnW3aoKobpz8q1ZuR5mobWuQnvy3KDko8SIXJxOEIipxNftqi7nsZnaPZ63WRd4sxqIAjsk3scHY7S6zJMEfsmOD7TYdNdcbNuijmRdLXIHzrQY3An6Z1_9GKQ5qSmqriln-nq1Bs3hh4OaDBHEVDpc5COKSYTJ7Q)
