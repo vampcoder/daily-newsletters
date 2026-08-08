@@ -2,11 +2,6 @@
 layout: post
 title: "“Is to categorise happiness, to compare it, to scare it away?”"
 date: 2025-05-17 13:02:35 +0000
-source: "The Substack Post"
-excerpt: "In this edition of the Weekender: poetry merch, Wikipedia holes, and a contemplation of time ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #0284c7 0%, #0d9488 100%)"
-image: "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48c897d0-b43a-44af-a63f-fa6159c1cf5b_1000x1000.png"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTE3MTMwMjM1LjMuNjQ3MjIwODE5NWQyYTExM0BtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxNjM3MzU0MDQsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6NzM3MjM3LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ3NDg5Njc4LCJleHAiOjE3NTAwODE2NzgsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.FqXTLPdAaRsgWo5uen60iVh0J2QJqh0DC3Mtx9xLVkM)
