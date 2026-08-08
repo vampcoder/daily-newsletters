@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 113  — The collected Berkshire Hathaway letters, Andrej Karpathy's nanochat, and more"
 date: 2025-10-19 16:16:51 +0000
-source: "Readwise"
-excerpt: "Last week, we shared a collection of Marc Andreessen’s timeless blog posts from 2007 to 2009: 200 pages of startup and leadership wisdom in one ebook. This week, we're sharing a..."
-theme_gradient: "linear-gradient(135deg, #d97706 0%, #dc2626 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we shared a collection of Marc Andreessen’s timeless blog posts from 2007 to 2009: 200 pages of startup and leadership wisdom in one ebook. This week, we're sharing a preview of Warren Buffett's entire collection of Berkshire Hathaway letters, thoughtfully compiled into a single volume by Max Olson.
