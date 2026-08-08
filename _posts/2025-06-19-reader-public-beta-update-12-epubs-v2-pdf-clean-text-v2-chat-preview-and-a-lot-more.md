@@ -2,12 +2,6 @@
 layout: post
 title: "Reader Public Beta Update #12 (EPUBs v2, PDF Clean Text v2, Chat Preview, and a lot more)"
 date: 2025-06-19 20:38:22 +0000
-source: "Readwise"
-excerpt: "Hi Amol, I'm pleased to send out this public beta newsletter #12 describing the latest round of Reader [https://readwise.io/read] updates (as well as a few new fun features for ..."
-theme_gradient: "linear-gradient(135deg, #2563eb 0%, #3b82f6 100%)"
-image: "https://readwise-community.ghost.io/content/images/2025/06/reading-view_standard-vs-long-form.gif"
-original_url: "https://readwise.io/reader/update-june2025"
-is_summary: true
 ---
 
 Hi Amol,
