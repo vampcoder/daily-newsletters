@@ -2,12 +2,6 @@
 layout: post
 title: "“To be human is to be an animal that needs witnesses”"
 date: 2025-10-05 19:04:14 +0000
-source: "Substack"
-excerpt: "From Substack ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏..."
-theme_gradient: "linear-gradient(135deg, #2563eb 0%, #3b82f6 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!Rt8r!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-system-email-align-left.png%3Fv%3D2"
-original_url: "https://open.substack.com/pub/post/p/to-be-human-is-to-be-an-animal-that?utm_source=unread-posts-digest-email&inbox=true&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNzUyMzE2NzQsImlhdCI6MTc1OTY5MTA1NCwiZXhwIjoxNzYyMjgzMDU0LCJpc3MiOiJwdWItNzM3MjM3Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.o1oQtmGRImPq8YVyLKfwA0TDwkR8At8-f7EpVF7wOBg"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUxMDA1MTkwNDE0LjMuOThhNjQyOWNjYjAyZGU1NS53a3owOTZiNUBtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOm51bGwsInQiOm51bGwsImEiOm51bGwsInMiOm51bGwsImMiOiJ1bnJlYWQtcG9zdHMtZGlnZXN0LWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NTk2OTEwNTQsImV4cCI6MTc2MjI4MzA1NCwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.midCncEbmaKeUUoYOvgRolaTRCzlaYrXQhEQHC6B41I)
