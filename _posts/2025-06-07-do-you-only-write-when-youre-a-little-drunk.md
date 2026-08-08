@@ -2,11 +2,6 @@
 layout: post
 title: "“Do you only write when you’re a little drunk?”"
 date: 2025-06-07 13:02:34 +0000
-source: "The Substack Post"
-excerpt: "In this edition of the Weekender: reading Proust, the French Open, the volcano that changed the world, and a tribute to Edmund White ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ..."
-theme_gradient: "linear-gradient(135deg, #d97706 0%, #dc2626 100%)"
-image: "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48c897d0-b43a-44af-a63f-fa6159c1cf5b_1000x1000.png"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNjA3MTMwMjM0LjMuZDgyNDFlMDU3NDU1OTJjNEBtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjE2NTM3MDM4MCwidCI6Im5ld3NsZXR0ZXIiLCJhIjoiZXZlcnlvbmUiLCJzIjo3MzcyMzcsImMiOiJwb3N0IiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NDkzMDQzMDIsImV4cCI6MTc1MTg5NjMwMiwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.YArZ3iiJermlwXZIAuo-o6U5PUct4URRV2VpyQ_32-Q)
