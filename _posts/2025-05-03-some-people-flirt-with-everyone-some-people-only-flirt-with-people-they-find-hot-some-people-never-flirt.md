@@ -2,11 +2,6 @@
 layout: post
 title: "“Some people flirt with everyone. Some people only flirt with people they find hot. Some people never flirt.”"
 date: 2025-05-03 13:01:58 +0000
-source: "The Substack Post"
-excerpt: "In this edition of the Weekender: divine scents, people-watching, and the horror of the Aritzia changing room ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏..."
-theme_gradient: "linear-gradient(135deg, #0284c7 0%, #0d9488 100%)"
-image: "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48c897d0-b43a-44af-a63f-fa6159c1cf5b_1000x1000.png"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTAzMTMwMTU4LjMuY2YzZDE4ZDIwNzU4OTg2ZUBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxNjI3MjU2MjgsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6NzM3MjM3LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ2MjgwNjYzLCJleHAiOjE3NDg4NzI2NjMsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.MVtv7kKalzqF8YYxRnhWI3CGM0p8NfAsJLv4f-2F7EI)
