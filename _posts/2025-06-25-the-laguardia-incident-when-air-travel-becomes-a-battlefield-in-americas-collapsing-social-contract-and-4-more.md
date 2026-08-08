@@ -2,12 +2,6 @@
 layout: post
 title: "\"The LaGuardia Incident: When Air Travel Becomes a Battlefield in America's Collapsing Social Contract\" and 4 more"
 date: 2025-06-25 15:39:19 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #0284c7 0%, #0d9488 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!dfGw!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/justicemoms/p/the-laguardia-incident-when-air-travel?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjYyOTQ5MzIsImlhdCI6MTc1MDg2NTk1OSwiZXhwIjoxNzUzNDU3OTU5LCJpc3MiOiJwdWItMTY1NjYyNiIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.djBTHpb7pFjYtB7P3DHrZdvqlWBwJ-cK6ETTuZp7z4E"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNjI1MTUzOTE5LjMuMzc0Y2RkNTRiYmJhYzc5Ni55NXBuZzF6bUBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoicGVyc29uYWxpemVkLXJlY29tbWVuZGF0aW9uLWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NTA4NjU5NTksImV4cCI6MTc1MzQ1Nzk1OSwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.2zzLpfM67HrECm4M2XJ0Qjg8B2dbK6utzRuxIngGP1k)
