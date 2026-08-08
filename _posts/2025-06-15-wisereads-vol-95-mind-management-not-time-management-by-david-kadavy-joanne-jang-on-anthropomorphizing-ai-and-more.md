@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 95 — Mind Management, Not Time Management by David Kadavy, Joanne Jang on anthropomorphizing AI, and more"
 date: 2025-06-15 18:29:34 +0000
-source: "Readwise"
-excerpt: "Happy Father's Day 🌟, everyone! Last week, we featured an excerpt of Henry Oliver's recent release, Second Act: What Late Bloomers Can Tell You About Success and Reinventing You..."
-theme_gradient: "linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Happy Father's Day 🌟, everyone! Last week, we featured an excerpt of Henry Oliver's recent release, Second Act: What Late Bloomers Can Tell You About Success and Reinventing Your Life. This week, we're sharing an exclusive special edition of David Kadavy's magnum opus, Mind Management, Not Time Management, his guide to productivity that puts energy at the forefront.
