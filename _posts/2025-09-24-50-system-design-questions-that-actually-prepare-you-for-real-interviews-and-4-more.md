@@ -2,12 +2,6 @@
 layout: post
 title: "\"50 System Design Questions That Actually Prepare You for Real Interviews\" and 4 more"
 date: 2025-09-24 15:37:11 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!dfGw!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/javarevisited/p/top-50-system-design-interview-problems?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNzIyMjczNDAsImlhdCI6MTc1ODcyODIzMSwiZXhwIjoxNzYxMzIwMjMxLCJpc3MiOiJwdWItMTQ0NDkwNCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.0s86NkZaadMlvLc-KmDriuBtmXTXkC2Drpzx7fzbz84"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwOTI0MTUzNzExLjMuMzc0Y2RkNTRiYmJhYzc5Ni41M3h3N2U4MUBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoicGVyc29uYWxpemVkLXJlY29tbWVuZGF0aW9uLWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NTg3MjgyMzEsImV4cCI6MTc2MTMyMDIzMSwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.K5NE7ZGYph59kbZKylU0xffFGOLQqQ-F0o3UDajQoVU)
