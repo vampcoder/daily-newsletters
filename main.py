@@ -565,12 +565,35 @@ def mark_email_as_read(service, msg_id):
         print(f"[DRY-RUN] Would mark email ID '{msg_id}' as READ.")
         return
 
-    service.users().messages().modify(
+        service.users().messages().modify(
         userId='me',
         id=msg_id,
         body={'removeLabelIds': ['UNREAD']}
     ).execute()
     print(f"[SUCCESS] Marked email ID '{msg_id}' as READ.")
+
+
+PROCESSED_EMAILS_FILE = Path(os.getenv('PROCESSED_EMAILS_FILE', 'processed_emails.json'))
+
+
+def load_processed_email_ids():
+    """Load previously processed Gmail message IDs to prevent duplicate posts."""
+    if PROCESSED_EMAILS_FILE.exists():
+        try:
+            return set(json.loads(PROCESSED_EMAILS_FILE.read_text(encoding='utf-8')))
+        except Exception:
+            pass
+    return set()
+
+
+def save_processed_email_id(msg_id):
+    """Save processed Gmail message ID to persistent store."""
+    processed = load_processed_email_ids()
+    processed.add(msg_id)
+    try:
+        PROCESSED_EMAILS_FILE.write_text(json.dumps(sorted(list(processed)), indent=2), encoding='utf-8')
+    except Exception as err:
+        print(f"[WARNING] Could not save processed email ID '{msg_id}': {err}")
 
 
 def process_inbox():
@@ -596,19 +619,24 @@ def process_inbox():
         existing_categories = get_existing_categories()
         print(f"[INFO] Found {len(existing_categories)} existing categories: {existing_categories}")
 
+        processed_ids = load_processed_email_ids()
+        print(f"[INFO] Loaded {len(processed_ids)} previously processed email ID(s).")
+
+        # Query all emails with label:newsletter (both read and unread)
         results = service.users().messages().list(
             userId='me',
-            q='label:newsletter is:unread'
+            q='label:newsletter'
         ).execute()
 
         messages = results.get('messages', [])
         if not messages:
-            print("[INFO] No unread newsletter emails found matching 'label:newsletter is:unread'.")
+            print("[INFO] No newsletter emails found matching 'label:newsletter'.")
             return
 
-        print(f"[INFO] Found {len(messages)} unread newsletter email(s).")
+        unfetched_messages = [m for m in messages if m['id'] not in processed_ids]
+        print(f"[INFO] Found {len(messages)} total email(s) in 'label:newsletter' ({len(unfetched_messages)} un-fetched).")
 
-        for msg_summary in messages:
+        for msg_summary in unfetched_messages:
             msg_id = msg_summary['id']
             try:
                 msg = service.users().messages().get(
@@ -631,6 +659,7 @@ def process_inbox():
                 if is_promotional_email(subject, sender, raw_html):
                     print(f"[SKIP] Pre-filter promotional email skipped: '{subject}' ({msg_id})")
                     mark_email_as_read(service, msg_id)
+                    save_processed_email_id(msg_id)
                     continue
 
                 # Stage 1: LLM Curation Gate
@@ -640,6 +669,7 @@ def process_inbox():
                     if not should_pub or score < MIN_RELEVANCE_SCORE:
                         print(f"[SKIP] LLM Curation filtered out low relevance email: '{subject}'")
                         mark_email_as_read(service, msg_id)
+                        save_processed_email_id(msg_id)
                         continue
 
                 print(f"[INFO] Processing newsletter: '{subject}' ({msg_id})")
@@ -653,8 +683,9 @@ def process_inbox():
                 filename = f"{date_prefix}-{subject_slug}.md"
 
                 publish_to_github(repo, filename, markdown_doc, subject)
-                if repo is not None:
-                    mark_email_as_read(service, msg_id)
+                
+                mark_email_as_read(service, msg_id)
+                save_processed_email_id(msg_id)
 
             except Exception as item_err:
                 print(f"[ERROR] Failed to process email ID '{msg_id}': {item_err}")
