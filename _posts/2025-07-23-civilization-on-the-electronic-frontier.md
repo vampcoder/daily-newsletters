@@ -2,11 +2,6 @@
 layout: post
 title: "Civilization on the electronic frontier"
 date: 2025-07-23 17:30:52 +0000
-source: "The Substack Post"
-excerpt: "The Substack Post cross-posted a post from Disjointed Alex Posey Jul 23 · The Substack Post An essay from our cofounder Hamish McKenzie on the internet’s original promise, and h..."
-theme_gradient: "linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!rx0T!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcaa5ec1d-3c9b-4b21-bafe-d083579ccec8_666x762.heic"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNzIzMTczMDUyLjMuODgyNWU1MjgxYzgyYTIzNUBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxNjkwNjYwMTEsInQiOiJyZXN0YWNrIiwiYSI6ImV2ZXJ5b25lIiwicyI6NzM3MjM3LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzUzMjk0MDUxLCJleHAiOjE3NTU4ODYwNTEsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.9dKRmZ_3bRsNG_quwq98ZKdAvOYZAG6SpxhmBtkD198)
