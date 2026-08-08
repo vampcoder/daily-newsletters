@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 96 — Lean Learning by Pat Flynn, Fernando Borretti on managing ADHD, and more"
 date: 2025-06-22 16:58:17 +0000
-source: "Readwise"
-excerpt: "Last week, we featured an exclusive special edition of David Kadavy's magnum opus, Mind Management, Not Time Management. This week, we're excited to share a preview of Pat Flynn..."
-theme_gradient: "linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we featured an exclusive special edition of David Kadavy's magnum opus, Mind Management, Not Time Management. This week, we're excited to share a preview of Pat Flynn's recent release: Lean Learning, a guide for lifelong learners ready to cut through the chaos and start making real progress.
