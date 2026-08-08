@@ -2,11 +2,6 @@
 layout: post
 title: "The future of fiction"
 date: 2025-05-16 17:00:29 +0000
-source: "The Substack Post"
-excerpt: "Naomi Kanakia shares three short stories and thoughts on the new literary scene ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏..."
-theme_gradient: "linear-gradient(135deg, #d97706 0%, #dc2626 100%)"
-image: "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d99e78d-17c5-4dde-9fa1-d24829e402af_1024x1024.jpeg"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTE2MTcwMDI5LjMuYjdmNGNmZTZjNDlhNjMzMkBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjoxNjM2NzcxMDQsInQiOiJuZXdzbGV0dGVyIiwiYSI6ImV2ZXJ5b25lIiwicyI6NzM3MjM3LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ3NDE3MTM5LCJleHAiOjE3NTAwMDkxMzksImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.iwZ8pE7JtYslCpPwCKhxWjl8fM6pCWq5jMk67KKjwIU)
