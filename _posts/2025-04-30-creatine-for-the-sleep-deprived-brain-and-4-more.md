@@ -2,12 +2,6 @@
 layout: post
 title: "\"Creatine for the Sleep-Deprived Brain\" and 4 more"
 date: 2025-04-30 15:47:14 +0000
-source: "The Substack Post"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #d97706 0%, #dc2626 100%)"
-image: "https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/brandonluumd/p/creatine-for-the-sleep-deprived-brain?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjExOTg2NjksImlhdCI6MTc0NjAyODAzMywiZXhwIjoxNzQ4NjIwMDMzLCJpc3MiOiJwdWItNDY2MTc4MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.fv2qQEqRyzRj_RKcQuBVin6IfsCkRu3YuqfzDjiud1Y"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNDMwMTU0NzE0LjMuN2MxZDQzN2FiMWUyNzRjZC5taDJoYzBnNUBtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOm51bGwsInQiOm51bGwsImEiOm51bGwsInMiOjczNzIzNywiYyI6InBlcnNvbmFsaXplZC1yZWNvbW1lbmRhdGlvbi1lbWFpbCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ2MDI4MDM0LCJleHAiOjE3NDg2MjAwMzQsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.73LqWEIcxTHYIc1w1-uXGV1fcSVPyOuOhRC-P8El-Dw)
