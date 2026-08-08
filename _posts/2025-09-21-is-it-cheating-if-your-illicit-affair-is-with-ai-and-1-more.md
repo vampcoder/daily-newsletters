@@ -2,12 +2,6 @@
 layout: post
 title: "Is it cheating if your illicit affair is with AI? and 1 more"
 date: 2025-09-21 19:20:05 +0000
-source: "Substack"
-excerpt: "From Substack ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏..."
-theme_gradient: "linear-gradient(135deg, #9333ea 0%, #c026d3 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!Rt8r!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-system-email-align-left.png%3Fv%3D2"
-original_url: "https://open.substack.com/pub/post/p/is-it-cheating-if-your-illicit-affair?utm_source=unread-posts-digest-email&inbox=true&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNzM5ODM1NjcsImlhdCI6MTc1ODQ4MjQwNSwiZXhwIjoxNzYxMDc0NDA1LCJpc3MiOiJwdWItNzM3MjM3Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.LUPqGuN_yGTIdDbK26gcg4fL1kmDTv6YdN3GfX0oTGo"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwOTIxMTkyMDA1LjMuOThhNjQyOWNjYjAyZGU1NS44NTY1ZzVya0BtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOm51bGwsInQiOm51bGwsImEiOm51bGwsInMiOm51bGwsImMiOiJ1bnJlYWQtcG9zdHMtZGlnZXN0LWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NTg0ODI0MDUsImV4cCI6MTc2MTA3NDQwNSwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.YgbSmRMW5Kr_-Em3-Jnfu1tu_gOV9BDef8H-633lc5Y)
