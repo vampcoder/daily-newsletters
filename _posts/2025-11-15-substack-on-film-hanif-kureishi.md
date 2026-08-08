@@ -2,12 +2,6 @@
 layout: post
 title: "Substack on Film: Hanif Kureishi"
 date: 2025-11-15 21:40:28 +0000
-source: "Substack"
-excerpt: "From Substack ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏..."
-theme_gradient: "linear-gradient(135deg, #059669 0%, #10b981 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!Rt8r!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-system-email-align-left.png%3Fv%3D2"
-original_url: "https://open.substack.com/pub/post/p/substack-on-film-hanif-kureishi?utm_source=unread-posts-digest-email&inbox=true&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNzg3NDgwNTksImlhdCI6MTc2MzI0MjgyOCwiZXhwIjoxNzY1ODM0ODI4LCJpc3MiOiJwdWItNzM3MjM3Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.6pGIKMasbm6zCAWazDUCyy2ynqmoUSaqUvcB2pxRA9g"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUxMTE1MjE0MDI4LjMuOThhNjQyOWNjYjAyZGU1NS5lNW1oMDdsakBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoidW5yZWFkLXBvc3RzLWRpZ2VzdC1lbWFpbCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzYzMjQyODI4LCJleHAiOjE3NjU4MzQ4MjgsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.rafy5bBDHlvKgONrWTaUN_Pfi9lt6Y43xlXbWommY38)
