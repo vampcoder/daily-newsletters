@@ -2,11 +2,6 @@
 layout: post
 title: "Welcome to The Median: A Data & AI Newsletter"
 date: 2026-08-08 08:02:44 +0000
-source: "The Median @ DataCamp"
-excerpt: "Thank you for subscribing to The Median: A Data & AI Newsletter ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ..."
-theme_gradient: "linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!_X8T!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ceabf29-73af-48c9-a2e5-07cf527bb64f_512x512.png"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/o/d254f76e33a627eb/p.gif?token=eyJtIjoiPDIwMjYwODA4MDgwMjQ0LjMuOTUyNmM4OTkwMjEwZDViZC5vdzRhOWFkM0BtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOm51bGwsInQiOm51bGwsImEiOm51bGwsInMiOjMwMjExODQsImMiOiJmcmVlLXdlbGNvbWUiLCJmIjp0cnVlLCJwb3NpdGlvbiI6InRvcCIsImlhdCI6MTc4NjE3NjE2NCwiZXhwIjoxNzg4NzY4MTY0LCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0.9qptEYK5g-hcMBx7t7w7vwtxx-Ax9dsfRsempF6PhWk)
