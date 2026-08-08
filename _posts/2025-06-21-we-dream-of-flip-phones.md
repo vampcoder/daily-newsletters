@@ -2,11 +2,6 @@
 layout: post
 title: "“We dream of flip phones”"
 date: 2025-06-21 13:00:56 +0000
-source: "The Substack Post"
-excerpt: "In this edition of the Weekender: contemplating fruit, phones, and the impractical dream of a pristine white shirt ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ..."
-theme_gradient: "linear-gradient(135deg, #059669 0%, #10b981 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!dilT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48c897d0-b43a-44af-a63f-fa6159c1cf5b_1000x1000.png"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNjIxMTMwMDU2LjMuYzBkNWExMDIwYzY2NTg0ZEBtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjE2NjQyNzQ5MiwidCI6Im5ld3NsZXR0ZXIiLCJhIjoiZXZlcnlvbmUiLCJzIjo3MzcyMzcsImMiOiJwb3N0IiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NTA1MTMwNjQsImV4cCI6MTc1MzEwNTA2NCwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.GMCZY7kkbQE48ErweURATNkN5cGlCtTh60eXsjUqx_c)
