@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 111 — Ensorcelled by Eliot Peper, Uri Bram on throwing good parties, and more"
 date: 2025-10-05 21:17:54 +0000
-source: "Readwise"
-excerpt: "Last week, we shared Fyodor Dostoevsky's Notes from Underground, a brief but foundational work of existentialist literature. This week, we're sharing an exclusive copy of Eliot ..."
-theme_gradient: "linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we shared Fyodor Dostoevsky's Notes from Underground, a brief but foundational work of existentialist literature. This week, we're sharing an exclusive copy of Eliot Peper's latest release, Ensorcelled, an adventurous short story praised by Samuel Arbesman, Kevin Kelly, and Craig Mod.
