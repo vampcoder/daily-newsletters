@@ -2,11 +2,6 @@
 layout: post
 title: "Substack on Film: Lloyd Kahn"
 date: 2025-05-15 16:58:07 +0000
-source: "The Substack Post"
-excerpt: "Watch now (7 mins) | The nonagenarian writer on curiosity, gardening, and the beauty of the Bay ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #2563eb 0%, #3b82f6 100%)"
-image: "https://substackcdn.com/image/fetch/w_1138,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1865c520-7c0f-4868-b5f4-7354c1a8f5c7_320x240.gif"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTE1MTY1ODA3LjMuMDYzMmZiMzJlZTExNTljNEBtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOjE2MzYwMjk1NCwidCI6InBvZGNhc3QiLCJhIjoiZXZlcnlvbmUiLCJzIjo3MzcyMzcsImMiOiJwb3N0IiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NDczMzA3MTYsImV4cCI6MTc0OTkyMjcxNiwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.mUl9KTxll1Jy7OKyYGUeY1_XNPsq42r0Lh2yRufPOG0)
