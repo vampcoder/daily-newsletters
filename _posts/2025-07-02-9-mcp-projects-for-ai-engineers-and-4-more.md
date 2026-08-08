@@ -2,12 +2,6 @@
 layout: post
 title: "\"9 MCP Projects for AI Engineers\" and 4 more"
 date: 2025-07-02 15:35:07 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #2563eb 0%, #3b82f6 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!dfGw!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/avichawla/p/9-mcp-projects-for-ai-engineers?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjU2NTIwNjIsImlhdCI6MTc1MTQ3MDUwNywiZXhwIjoxNzU0MDYyNTA3LCJpc3MiOiJwdWItMTExOTg4OSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qmKFWWqco0PsfqleLJpvgfp2UVoYtemu8kQOHsNNsM4"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNzAyMTUzNTA3LjMuMzc0Y2RkNTRiYmJhYzc5Ni43aHF6Z3l5Z0BtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoicGVyc29uYWxpemVkLXJlY29tbWVuZGF0aW9uLWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NTE0NzA1MDgsImV4cCI6MTc1NDA2MjUwOCwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.pB88B7LgOYBNHVjBkLMhEik5rmbtzPqv1wG6x3h1wgI)
