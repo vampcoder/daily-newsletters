@@ -2,12 +2,6 @@
 layout: post
 title: "“Summer is neon: buzzing, pulsing, solar-powered and high on its own supply”"
 date: 2025-08-04 16:37:07 +0000
-source: "Substack"
-excerpt: "From Substack ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏..."
-theme_gradient: "linear-gradient(135deg, #059669 0%, #10b981 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!Rt8r!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-system-email-align-left.png%3Fv%3D2"
-original_url: "https://open.substack.com/pub/post/p/summer-is-neon-buzzing-pulsing-solar?utm_source=unread-posts-digest-email&inbox=true&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjk2OTQxMTIsImlhdCI6MTc1NDMyNTQyNywiZXhwIjoxNzU2OTE3NDI3LCJpc3MiOiJwdWItNzM3MjM3Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.3x1oY63AuT0bx1JiXdNkyjiWoTyzEzwyL2zEIz060tc"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwODA0MTYzNzA3LjMuOThhNjQyOWNjYjAyZGU1NS5ndDRidnA3NEBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoidW5yZWFkLXBvc3RzLWRpZ2VzdC1lbWFpbCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzU0MzI1NDI4LCJleHAiOjE3NTY5MTc0MjgsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.2iV-HQDDtjRfYR04vq1AGwy0NwYb91Y6jMApa3qkbnY)
