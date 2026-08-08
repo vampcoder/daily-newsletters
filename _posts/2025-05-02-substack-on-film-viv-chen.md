@@ -2,11 +2,6 @@
 layout: post
 title: "Substack on Film: Viv Chen"
 date: 2025-05-02 15:01:15 +0000
-source: "The Substack Post"
-excerpt: "Watch now (2 mins) | The fashion writer talks San Francisco style ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)"
-image: "https://substackcdn.com/image/fetch/w_1138,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe72ac88b-1a66-4bc4-828b-1edd52214862_320x240.gif"
-is_summary: false
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTAyMTUwMTE1LjMuYjNjMDUzMjFmMGQ4MmYxNkBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjoxNjI2NTQ0MTgsInQiOiJwb2RjYXN0IiwiYSI6ImV2ZXJ5b25lIiwicyI6NzM3MjM3LCJjIjoicG9zdCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ2MjAwMzE0LCJleHAiOjE3NDg3OTIzMTQsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.lDAQFFBhRGfsyU8Od9bx1QEJBhNSlMiUHrpyv6xT08Q)
