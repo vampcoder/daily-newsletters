@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 93 — How to Fall in Love with Questions by Elizabeth Weingarten, Jessica Livingston on finding your people, and more"
 date: 2025-06-01 18:41:05 +0000
-source: "Readwise"
-excerpt: "Welcome to Weekly Wisereads! 🙂 We've been sending the week’s most-highlighted documents in Readwise to users of our all-in-one reading app Reader every Sunday for the past 93 we..."
-theme_gradient: "linear-gradient(135deg, #0284c7 0%, #0d9488 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Welcome to Weekly Wisereads! 🙂
