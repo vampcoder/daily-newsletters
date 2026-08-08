@@ -2,11 +2,6 @@
 layout: post
 title: "What’s Happening at Zerodha Varsity - Recent Updates"
 date: 2025-04-28 14:41:10 +0000
-source: "Zerodha"
-excerpt: "Dear Amol, The sole focus of the Varsity team is to find new and meaningful ways to improve financial literacy among Indians. With this in mind, we started publishing articles a..."
-theme_gradient: "linear-gradient(135deg, #2563eb 0%, #3b82f6 100%)"
-image: "https://zerodha.com/static/images/logo.png"
-is_summary: false
 ---
 
 [![Zerodha logo](https://zerodha.com/static/images/logo.png)](https://zerodha.com)
