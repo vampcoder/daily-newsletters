@@ -2,12 +2,6 @@
 layout: post
 title: "\"Portfolio Update – 04/22/2025\" and 4 more"
 date: 2025-05-14 15:36:15 +0000
-source: "The Substack Post"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #e11d48 0%, #f43f5e 100%)"
-image: "https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/mvcinvesting/p/portfolio-update-04222025?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjE5MTczNTgsImlhdCI6MTc0NzIzNjk3NSwiZXhwIjoxNzQ5ODI4OTc1LCJpc3MiOiJwdWItMjA5ODQ2MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.Zivp5zn2Eo0jhJLSVQ2xSbtQ2byHXAO6I44Kztrom3Y"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTE0MTUzNjE1LjMuN2MxZDQzN2FiMWUyNzRjZC5peTQ4OGJtaEBtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOm51bGwsInQiOm51bGwsImEiOm51bGwsInMiOjczNzIzNywiYyI6InBlcnNvbmFsaXplZC1yZWNvbW1lbmRhdGlvbi1lbWFpbCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ3MjM2OTc1LCJleHAiOjE3NDk4Mjg5NzUsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.0HIAsO2bAm_e_Dn-KFm0ueK0iJXVm3Nyz-_ce_dtVTg)
