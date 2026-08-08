@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 112 — The Pmarca Blog Archives, Stratechery's Ben Thompson on Sora and Meta AI, and more"
 date: 2025-10-12 19:34:02 +0000
-source: "Readwise"
-excerpt: "Last week, we shared an exclusive copy of Eliot Peper's latest release, Ensorcelled, an adventurous short story praised by Samuel Arbesman, Kevin Kelly, and Craig Mod. This week..."
-theme_gradient: "linear-gradient(135deg, #9333ea 0%, #c026d3 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we shared an exclusive copy of Eliot Peper's latest release, Ensorcelled, an adventurous short story praised by Samuel Arbesman, Kevin Kelly, and Craig Mod. This week, we’re featuring a collection of Marc Andreessen’s timeless blog posts from 2007 to 2009: 200 pages of startup and leadership wisdom in one ebook.
