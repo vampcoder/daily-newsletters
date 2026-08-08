@@ -2,12 +2,6 @@
 layout: post
 title: "“You can’t transform the world unless you can understand it, and you can’t understand the world unless you can measure it”"
 date: 2026-08-02 16:14:32 +0000
-source: "Substack"
-excerpt: "From Substack ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏..."
-theme_gradient: "linear-gradient(135deg, #9333ea 0%, #c026d3 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!Rt8r!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-system-email-align-left.png%3Fv%3D2"
-original_url: "https://open.substack.com/pub/post/p/you-cant-transform-the-world-unless?utm_source=unread-posts-digest-email&inbox=true&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoyMDkzMTYxNjcsImlhdCI6MTc4NTY4NzI3MiwiZXhwIjoxNzg4Mjc5MjcyLCJpc3MiOiJwdWItNzM3MjM3Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.tzQHBgMEvzp4lVA0eI5cFpXCWRCg0xY4XaGMe4oIVtk"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/o/b54d66775e7d036a/p.gif?token=eyJtIjoiPDIwMjYwODAyMTYxNDMyLjMuOThhNjQyOWNjYjAyZGU1NS5nOHk4ZjhseEBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoidW5yZWFkLXBvc3RzLWRpZ2VzdC1lbWFpbCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzg1Njg3MjcyLCJleHAiOjE3ODgyNzkyNzIsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ._CKC_DS4nNEbHalgU4hUWeGXKjK3LeclFD3KRWeshbU)
