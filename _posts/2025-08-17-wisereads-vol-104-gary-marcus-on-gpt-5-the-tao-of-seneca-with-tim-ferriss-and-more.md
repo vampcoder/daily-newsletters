@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 104 — Gary Marcus on GPT-5, The Tao of Seneca with Tim Ferriss, and more"
 date: 2025-08-17 22:49:17 +0000
-source: "Readwise"
-excerpt: "Last week, we shared Edwin A. Abbott's Flatland, his 19th-century social satire and masterclass in abstraction. This week, we're sharing Tim Ferriss' The Tao of Seneca: Volume O..."
-theme_gradient: "linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we shared Edwin A. Abbott's Flatland, his 19th-century social satire and masterclass in abstraction. This week, we're sharing Tim Ferriss' The Tao of Seneca: Volume One, the first installment drawn from Seneca the Younger’s timeless epistolary wisdom.
