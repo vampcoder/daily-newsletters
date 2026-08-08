@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 110 — Robin Guo on Life is Poker, Not Chess, Dostoevsky’s Notes from Underground, and more"
 date: 2025-09-29 00:42:26 +0000
-source: "Readwise"
-excerpt: "Last week, we shared The Montessori Method, Maria Montessori's radical exploration of curiosity-led education. This week, we're sharing Fyodor Dostoevsky's Notes from Undergroun..."
-theme_gradient: "linear-gradient(135deg, #d97706 0%, #dc2626 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we shared The Montessori Method, Maria Montessori's radical exploration of curiosity-led education. This week, we're sharing Fyodor Dostoevsky's Notes from Underground, a brief but foundational work of existentialist literature.
