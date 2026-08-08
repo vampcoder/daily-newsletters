@@ -183,7 +183,7 @@ def parse_email_parts(payload):
 
 
 def is_promotional_email(subject, sender, text_body):
-    """Check if email is marketing spam, discount blast, or order notification."""
+    """Check if email is marketing spam, welcome email, discount blast, or announcement."""
     content_sample = f"{subject} {sender} {text_body[:500]}".lower()
     for pattern in PROMO_KEYWORDS:
         if re.search(pattern, content_sample):
@@ -301,11 +301,30 @@ def get_existing_categories(posts_directory=POSTS_DIR):
             match = re.search(r'^category:\s*"([^"]+)"', content, re.MULTILINE) or re.search(r'^category:\s*(.+)$', content, re.MULTILINE)
             if match:
                 cat = match.group(1).strip().strip('"\'')
-                if cat:
+                if cat and cat not in ('General', 'Announcement'):
                     categories.add(cat)
         except Exception:
             pass
     return sorted(list(categories))
+
+
+def extract_json_from_llm(text):
+    """Extract and parse JSON object from LLM response text."""
+    text = text.strip()
+    if text.startswith("```json"):
+        text = text.split("```json", 1)[1].split("```", 1)[0].strip()
+    elif text.startswith("```"):
+        text = text.split("```", 1)[1].split("```", 1)[0].strip()
+
+    match = re.search(r'\{.*\}', text, re.DOTALL)
+    if match:
+        text = match.group(0)
+
+    # Clean trailing commas in JSON arrays/objects
+    text = re.sub(r',\s*([\]}])', r'\1', text)
+
+    return json.loads(text)
+
 
 
 def curate_newsletter_with_llm(subject, sender, body_preview):
@@ -313,33 +332,43 @@ def curate_newsletter_with_llm(subject, sender, body_preview):
     if not ENABLE_LLM_CURATION or not LLM_API_KEY or not litellm:
         return True, 7, "LLM curation disabled or API key missing."
 
-    prompt = f"""You are an elite AI editor curating a technical and professional newsletter archive.
-Evaluate the following email to decide whether it is a valuable, informative newsletter worth publishing.
+    prompt = f"""You are a strict technical editor curating a high-signal professional reading archive.
+Evaluate the following email to decide whether it contains real, substantive reading content (articles, technical essays, deep-dives, market insights, news analysis).
 
 Sender: {sender}
 Subject: {subject}
 Content Preview: {body_preview[:800]}
 
-Rules:
-- Mark should_publish=false for promotional offers, sales blasts, discount codes, receipts, billing alerts, webinars, or low-value marketing ads.
-- Mark should_publish=true for informative tech, engineering, finance, business, science, AI, or insightful personal essays.
-- Rate relevance_score from 1 (garbage) to 10 (exceptional quality).
+STRICT REJECTION RULES (Mark should_publish = false & relevance_score < 5):
+1. Welcome / Onboarding / Subscription Confirmation emails ("Welcome to...", "You're on the list", "Thanks for subscribing").
+2. Promotional / Marketing / Sales / Discount offers ("50% off", "Limited offer inside", "Upgrade to paid", "Course enrollment").
+3. Announcements / System / Substack notifications ("Now streaming on Substack", "Coming to you live", "Platform update").
+4. Transactional emails (receipts, password resets, billing alerts, invoices).
+
+PUBLICATION CRITERIA (Mark should_publish = true & relevance_score >= 6 ONLY if):
+- The email contains a real informative article, engineering analysis, finance breakdown, industry insight, or essay worth reading.
+
+Respond ONLY with a valid JSON object matching exact format:
+{{
+  "should_publish": true,
+  "relevance_score": 8,
+  "reason": "Brief rationale"
+}}
 """
 
     try:
         kwargs = {
             "model": LLM_MODEL,
             "messages": [{"role": "user", "content": prompt}],
-            "api_key": LLM_API_KEY,
-            "response_format": CurationDecision
+            "api_key": LLM_API_KEY
         }
         if LLM_API_BASE:
             kwargs["api_base"] = LLM_API_BASE
 
         response = litellm.completion(**kwargs)
         raw_content = response.choices[0].message.content
-        decision = CurationDecision.model_validate_json(raw_content)
-        return decision.should_publish, decision.relevance_score, decision.reason
+        data = extract_json_from_llm(raw_content)
+        return data.get("should_publish", True), data.get("relevance_score", 7), data.get("reason", "")
     except Exception as err:
         print(f"[WARNING] LLM Curation Stage 1 error ({err}). Falling back to rule decision.")
         return True, 7, f"Fallback due to error: {err}"
@@ -358,32 +387,41 @@ Subject: {subject}
 Existing Categories in Repository: [{cats_str}]
 
 Full Body Text:
-{body_text[:4000]}
+{body_text[:3500]}
 
-Instructions:
-1. polished_title: Create a clean, catchy, reader-friendly title.
-2. category: Select the best category for this content. You MUST pick an existing category from [{cats_str}] if it fits closely, OR create a concise new category (1-3 words) if none of the existing ones fit.
-3. executive_summary: Write a 2-3 sentence overview summary suitable for a card preview.
-4. key_takeaways: Extract 3 to 5 core bullet point takeaways or key insights.
-5. cleaned_markdown: Clean up the newsletter markdown. Remove unsubscribe footers, email headers, sponsor ads, and tracking clutter. Keep all informative main content intact.
+Respond ONLY with a valid JSON object matching exact format:
+{{
+  "polished_title": "Clean catchy title",
+  "category": "Pick a meaningful content topic (e.g. Tech & AI, Finance & Investing, Healthcare & Medicine, Software Engineering, Productivity). DO NOT use 'Announcement', 'General', or 'Marketing'",
+  "executive_summary": "2-3 sentence overview summary for card preview",
+  "key_takeaways": ["Takeaway 1", "Takeaway 2", "Takeaway 3"],
+  "cleaned_markdown": "Cleaned post body text removing unsubscribe footers, email headers, and ads"
+}}
 """
 
     try:
         kwargs = {
             "model": LLM_MODEL,
             "messages": [{"role": "user", "content": prompt}],
-            "api_key": LLM_API_KEY,
-            "response_format": PolishedNewsletter
+            "api_key": LLM_API_KEY
         }
         if LLM_API_BASE:
             kwargs["api_base"] = LLM_API_BASE
 
         response = litellm.completion(**kwargs)
         raw_content = response.choices[0].message.content
-        return PolishedNewsletter.model_validate_json(raw_content)
+        data = extract_json_from_llm(raw_content)
+        return PolishedNewsletter(
+            polished_title=data.get("polished_title", subject),
+            category=data.get("category", "General"),
+            executive_summary=data.get("executive_summary", ""),
+            key_takeaways=data.get("key_takeaways", []),
+            cleaned_markdown=data.get("cleaned_markdown", body_text)
+        )
     except Exception as err:
         print(f"[WARNING] LLM Polishing Stage 2 error ({err}).")
         return None
+
 
 
 def build_jekyll_markdown(subject, sender, email_dt, raw_html, existing_categories=None):
