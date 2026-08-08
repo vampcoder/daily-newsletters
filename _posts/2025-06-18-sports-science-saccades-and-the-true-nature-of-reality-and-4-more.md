@@ -2,12 +2,6 @@
 layout: post
 title: "\"Sports Science, Saccades and The True Nature of Reality\" and 4 more"
 date: 2025-06-18 15:39:22 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #9333ea 0%, #c026d3 100%)"
-image: "https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/jordanshallow/p/sports-science-saccades-and-the-true?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjM1MTI3NjYsImlhdCI6MTc1MDI2MTE2MSwiZXhwIjoxNzUyODUzMTYxLCJpc3MiOiJwdWItNDk2OTg1NyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.3PpfKYcQDA-HcCMj-lCYi-wjdbMZLRuOBhUCkzR2p2M"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNjE4MTUzOTIyLjMuMzc0Y2RkNTRiYmJhYzc5Ni4wcTFiam9ndUBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoicGVyc29uYWxpemVkLXJlY29tbWVuZGF0aW9uLWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NTAyNjExNjIsImV4cCI6MTc1Mjg1MzE2MiwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.2nVxCQMtWuiUL7B83b0xTtge5BpUmVDFV2C1LRyNY8Q)
