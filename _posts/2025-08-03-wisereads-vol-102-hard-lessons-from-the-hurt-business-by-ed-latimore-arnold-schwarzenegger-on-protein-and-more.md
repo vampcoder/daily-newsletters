@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 102 — Hard Lessons from the Hurt Business by Ed Latimore, Arnold Schwarzenegger on protein, and more"
 date: 2025-08-03 21:39:16 +0000
-source: "Readwise"
-excerpt: "Last week, we shared a preview of Smart Brevity: The Power of Saying More with Less, a guide to clear communication by Jim VandeHei, Mike Allen and Roy Schwartz. This week, we'r..."
-theme_gradient: "linear-gradient(135deg, #0284c7 0%, #0d9488 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we shared a preview of Smart Brevity: The Power of Saying More with Less, a guide to clear communication by Jim VandeHei, Mike Allen and Roy Schwartz. This week, we're sharing an excerpt of Ed Latimore's upcoming debut, Hard Lessons from the Hurt Business, a raw and honest story about turning pain into purpose.
