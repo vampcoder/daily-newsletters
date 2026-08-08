@@ -2,12 +2,6 @@
 layout: post
 title: "“I’ve never been anyone’s muse”"
 date: 2025-10-19 17:03:13 +0000
-source: "Substack"
-excerpt: "From Substack ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏..."
-theme_gradient: "linear-gradient(135deg, #9333ea 0%, #c026d3 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!Rt8r!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-system-email-align-left.png%3Fv%3D2"
-original_url: "https://open.substack.com/pub/post/p/ive-never-been-anyones-muse?utm_source=unread-posts-digest-email&inbox=true&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNzY0NTQ2MjUsImlhdCI6MTc2MDg5MzM5MywiZXhwIjoxNzYzNDg1MzkzLCJpc3MiOiJwdWItNzM3MjM3Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.RCC3JKHXVeO9AA5Rfl5D1WVX76A1CuTkkTgPL72iPYg"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUxMDE5MTcwMzEzLjMuOThhNjQyOWNjYjAyZGU1NS4zOXhvaTllMUBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoidW5yZWFkLXBvc3RzLWRpZ2VzdC1lbWFpbCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzYwODkzMzkzLCJleHAiOjE3NjM0ODUzOTMsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.AKR17ySVKmjd8TjjjxD7qm-wJyhchVr3sPjgWiUJrS4)
