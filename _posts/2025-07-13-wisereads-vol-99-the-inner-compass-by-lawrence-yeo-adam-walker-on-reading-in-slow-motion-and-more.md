@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 99 — The Inner Compass by Lawrence Yeo, Adam Walker on Reading in Slow Motion, and more"
 date: 2025-07-13 16:50:30 +0000
-source: "Readwise"
-excerpt: "Last week, we featured an excerpt of The Magic of Code, a love letter to computing by Samuel Arbesman. This week, we're sharing an exclusive five-chapter preview of Lawrence Yeo..."
-theme_gradient: "linear-gradient(135deg, #9333ea 0%, #c026d3 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we featured an excerpt of The Magic of Code, a love letter to computing by Samuel Arbesman. This week, we're sharing an exclusive five-chapter preview of Lawrence Yeo's debut book, The Inner Compass: Cultivating the Courage to Trust Yourself.
