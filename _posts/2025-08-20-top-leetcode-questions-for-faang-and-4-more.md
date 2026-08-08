@@ -2,12 +2,6 @@
 layout: post
 title: "\"🎯Top Leetcode Questions for FAANG\" and 4 more"
 date: 2025-08-20 15:37:29 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!dfGw!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/devshreebharatia/p/top-leetcode-questions-for-faang?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjg5MjI1NzAsImlhdCI6MTc1NTcwNDI0OSwiZXhwIjoxNzU4Mjk2MjQ5LCJpc3MiOiJwdWItNTM0NTI3NiIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.kjGZTwyOpefwiK6amUN6iZXRZcIYVSlguvfG7YmCVrQ"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwODIwMTUzNzI5LjMuMzc0Y2RkNTRiYmJhYzc5Ni4wMGMzMWM5bkBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoicGVyc29uYWxpemVkLXJlY29tbWVuZGF0aW9uLWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NTU3MDQyNDksImV4cCI6MTc1ODI5NjI0OSwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.Lo8ItLI_ZFGq35LbKlOywdGO1aAJfNDxV_eZhCOVIbo)
