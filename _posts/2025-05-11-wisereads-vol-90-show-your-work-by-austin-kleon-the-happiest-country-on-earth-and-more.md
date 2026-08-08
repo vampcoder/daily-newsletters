@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 90 — Show Your Work! by Austin Kleon, the ‘Happiest Country on Earth’, and more"
 date: 2025-05-11 19:26:56 +0000
-source: "Readwise"
-excerpt: "Happy Mother's Day 🌸, everyone! Last week, we featured an excerpt of a personal Readwise favorite: Healing Back Pain: The Mind-Body Connection by John E. Sarno. This week, we're..."
-theme_gradient: "linear-gradient(135deg, #e11d48 0%, #f43f5e 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Happy Mother's Day 🌸, everyone! Last week, we featured an excerpt of a personal Readwise favorite: Healing Back Pain: The Mind-Body Connection by John E. Sarno. This week, we're sharing a preview of Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered by Austin Kleon.
