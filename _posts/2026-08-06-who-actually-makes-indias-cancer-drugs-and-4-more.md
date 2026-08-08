@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Who Really Makes India’s Cancer Drugs?"
+title: "The Hidden Architects of India's Cancer Drug Supply Chain"
 date: 2026-08-06 15:19:45 +0000
 source: "BlindSpot Research"
 category: "Healthcare & Medicine"
-excerpt: "An investigative deep-dive into the murky manufacturing landscape of India’s cancer drugs, tracing the supply chain from active pharmaceutical ingredients to finished formulations. The piece names key players—both large and niche—and challenges assumptions about who truly controls production. Essential reading for anyone tracking pharmaceutical supply chains or investing in Indian pharma."
-theme_gradient: "linear-gradient(135deg, #673ab7 0%, #512da8 100%)"
+excerpt: "BlindSpot Research unpacks the complex network of companies behind India's cancer drug supply, revealing the key players and market dynamics. This analysis highlights the strategic importance of Indian pharmaceutical manufacturers in global oncology treatment and the investment implications."
+theme_gradient: "linear-gradient(135deg, #9c27b0 0%, #7b1fa2 100%)"
 is_summary: false
 key_takeaways:
-  - "The real manufacturers behind India’s cancer drugs may differ from the big brand names you see on labels."
-  - "Supply-chain control is concentrated among a few API and niche formulation players, which affects pricing and availability."
-  - "Understanding the manufacturing hierarchy is crucial for both healthcare procurement and pharma investing."
+  - "India's cancer drug supply chain is dominated by a handful of specialized manufacturers, including Beta Drugs, Sakar, and Shilpa Medicare."
+  - "These companies are critical to global oncology treatment, yet they remain largely under the radar for most investors."
+  - "Understanding this ecosystem reveals significant opportunities and risks for those tracking healthcare and pharma investments."
 ---
 
 ### Who Actually Makes India's Cancer Drugs?

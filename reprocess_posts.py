@@ -39,13 +39,13 @@ def get_gradient_theme(text):
     hash_num = int(hashlib.md5(text.encode('utf-8')).hexdigest(), 16)
     return THEME_GRADIENTS[hash_num % len(THEME_GRADIENTS)]
 
+# Ignore tracking pixels, badges, and avatars
+IGNORE_PATTERNS = ['pixel', 'avatar', 'icon', 'favicon', 'beacon', 'open.php', 'logo-small', '1x1', 'tracker', 'emoji', 'p.gif', '/o/', 'button', 'badge', 'subscribe', '/open', 'pstmrk.it', 'tracking', 'open?']
+
 def find_featured_image(text_body_or_html):
     """Find the first real article image URL (Substack CDN, diagram, chart, etc.)."""
     if not text_body_or_html:
         return None
-
-    IGNORE_PATTERNS = ['pixel', 'avatar', 'icon', 'favicon', 'beacon', 'open.php', 'logo-small', '1x1', 'tracker', 'emoji', 'p.gif', '/o/', 'button', 'badge', 'subscribe', '/open', 'pstmrk.it', 'tracking', 'open?']
-
 
     # 1. Search markdown image syntax ![...](url)
     md_imgs = re.findall(r'!\[.*?\]\((https?://[^\s\)]+)\)', text_body_or_html)
@@ -69,6 +69,7 @@ def find_featured_image(text_body_or_html):
             return url
 
     return None
+
 
 
 def get_existing_categories():
@@ -120,8 +121,12 @@ def reprocess_top_n(limit=5):
 
             post_date = date_match.group(1).strip() if date_match else ""
             post_image = image_match.group(1).strip().strip('"\'') if image_match else ""
+            if post_image and any(t in post_image.lower() for t in IGNORE_PATTERNS):
+                post_image = ""
+
             if not post_image:
                 post_image = find_featured_image(body_text) or ""
+
 
             post_url = original_url_match.group(1).strip().strip('"\'') if original_url_match else ""
 
