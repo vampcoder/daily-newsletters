@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Wisereads Vol. 85 — Large Language Models Pass the Turing Test, Hume's Enquiry Concerning Human Understanding, and more"
+date: 2025-04-06 18:43:00 +0000
+source: "Readwise"
+category: "General"
+excerpt: "Last week, we featured the full text of Dan Koe's newest release, Purpose & Profit, a collection of essays on finding your calling. This week, we’re sharing David Hume’s classic..."
+theme_gradient: "linear-gradient(135deg, #9333ea 0%, #c026d3 100%)"
+image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
+is_summary: false
+---
+
+Last week, we featured the full text of Dan Koe's newest release, Purpose & Profit, a collection of essays on finding your calling. This week, we’re sharing David Hume’s classic exploration of human knowledge and its limits: An Enquiry Concerning Human Understanding.
+Keep reading to add to your Reader account below 👇
+As a reminder, you can also explore and save our community's most highlighted content inside Reader. If this content in general isn't your vibe, please feel free to unsubscribe altogether.
+Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Readwise | | |  |  |  | | --- | --- | | |  | | --- | | [Open in Reader](https://wise.readwise.io/save?url=https%3A//wise.readwise.io/issues/wisereads-vol-85) | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Weekly Wisereads | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Wisereads Vol. 85 — Large Language Models Pass the Turing Test, Hume's Enquiry Concerning Human Understanding, and more | | Last week, we featured the full text of Dan Koe's newest release, *Purpose & Profit,* a collection of essays on finding your calling. This week, we’re sharing David Hume’s classic exploration of human knowledge and its limits: *An Enquiry Concerning Human Understanding*.  Keep reading to add to your Reader account below 👇  As a reminder, you can also [explore and save our community's most highlighted content](https://read.readwise.io/discover) inside Reader. If this content in general isn't your vibe, please feel free to [unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) altogether.  Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂 | | | |
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Articles of the week | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Anthropic.com | | | [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) | | Anthropic · 12 mins | | Drawing from neuroscience, the team at Anthropic uncovers behaviors suggesting that Claude "thinks" in multiple languages, rationalizes predetermined conclusions, and plans ahead. "Claude will plan what it will say many words ahead, and write to get to that destination. We show this in the realm of poetry, where it thinks of possible rhyming words in advance and writes the next line to get there. This is powerful evidence that even though models are trained to output one word at a time, they may think on much longer horizons to do so." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.anthropic.com/research/tracing-thoughts-language-model) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | paulgraham.com | | | [What to Do](https://paulgraham.com/do.html) | | Paul Graham · 6 mins | | Y Combinator founder Paul Graham takes on a timeless question: What should you be doing with your life? His answer—making good new things. "Another reason I like this phrasing is that it biases us toward creation. It causes us to prefer the kind of ideas that are naturally seen as making things rather than, say, making critical observations about things other people have made. Those are ideas too, and sometimes valuable ones, but it's easy to trick oneself into believing they're more valuable than they are. Criticism seems sophisticated, and making new things often seems awkward, especially at first; and yet it's precisely those first steps that are most rare and valuable." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//paulgraham.com/do.html) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | julian.digital | | | [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/) | | Julian Lehr · 8 mins | | Julian Lehr finds chat interfaces useful but far from the endgame for human-computer communication. Since speaking and writing are an order of magnitude slower than thought, he envisions something more fluid, almost telepathic. "My favorite example of truly effortless communication is a memory I have of my grandparents. At the breakfast table, my grandmother never had to ask for the butter – my grandfather always seemed to pass it to her automatically, because after 50+ years of marriage he just sensed that she was about to ask for it. It was like they were communicating telepathically. \*That\* is the type of relationship I want to have with my computer!" | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//julian.digital/2025/03/27/the-case-against-conversational-interfaces/) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted YouTube Video of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [44 Harsh Truths About Human Nature - Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco) | | Chris Williamson · 3 hrs and 16 mins | | On the *Modern Wisdom* podcast, investor and entrepreneur Naval Ravikant shares his philosophy on winning the game of life, touching on everything from happiness and success to selfishness and acting on inspiration. "Inspiration is perishable. Act on it immediately. So when you’re inspired to do something, do that thing... If I want to learn something, I do it at the moment of curiosity. The moment the curiosity arrives, I go learn that thing immediately. I download the book, I get on Google, I get on ChatGPT, whatever, I will figure that thing out on the spot, and that’s when the learning happens." | | |  | | --- | | [➕  Add video to Reader](https://wise.readwise.io/save?url=https%3A//www.youtube.com/watch%3Fv%3DKyfUysrNaco) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Twitter Thread of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [The most dangerous, oddly glorified, yet overlooked problem](https://x.com/lorwen108/status/1902379840483029150/?rw_tt_thread=True) | | Lorwen C. Nagle · 4 mins | | Psychologist Lorwen C. Nagle distills the teachings of Eckhart Tolle, author of *The Power of Now*, into practical tools for avoiding overthinking and underacting. "The first awakening, according to Tolle, is surprisingly simple: Recognizing there's a voice in your head that never stops commenting on your life... Don't just 'be aware' of thoughts - create deliberate distance by labeling them: 'Having a thought about failure' instead of 'I'm going to fail.'" | | |  | | --- | | [➕  Add tweet to Reader](https://wise.readwise.io/save?url=https%3A//x.com/lorwen108/status/1902379840483029150/%3Frw_tt_thread%3DTrue) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted PDF of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Large Language Models Pass the Turing Test](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/large-language-models-pass-the/2503.23674v1.pdf) | | Cameron R. Jones and Benjamin K. Bergen · 51 mins | | In a Turing-style experiment at UC San Diego, students chatted with both a human and an LLM. In 73% of cases, they mistook GPT-4.5 for the human. Experts say this reveals more about human judgment than machine intelligence: "Fundamentally, the Turing test is not a direct test of intelligence, but a test of humanlikeness. For Turing, intelligence may have appeared to be the biggest barrier for appearing humanlike... But as machines become more similar to us, other contrasts have fallen into sharper relief (Christian, 2011), to the point where intelligence alone is not sufficient to appear convincingly human." | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise-assets.s3.amazonaws.com/media/wisereads/articles/large-language-models-pass-the/2503.23674v1.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Hand-picked book of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [An Enquiry Concerning Human Understanding](https://readwise.io/reader/fd/290049298) | | David Hume | | Part of the *Great Books of the Western World* series from Encyclopædia Britannica, *An Enquiry Concerning Human Understanding* is a landmark work in philosophy. David Hume examines how we form beliefs through habit, experience, and custom—placing human psychology, not reason, at the center of knowledge. The result is a foundational text in both empiricism and skepticism.  "The sweetest and most inoffensive path of life leads through the avenues of science and learning; and whoever can either remove any obstructions in this way, or open up any new prospect, ought so far to be esteemed a benefactor to mankind."  This edition of *[An Enquiry Concerning Human Understanding](https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding)* is available through Standard Ebooks. You can explore their collection of high quality, carefully formatted, and free public domain ebooks [here](https://standardebooks.org/ebooks). | | |  | | --- | | [➕  Add EPUB to Reader](https://wise.readwise.io/save?url=https%3A//readwise.io/reader/fd/290049298) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Handpicked RSS feed of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Mind Matters](https://musingmind.substack.com/) | | Oshan Jarow, formerly of Vox’s *Future Perfect*, brings a thoughtful, narrative-driven lens to consciousness and human flourishing in his Substack, *Mind Matters*. From [Are minds made of wonder?](https://wise.readwise.io/save?url=https://musingmind.substack.com/p/are-minds-made-of-wonder): "In her early 60s, my mother began fumbling her words a bit too often. Around Christmas of 2022, we all began to notice. Her sentences would stop short, and she’d look around, as if someone had swooped in and stolen the word she intended to use. Did anyone see where it went?" | | |  | | --- | | [🌐  Subscribe to RSS feed in Reader](https://wise.readwise.io/subscribe?url=https%3A//musingmind.substack.com/feed) | | | | |
+
+ 
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | | |  | | --- | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | You're receiving this Weekly Wisereads email newsletter because you signed up for [Readwise Reader](https://readwise.io/read). [Click here to unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) from these emails going forward. Readwise 5540 Centerview Drive, Suite 204 Raleigh, NC 27606 | | |
+
+![](https://ea.pstmrk.it/open?m=v3_1.qzZMMmrzO4oMN6upZ_7LyQ.4dZQgI7sqpYjowxvB_rRoYBCOQ8wG8xZlfNBJagOL38se-812qNT_JxSqQn5ezo_KnnFC3UifnGwikLmVbl7Lc7399fbRLrnkdc3zFHnCGFJmQY1I6Vc3lImSkH7jcxvLiE1TuI6Dje0hpiWuAa8T6jWZL9mmWw80L4lkU-tbAwc3JqF1CFjl9sFQZGw7OEx7wrK3NO6Ohix-YzCH8uZ6VcopFZCVuFFcNDUokpzyKEteBmMUptuVlJQ42xZNhV-zFqKTt9omCd2InNiN1I010QQxJhNFwAhQE-jXCKqV3iS2V7EBdBg3XVEKFZMUvl0WDAlIl6ZuoOZjHb5kEdZIgqA36Z07q_U0y_p8DQbpdIOaeouQ105_DeB9JNrMWu4epQ9cM3GDvtRv81dZoO3P-nBuOeEsS0kYBLWDV2uUvnPpWQTieTDQ5E13VqvLR7fSuYymZFlXJnKSRCTuPF4ioJIprVMgV4YB7ZCCyeAIqTk4NyuDR_LJgIhv6uZphplaC3Oahp1TFwr3p2zfWMm-L_JyECQXFPpKij9DH3zxEPirtpgp3AjiZ-ipeyy5BHmYELJFToGnObzI476iOOsIufcU4PKFSW4u3RIcPBgJ_got0uUmSThQF4A2uEJ4qd7)
