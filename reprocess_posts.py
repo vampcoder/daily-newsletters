@@ -43,28 +43,33 @@ def find_featured_image(text_body_or_html):
     """Find the first real article image URL (Substack CDN, diagram, chart, etc.)."""
     if not text_body_or_html:
         return None
-    # 1. Search img src
-    img_srcs = re.findall(r'<img [^>]*src=["\'](https?://[^"\']+)["\']', text_body_or_html, re.IGNORECASE)
-    for url in img_srcs:
-        url_lower = url.lower()
-        if not any(t in url_lower for t in ['pixel', 'avatar', 'icon', 'favicon', 'beacon', 'open.php', 'logo-small', '1x1', 'tracker', 'emoji']):
-            return url
 
-    # 2. Search markdown image syntax ![...](url)
+    IGNORE_PATTERNS = ['pixel', 'avatar', 'icon', 'favicon', 'beacon', 'open.php', 'logo-small', '1x1', 'tracker', 'emoji', 'p.gif', '/o/', 'button', 'badge', 'subscribe', '/open', 'pstmrk.it', 'tracking', 'open?']
+
+
+    # 1. Search markdown image syntax ![...](url)
     md_imgs = re.findall(r'!\[.*?\]\((https?://[^\s\)]+)\)', text_body_or_html)
     for url in md_imgs:
         url_lower = url.lower()
-        if not any(t in url_lower for t in ['pixel', 'avatar', 'icon', 'favicon', 'beacon', 'open.php', 'logo-small', '1x1', 'tracker', 'emoji']):
+        if not any(t in url_lower for t in IGNORE_PATTERNS):
+            return url
+
+    # 2. Search html img src
+    img_srcs = re.findall(r'<img [^>]*src=["\'](https?://[^"\']+)["\']', text_body_or_html, re.IGNORECASE)
+    for url in img_srcs:
+        url_lower = url.lower()
+        if not any(t in url_lower for t in IGNORE_PATTERNS):
             return url
 
     # 3. Direct image link (Substack, Cloudinary, S3, jpg/png/webp)
     urls = re.findall(r'(https?://[^\s"\'\)]+\.(?:jpg|jpeg|png|webp|gif)(?:\?[^\s"\'\)]*)?)', text_body_or_html, re.IGNORECASE)
     for url in urls:
         url_lower = url.lower()
-        if not any(t in url_lower for t in ['pixel', 'avatar', 'icon', 'favicon', 'beacon', 'open.php', 'logo-small', '1x1', 'tracker', 'emoji']):
+        if not any(t in url_lower for t in IGNORE_PATTERNS):
             return url
 
     return None
+
 
 def get_existing_categories():
     categories = set()
@@ -204,4 +209,6 @@ Respond ONLY with a valid JSON object matching exact format:
             print(f"[ERROR] Failed reprocessing {os.path.basename(filepath)}: {err}")
 
 if __name__ == '__main__':
-    reprocess_top_n(limit=5)
+    reprocess_top_n(limit=10)
+
+

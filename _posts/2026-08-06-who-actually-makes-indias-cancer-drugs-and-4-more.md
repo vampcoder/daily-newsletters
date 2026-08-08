@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Who Really Makes India's Cancer Drugs?"
+title: "Who Really Makes India’s Cancer Drugs?"
 date: 2026-08-06 15:19:45 +0000
 source: "BlindSpot Research"
 category: "Healthcare & Medicine"
-excerpt: "This investigation uncovers the true manufacturers behind India's cancer drugs, revealing the complex web of companies that supply the country's oncology market. It challenges common assumptions about which firms are the real players, offering a compelling read for investors and healthcare watchers alike."
-theme_gradient: "linear-gradient(135deg, #4caf50 0%, #388e3c 100%)"
+excerpt: "An investigative deep-dive into the murky manufacturing landscape of India’s cancer drugs, tracing the supply chain from active pharmaceutical ingredients to finished formulations. The piece names key players—both large and niche—and challenges assumptions about who truly controls production. Essential reading for anyone tracking pharmaceutical supply chains or investing in Indian pharma."
+theme_gradient: "linear-gradient(135deg, #673ab7 0%, #512da8 100%)"
 is_summary: false
 key_takeaways:
-  - "The Indian cancer drug market is dominated by a mix of large pharma and smaller specialty players."
-  - "Investor attention is often focused on a few names, while the actual manufacturing landscape is far more nuanced."
-  - "Understanding the supply chain is crucial for making informed investment decisions in healthcare."
+  - "The real manufacturers behind India’s cancer drugs may differ from the big brand names you see on labels."
+  - "Supply-chain control is concentrated among a few API and niche formulation players, which affects pricing and availability."
+  - "Understanding the manufacturing hierarchy is crucial for both healthcare procurement and pharma investing."
 ---
 
 ### Who Actually Makes India's Cancer Drugs?

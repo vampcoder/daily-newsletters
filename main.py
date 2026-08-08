@@ -209,6 +209,9 @@ def clean_html(raw_html):
 def extract_featured_image(soup):
     """Extract primary featured image URL while skipping tracking pixels and avatars."""
     images = soup.find_all('img')
+    IGNORE_PATTERNS = ['pixel', 'avatar', 'icon', 'favicon', 'beacon', 'open.php', 'logo-small', '1x1', 'tracker', 'emoji', 'p.gif', '/o/', 'button', 'badge', 'subscribe', '/open', 'pstmrk.it', 'tracking', 'open?']
+
+
     for img in images:
         src = img.get('src') or img.get('data-src')
         if not src or not src.startswith('http'):
@@ -222,15 +225,13 @@ def extract_featured_image(soup):
             continue
 
         src_lower = src.lower()
-        if any(tracker in src_lower for tracker in [
-            'p.gif', 'pixel.gif', 'beacon.gif', 'open.php', 'track.gif',
-            'avatar', 'icon', 'favicon', 'logo-small', '1x1'
-        ]):
+        if any(tracker in src_lower for tracker in IGNORE_PATTERNS):
             continue
 
         return src
 
     return None
+
 
 
 def get_gradient_theme(subject):
