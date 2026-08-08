@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 reprocess_posts.py - Batch enhance top N existing Markdown posts in _posts/ using DeepSeek LLM.
-Generates clean, valid YAML front-matter with titles, real publisher brand names, categories, summaries, and key takeaways.
+Extracts real article images, titles, publisher brand names, categories, summaries, key takeaways, and Material UI fallback gradients.
 """
 
 import glob
@@ -38,6 +38,33 @@ THEME_GRADIENTS = [
 def get_gradient_theme(text):
     hash_num = int(hashlib.md5(text.encode('utf-8')).hexdigest(), 16)
     return THEME_GRADIENTS[hash_num % len(THEME_GRADIENTS)]
+
+def find_featured_image(text_body_or_html):
+    """Find the first real article image URL (Substack CDN, diagram, chart, etc.)."""
+    if not text_body_or_html:
+        return None
+    # 1. Search img src
+    img_srcs = re.findall(r'<img [^>]*src=["\'](https?://[^"\']+)["\']', text_body_or_html, re.IGNORECASE)
+    for url in img_srcs:
+        url_lower = url.lower()
+        if not any(t in url_lower for t in ['pixel', 'avatar', 'icon', 'favicon', 'beacon', 'open.php', 'logo-small', '1x1', 'tracker', 'emoji']):
+            return url
+
+    # 2. Search markdown image syntax ![...](url)
+    md_imgs = re.findall(r'!\[.*?\]\((https?://[^\s\)]+)\)', text_body_or_html)
+    for url in md_imgs:
+        url_lower = url.lower()
+        if not any(t in url_lower for t in ['pixel', 'avatar', 'icon', 'favicon', 'beacon', 'open.php', 'logo-small', '1x1', 'tracker', 'emoji']):
+            return url
+
+    # 3. Direct image link (Substack, Cloudinary, S3, jpg/png/webp)
+    urls = re.findall(r'(https?://[^\s"\'\)]+\.(?:jpg|jpeg|png|webp|gif)(?:\?[^\s"\'\)]*)?)', text_body_or_html, re.IGNORECASE)
+    for url in urls:
+        url_lower = url.lower()
+        if not any(t in url_lower for t in ['pixel', 'avatar', 'icon', 'favicon', 'beacon', 'open.php', 'logo-small', '1x1', 'tracker', 'emoji']):
+            return url
+
+    return None
 
 def get_existing_categories():
     categories = set()
@@ -88,6 +115,9 @@ def reprocess_top_n(limit=5):
 
             post_date = date_match.group(1).strip() if date_match else ""
             post_image = image_match.group(1).strip().strip('"\'') if image_match else ""
+            if not post_image:
+                post_image = find_featured_image(body_text) or ""
+
             post_url = original_url_match.group(1).strip().strip('"\'') if original_url_match else ""
 
             title_match = re.search(r'^title:\s*"([^"]+)"', fm_text, re.MULTILINE) or re.search(r'^title:\s*(.+)$', fm_text, re.MULTILINE)
@@ -136,6 +166,10 @@ Respond ONLY with a valid JSON object matching exact format:
             cleaned_markdown = res.get('cleaned_markdown', body_text)
             gradient = get_gradient_theme(polished_title)
 
+            # Check if LLM output cleaned_markdown has an image URL
+            if not post_image:
+                post_image = find_featured_image(cleaned_markdown) or ""
+
             # Rebuild clean YAML front-matter
             fm_lines = [
                 "---",
@@ -164,7 +198,7 @@ Respond ONLY with a valid JSON object matching exact format:
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(new_doc)
 
-            print(f"[SUCCESS] Enhanced post: {os.path.basename(filepath)} | Title: {polished_title} | Publisher: {publisher} | Category: {category}")
+            print(f"[SUCCESS] Enhanced post: {os.path.basename(filepath)} | Title: {polished_title} | Publisher: {publisher} | Image: {post_image or 'Material UI Gradient'}")
 
         except Exception as err:
             print(f"[ERROR] Failed reprocessing {os.path.basename(filepath)}: {err}")
