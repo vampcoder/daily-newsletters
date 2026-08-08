@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 118 — Product Delight by Nesrine Changuel, Brian Armstrong on action, and more"
 date: 2025-11-23 18:29:31 +0000
-source: "Readwise"
-excerpt: "Last week, we shared H. G. Wells' The Time Machine, a cornerstone of science fiction. This week, we're sharing a preview of Nesrine Changuel’s Product Delight, a groundbreaking ..."
-theme_gradient: "linear-gradient(135deg, #059669 0%, #10b981 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we shared H. G. Wells' The Time Machine, a cornerstone of science fiction. This week, we're sharing a preview of Nesrine Changuel’s Product Delight, a groundbreaking guide to making products stand out through surprise and joy.
