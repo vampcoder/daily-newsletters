@@ -2,12 +2,6 @@
 layout: post
 title: "“All waltzes are for ghosts”"
 date: 2026-03-29 20:47:42 +0000
-source: "Substack"
-excerpt: "From Substack ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏..."
-theme_gradient: "linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!Rt8r!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-system-email-align-left.png%3Fv%3D2"
-original_url: "https://open.substack.com/pub/post/p/all-waltzes-are-for-ghosts?utm_source=unread-posts-digest-email&inbox=true&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxOTIzNjI5NjcsImlhdCI6MTc3NDgxNzI2MiwiZXhwIjoxNzc3NDA5MjYyLCJpc3MiOiJwdWItNzM3MjM3Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.yTMxlWlNf6DawIA4V6Xbcr--yONzlNqPGSc08SiuufE"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjYwMzI5MjA0NzQyLjMuOThhNjQyOWNjYjAyZGU1NS5ucHh1YTU5b0BtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOm51bGwsInQiOm51bGwsImEiOm51bGwsInMiOm51bGwsImMiOiJ1bnJlYWQtcG9zdHMtZGlnZXN0LWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NzQ4MTcyNjMsImV4cCI6MTc3NzQwOTI2MywiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.EsSt3uiRu0JJ-tKabK1P-3is29r5VpkUIh4p0-p3DuU)
