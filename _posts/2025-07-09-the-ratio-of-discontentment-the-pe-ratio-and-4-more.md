@@ -2,12 +2,6 @@
 layout: post
 title: "\"The ratio of discontentment - the PE ratio\" and 4 more"
 date: 2025-07-09 15:34:16 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #e11d48 0%, #f43f5e 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!dfGw!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/marketsense/p/the-ratio-of-discontentment-the-pe?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjY0NjI5NzUsImlhdCI6MTc1MjA3NTI1NSwiZXhwIjoxNzU0NjY3MjU1LCJpc3MiOiJwdWItNzUzNjEiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.1kZqXeJ-JqYUi_84yb4GT9dof7PtZrRFEc3LER6Gh04"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNzA5MTUzNDE2LjMuMzc0Y2RkNTRiYmJhYzc5Ni5tMHRjM3pjM0BtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoicGVyc29uYWxpemVkLXJlY29tbWVuZGF0aW9uLWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NTIwNzUyNTYsImV4cCI6MTc1NDY2NzI1NiwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.ZythJsCwBp8Npxxo_fs80FiAteSQbo2DMCipyHoogNk)
