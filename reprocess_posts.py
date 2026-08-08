@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 reprocess_posts.py - Batch enhance top N existing Markdown posts in _posts/ using DeepSeek LLM.
-Generates clean, valid YAML front-matter with titles, dynamic categories, summaries, key takeaways, and Material UI gradients.
+Generates clean, valid YAML front-matter with titles, real publisher brand names, categories, summaries, and key takeaways.
 """
 
 import glob
@@ -82,13 +82,11 @@ def reprocess_top_n(limit=5):
             body_text = parts[2] if len(parts) >= 3 else raw
 
             date_match = re.search(r'^date:\s*(.+)$', fm_text, re.MULTILINE)
-            source_match = re.search(r'^source:\s*"([^"]+)"', fm_text, re.MULTILINE) or re.search(r'^source:\s*(.+)$', fm_text, re.MULTILINE)
             image_match = re.search(r'^image:\s*"([^"]+)"', fm_text, re.MULTILINE) or re.search(r'^image:\s*(.+)$', fm_text, re.MULTILINE)
             original_url_match = re.search(r'^original_url:\s*"([^"]+)"', fm_text, re.MULTILINE) or re.search(r'^original_url:\s*(.+)$', fm_text, re.MULTILINE)
             is_summary = 'is_summary: true' in fm_text
 
             post_date = date_match.group(1).strip() if date_match else ""
-            post_source = source_match.group(1).strip().strip('"\'') if source_match else "Newsletter"
             post_image = image_match.group(1).strip().strip('"\'') if image_match else ""
             post_url = original_url_match.group(1).strip().strip('"\'') if original_url_match else ""
 
@@ -97,7 +95,7 @@ def reprocess_top_n(limit=5):
 
             existing_cats = get_existing_categories()
             cats_str = ", ".join(existing_cats) if existing_cats else "None yet"
-            print(f"[{i+1}/{len(files)}] Polishing with DeepSeek LLM: {os.path.basename(filepath)}...")
+            print(f"[{i+1}/{len(files)}] Extracting Publisher & Polishing: {os.path.basename(filepath)}...")
 
             prompt = f"""You are an expert technical editor polishing a newsletter post for a web archive.
 
@@ -110,7 +108,8 @@ Full Body Text:
 Respond ONLY with a valid JSON object matching exact format:
 {{
   "polished_title": "Clean catchy title",
-  "category": "Pick a meaningful content topic (e.g. Tech & AI, Finance & Investing, Healthcare & Medicine, Software Engineering, Productivity). DO NOT use 'Announcement', 'General', or 'Marketing'",
+  "publisher": "Exact publication or newsletter brand name (e.g. Interconnects, Readwise, The Ken, ByteByteGo, Substack, Wisereads, Astral Codex Ten)",
+  "category": "Pick a meaningful content topic (e.g. Tech & AI, Finance & Investing, Healthcare & Medicine, Software Engineering, Productivity)",
   "executive_summary": "2-3 sentence overview summary for card preview",
   "key_takeaways": ["Takeaway 1", "Takeaway 2", "Takeaway 3"],
   "cleaned_markdown": "Cleaned post body text removing unsubscribe footers, email headers, and ads"
@@ -130,6 +129,7 @@ Respond ONLY with a valid JSON object matching exact format:
             res = extract_json_from_llm(raw_ans)
 
             polished_title = res.get('polished_title', subject)
+            publisher = res.get('publisher', 'Newsletter')
             category = res.get('category', 'Tech & AI')
             executive_summary = res.get('executive_summary', '')
             key_takeaways = res.get('key_takeaways', [])
@@ -142,7 +142,7 @@ Respond ONLY with a valid JSON object matching exact format:
                 "layout: post",
                 f'title: "{polished_title.replace('"', '\\"')}"',
                 f'date: {post_date}',
-                f'source: "{post_source.replace('"', '\\"')}"',
+                f'source: "{publisher.replace('"', '\\"')}"',
                 f'category: "{category.replace('"', '\\"')}"',
                 f'excerpt: "{executive_summary.replace('"', '\\"')}"',
                 f'theme_gradient: "{gradient}"',
@@ -164,7 +164,7 @@ Respond ONLY with a valid JSON object matching exact format:
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(new_doc)
 
-            print(f"[SUCCESS] Enhanced post: {os.path.basename(filepath)} | Title: {polished_title} | Category: {category}")
+            print(f"[SUCCESS] Enhanced post: {os.path.basename(filepath)} | Title: {polished_title} | Publisher: {publisher} | Category: {category}")
 
         except Exception as err:
             print(f"[ERROR] Failed reprocessing {os.path.basename(filepath)}: {err}")

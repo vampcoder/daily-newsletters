@@ -87,10 +87,12 @@ class CurationDecision(BaseModel):
 
 class PolishedNewsletter(BaseModel):
     polished_title: str = Field(description="Catchy, professional, and clear post title")
+    publisher: Optional[str] = Field(default=None, description="Exact publication or newsletter brand name")
     category: str = Field(description="Concise 1-3 word category. Pick from existing_categories if appropriate or invent a fitting new one")
     executive_summary: str = Field(description="2-3 sentence overview summary for preview tile card")
     key_takeaways: list[str] = Field(description="3-5 bullet point takeaways summarizing key insights")
     cleaned_markdown: str = Field(description="Cleaned post body in Markdown, removing footers, sponsor ads, unsubscribe links")
+
 
 
 def get_github_token():
@@ -389,6 +391,7 @@ def polish_newsletter_with_llm(subject, body_text, existing_categories):
     prompt = f"""You are an expert technical editor polishing a newsletter post for a web archive.
 
 Subject: {subject}
+Sender Address: {sender}
 Existing Categories in Repository: [{cats_str}]
 
 Full Body Text:
@@ -397,12 +400,14 @@ Full Body Text:
 Respond ONLY with a valid JSON object matching exact format:
 {{
   "polished_title": "Clean catchy title",
-  "category": "Pick a meaningful content topic (e.g. Tech & AI, Finance & Investing, Healthcare & Medicine, Software Engineering, Productivity). DO NOT use 'Announcement', 'General', or 'Marketing'",
+  "publisher": "Exact publication or newsletter brand name (e.g. Interconnects, Readwise, The Ken, ByteByteGo, Substack)",
+  "category": "Pick a meaningful content topic (e.g. Tech & AI, Finance & Investing, Healthcare & Medicine, Software Engineering, Productivity)",
   "executive_summary": "2-3 sentence overview summary for card preview",
   "key_takeaways": ["Takeaway 1", "Takeaway 2", "Takeaway 3"],
   "cleaned_markdown": "Cleaned post body text removing unsubscribe footers, email headers, and ads"
 }}
 """
+
 
     try:
         kwargs = {
@@ -418,6 +423,7 @@ Respond ONLY with a valid JSON object matching exact format:
         data = extract_json_from_llm(raw_content)
         return PolishedNewsletter(
             polished_title=data.get("polished_title", subject),
+            publisher=data.get("publisher"),
             category=data.get("category", "General"),
             executive_summary=data.get("executive_summary", ""),
             key_takeaways=data.get("key_takeaways", []),
@@ -455,9 +461,18 @@ def build_jekyll_markdown(subject, sender, email_dt, raw_html, existing_categori
 
     if ENABLE_LLM_CURATION and LLM_API_KEY and litellm:
         polished_result = polish_newsletter_with_llm(
-            subject, raw_markdown_content, existing_categories or []
+            subject, raw_markdown_content, existing_categories or [], sender=sender
         )
         if polished_result:
+            polished_title = polished_result.polished_title
+            if polished_result.publisher:
+                source_name = polished_result.publisher
+            assigned_category = polished_result.category
+            executive_summary = polished_result.executive_summary or default_excerpt
+            key_takeaways = polished_result.key_takeaways
+            if polished_result.cleaned_markdown and len(polished_result.cleaned_markdown) > 50:
+                final_body_markdown = polished_result.cleaned_markdown
+
             polished_title = polished_result.polished_title or subject
             assigned_category = polished_result.category or "General"
             executive_summary = polished_result.executive_summary or default_excerpt

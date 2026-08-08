@@ -2,15 +2,15 @@
 layout: post
 title: "Reader Public Beta #14: Global Ghostreader, Readwise 2.0, and More"
 date: 2026-08-07 13:30:46 +0000
-source: "Newsletter"
+source: "Readwise"
 category: "Tech & AI"
-excerpt: "Reader's latest public beta introduces Global Ghostreader, allowing you to chat with your entire library, plus a rebuilt Readwise mobile app, mobile chat, and quick lookup. These updates mark a major leap in how you search, capture, and interact with your saved content."
+excerpt: "Reader's latest public beta introduces Global Ghostreader, enabling AI chat across your entire library, along with a rebuilt Readwise mobile app (2.0), mobile chat, and a Quick Lookup feature. These updates aim to enhance AI-powered reading, search, and capture capabilities."
 theme_gradient: "linear-gradient(135deg, #9c27b0 0%, #7b1fa2 100%)"
 is_summary: false
 key_takeaways:
-  - "Global Ghostreader now enables AI conversations across your entire library, with answers grounded in your saved documents and citations."
-  - "Readwise 2.0 is a complete mobile app rebuild with a fresh design, faster performance, improved search, and new capture methods."
-  - "Mobile Chat and Quick Lookup bring Ghostreader and instant document/highlight search to your phone and current context."
+  - "Global Ghostreader lets you chat with your entire library, asking questions grounded in saved content with citations."
+  - "Readwise 2.0 is a complete rebuild of the mobile app with a fresh design, faster performance, better search, and new capture methods."
+  - "New Mobile Chat and Quick Lookup features bring AI assistance and instant search to your phone and any context."
 ---
 
 Hi Amol,
