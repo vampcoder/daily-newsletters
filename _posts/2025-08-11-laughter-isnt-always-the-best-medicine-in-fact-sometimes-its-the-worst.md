@@ -2,12 +2,6 @@
 layout: post
 title: "“Laughter isn’t always the best medicine. In fact, sometimes it’s the worst.”"
 date: 2025-08-11 16:22:59 +0000
-source: "Substack"
-excerpt: "From Substack ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏..."
-theme_gradient: "linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!Rt8r!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-system-email-align-left.png%3Fv%3D2"
-original_url: "https://open.substack.com/pub/post/p/laughter-isnt-always-the-best-medicine?utm_source=unread-posts-digest-email&inbox=true&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjk3OTM4MzksImlhdCI6MTc1NDkyOTM3OSwiZXhwIjoxNzU3NTIxMzc5LCJpc3MiOiJwdWItNzM3MjM3Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.wgC6p3C9rhRJe0tuTu_-4qgtRBogmXIBOF_9meitsuY"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwODExMTYyMjU5LjMuOThhNjQyOWNjYjAyZGU1NS5kdHl4N2U3NkBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoidW5yZWFkLXBvc3RzLWRpZ2VzdC1lbWFpbCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzU0OTI5Mzc5LCJleHAiOjE3NTc1MjEzNzksImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.ZWPIZpmbKCV0nGsSfE6uBhhB5aq4M_KoiAAjUVgsl5A)
