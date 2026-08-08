@@ -2,14 +2,14 @@
 layout: post
 title: "Welcome to The AI Break Family: Your Free AI Starter Kit Awaits"
 date: 2026-08-08 08:02:33 +0000
+source: "Newsletter"
 category: "Announcement"
-  - "Access a free ChatGPT Beginners Course and Claude Code Masterclass."
-  - "Get 2 ready-to-use automations for content creation."
-  - "Unlock over 500 prompts in the Prompt Vault for smarter AI results."
+excerpt: "Get your free AI Starter Kit with beginner courses, ready-to-use automations, and a 500+ prompt vault. Answer a quick 20-second survey to unlock everything and receive personalized AI resources."
+is_summary: false
 key_takeaways:
-  - "Get instant access to a free AI Starter Kit with essential learning resources."
-  - "Includes a ChatGPT beginners course, two content creation automations, and a 500+ prompt vault."
-  - "New: Claude Code Masterclass for Beginners – start building with AI today."
+  - "Receive a free AI Starter Kit including a ChatGPT Beginners Course, two content automations, a 500+ Prompt Vault, and a new Claude Code Masterclass."
+  - "Unlock the full kit by completing a quick 20-second survey that helps tailor future content to your needs."
+  - "Start mastering AI fast with practical tools designed for immediate use."
 ---
 
 **🎁 Your Welcome Gift is ready**

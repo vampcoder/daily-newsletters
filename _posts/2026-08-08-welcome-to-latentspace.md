@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Welcome to Latent.Space"
+title: "Welcome to Latent.Space — Your New Home for Deep Insights"
 date: 2026-08-08 08:02:00 +0000
+source: "Newsletter"
 category: "Announcement"
-  - "Latent.Space is now live, offering a space for latent space exploration."
-  - "Subscribers can set up private podcast feeds by clicking the provided link."
-  - "Referral program: share posts via referral link or Share button to earn credit for new subscribers."
+excerpt: "Latent.Space is a new publication delivering original analysis and ideas. This welcome post explains how to get the most out of your subscription, including podcast setup and referral rewards."
+is_summary: false
 key_takeaways:
-  - "Latent.Space offers free posts, with an option to upgrade for full access."
-  - "A private podcast feed is available via a dedicated setup link."
-  - "Readers can earn credits by referring new subscribers through a unique link."
+  - "Upgrade to a paid subscription to access every post and subscriber benefits."
+  - "Set up private podcast feed via the provided link on your phone."
+  - "Earn subscription credit by sharing your referral link."
 ---
 
 Welcome to Latent.Space!

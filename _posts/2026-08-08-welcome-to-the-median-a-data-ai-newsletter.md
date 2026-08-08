@@ -2,17 +2,14 @@
 layout: post
 title: "Welcome to The Median: Your Data & AI Newsletter"
 date: 2026-08-08 08:02:44 +0000
+source: "Newsletter"
 category: "Announcement"
-  - "Stay informed with the latest data and AI news."
-  - "Get posts delivered straight to your inbox."
-  - "Explore bonus resources like the DataCamp Blog and podcast."
-  - "You'll receive new data & AI news posts directly in your inbox."
-  - "Check your spam or promotions folder to ensure proper delivery."
-  - "Explore the DataCamp blog and podcast for more content."
+excerpt: "Welcome to The Median, your go-to newsletter for data and AI insights. This issue covers housekeeping tips, directs you to your inbox or the Substack archive, and highlights extra resources like the DataCamp Blog and Podcast."
+is_summary: false
 key_takeaways:
-  - "You'll receive new posts directly in your inbox on a regular basis."
-  - "If the newsletter isn't visible, check your spam or promotions folder and move it to your primary inbox."
-  - "Explore more content via the DataCamp blog and podcast."
+  - "The Median delivers data and AI news straight to your inbox."
+  - "If missing, check Spam or Promotions and move it to Primary."
+  - "Browse the DataCamp Blog and subscribe to the Podcast for more expert content."
 ---
 
 Thank you for subscribing to **The Median: A Data & AI Newsletter**.

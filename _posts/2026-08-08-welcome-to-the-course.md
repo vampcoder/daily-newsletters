@@ -2,17 +2,14 @@
 layout: post
 title: "Welcome to Hands-On System Design with Java Spring Boot"
 date: 2026-08-08 08:11:16 +0000
+source: "Newsletter"
 category: "Announcement"
-  - "This course is for engineers who care about practical system design."
-  - "You're joining a community of like-minded developers."
-  - "Expect hands-on, real-world examples with Java Spring Boot."
-  - "Practical, hands-on approach to distributed systems design"
-  - "Built for both interview prep and real-world projects"
-  - "A collaborative community of engineers to engage with"
+excerpt: "Join a community of engineers dedicated to mastering practical distributed systems design using Java Spring Boot. This course bridges the gap between interview theory and real-world application, inviting you to engage and build from lesson one."
+is_summary: false
 key_takeaways:
-  - "Practical system design for real-world applications, not just interview theory"
-  - "Deep dive into distributed systems with Java Spring Boot"
-  - "Engage with a supportive community of engineers and level up together"
+  - "Learn practical system design beyond interview theory."
+  - "Build real-world distributed systems with Java Spring Boot."
+  - "Engage with a community of like-minded engineers."
 ---
 
 Hi,
