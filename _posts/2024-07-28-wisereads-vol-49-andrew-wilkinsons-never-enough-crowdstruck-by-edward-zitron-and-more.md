@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Wisereads Vol. 49 — Andrew Wilkinson's Never Enough, CrowdStruck by Edward Zitron, and more"
+date: 2024-07-28 17:07:58 +0000
+source: "Readwise"
+category: "General"
+excerpt: "Last week, we shared a preview of James Phoenix and Mike Taylor's new O'Reilly guide, Prompt Engineering for Generative AI. This week, we're sharing a preview of our friend Andr..."
+theme_gradient: "linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)"
+image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
+is_summary: false
+---
+
+Last week, we shared a preview of James Phoenix and Mike Taylor's new O'Reilly guide, Prompt Engineering for Generative AI. This week, we're sharing a preview of our friend Andrew Wilkinson's debut, Never Enough: From Barista to Billionaire.
+Keep reading to add to your Reader account below 👇
+As a reminder, if email isn't your thing, you can instead subscribe to the RSS feed. If this content in general isn't your vibe, please feel free to unsubscribe altogether.
+Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Readwise | | |  |  |  | | --- | --- | | |  | | --- | | [Open in Reader](https://wise.readwise.io/save?url=https%3A//wise.readwise.io/issues/wisereads-vol-49) | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Weekly Wisereads | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Wisereads Vol. 49 — Andrew Wilkinson's Never Enough, CrowdStruck by Edward Zitron, and more | | Last week, we shared a preview of James Phoenix and Mike Taylor's new O'Reilly guide, *Prompt Engineering for Generative AI*. This week, we're sharing a preview of our friend Andrew Wilkinson's debut, *Never Enough: From Barista to Billionaire*.  Keep reading to add to your Reader account below 👇  As a reminder, if email isn't your thing, you can instead [subscribe to the RSS feed](https://wise.readwise.io/subscribe?url=https://wise.readwise.io/feed/). If this content in general isn't your vibe, please feel free to [unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) altogether.  Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂 | | | |
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Articles of the week | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | aeon.co | | | [What Hannah Arendt proposed as an alternative to authenticity](https://aeon.co/essays/what-hannah-arendt-proposed-as-an-alternative-to-authenticity) | | Samantha Rose Hill · 12 mins | | Author and professor Samantha Rose Hill, known for her work on 20th-century political scientist and philosopher Hannah Arendt, explores Arendt's views on authenticity and one's 'true self' ahead of her book release, [*What Remains*](https://wwnorton.com/books/9781324090526/about-the-book/product-details). "Unlike 'authenticity', 'willing' is not a very desirable word. First of all, it’s not a thing one can possess, it’s an action, something one has to do… But for Arendt, the will was the means to our freedom, it was the promise that we can always be other than we are, and so to the world." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//aeon.co/essays/what-hannah-arendt-proposed-as-an-alternative-to-authenticity) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Where's your Ed at? | | | [CrowdStruck](https://www.wheresyoured.at/crowdstruck-2/) | | Edward Zitron · 11 mins | | After last week's record-breaking worldwide outage, media relations expert Ed Zitron isn't mincing words, criticizing both CrowdStrike and Microsoft for failing to catch the faulty driver update. "This is the cost of the Rot Economy — systems used by billions of people held up by flimsy cultures and brittle infrastructure maintained with the diligence of an absentee parent. This is the cost of arrogance, of rewarding managerial malpractice, of promoting speed over safety and profit over people." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.wheresyoured.at/crowdstruck-2/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | structuredprocrastination.com | | | [Structured Procrastination](https://structuredprocrastination.com/) | | John Perry · 5 mins | | Rather than trying to beat his procrastination, author and professor John Perry tricks himself into doing slightly less important tasks than the most daunting ones. "I have been intending to write this essay for months. Why am I finally doing it? Because I finally found some uncommitted time? Wrong. I have papers to grade, textbook orders to fill out, an NSF proposal to referee, dissertation drafts to read. I am working on this essay as a way of not doing all of those things. This is the essence of what I call structured procrastination, an amazing strategy I have discovered that converts procrastinators into effective human beings." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//structuredprocrastination.com/) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted YouTube Video of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [I Built My Dream Keyboard from Absolute Scratch](https://www.youtube.com/watch?v=7UXsD7nSfDY) | | Christian Selig · 22 mins | | In an engaging and informative tutorial on building a keyboard from scratch, developer Christian Selig outlines the features of his ideal split keyboard. "I want my keys ortholinear and column staggered. Now what the heck is that? So back when typewriters were a thing, they had these metal levers connecting each key to the brains of the typewriter. To allow the levers to reach each key without actually running into each other, they offset each row, which kind of made the layout diagonal. In the 2020s, we don't have the same limitation, and it's easier for fingers to travel up and down than from side to side, so we can move the keys into a grid, which we call an ortholinear layout." | | |  | | --- | | [➕  Add video to Reader](https://wise.readwise.io/save?url=https%3A//www.youtube.com/watch%3Fv%3D7UXsD7nSfDY) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Twitter Thread of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Harry Dry is the best copywriter I know](https://x.com/david_perell/status/1813575526100926564/?rw_tt_thread=True) | | David Perell · 3 mins | | Recapping his interview with Harry Dry, David Perrell lists key insights on writing effective copy, including: "You know a paragraph is ready to ship when there's nothing left to remove. It's like a Jenga tower. The entire thing should collapse if you remove something," and "Make it falsifiable: When you write a sentence that's true or false, you put your head on the chopping block, which makes people sit up in their seat." | | |  | | --- | | [➕  Add tweet to Reader](https://wise.readwise.io/save?url=https%3A//x.com/david_perell/status/1813575526100926564/%3Frw_tt_thread%3DTrue) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted PDF of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [The Llama 3 Herd of Models](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/the-llama-3-herd-of-models/452387774_1036916434819166_4173978747091533306_n.pdf) | | Llama Team, AI at Meta · 3 hrs and 9 mins | | In their most recent paper, Meta AI benchmarks its open-source 405 billion parameter Llama 3 model against the larger GPT-4. "Our experimental evaluation suggests that our ﬂagship model performs on par with leading language models such as GPT-4 across a variety of tasks, and is close to matching the state-of-the-art. Our smaller models are best-in-class, outperforming alternative models with similar numbers of parameters." | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise-assets.s3.amazonaws.com/media/wisereads/articles/the-llama-3-herd-of-models/452387774_1036916434819166_4173978747091533306_n.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Hand-picked book of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Never Enough](https://readwise.io/reader/fd/189686045) | | Andrew Wilkinson | | Andrew Wilkinson grew up trying to emulate the casual wealth of his Canadian peers, with their Tommy Hilfiger jeans and massive flat-screen TVs. Now a billionaire and co-founder of Tiny, often described as the Berkshire Hathaway for internet companies, he shares his journey to success in [*Never Enough: From Barista to Billionaire*](https://www.amazon.com/Never-Enough-Billionaire-Andrew-Wilkinson/dp/1637744765).   Through engaging storytelling, Andrew provides a candid glimpse into the lives of the ultra-wealthy and what money can't buy.  "As we left Munger’s house, we were giddy. Not only had we just dined with one of our business heroes, not only had he let us sip from the pool of his ninety-seven years of prophetic wisdom, but he also wanted to explore the idea of us, two random guys from Victoria, Canada, to take over the business he’d helped build. To pass the baton to us. There, on Munger’s driveway, Chris and I jumped into the air and high-fived, like we were Maverick and Goose in the first Top Gun. 'Holy shit,' I said to Chris as we got in the car. 'We’re going into business with Charlie Fucking Munger.' At least, that’s what we thought was going to happen."  We're over the moon that Andrew is sharing a preview with Wisereads readers! If you enjoy Chapter One, [the full version is available to purchase now](https://www.amazon.com/Never-Enough-Billionaire-Andrew-Wilkinson/dp/1637744765). | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise.io/reader/fd/189686045) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Handpicked RSS feed of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [The Menu](https://amandanat.substack.com/p/dont-sell-your-product-make-it-easy) | | Amanda Natividad sends out a collection of marketing-adjacent thoughts on her Substack, The Menu. From [Don't Sell Your Product, Make It Easy to Buy](https://wise.readwise.io/save?url=https://amandanat.substack.com/p/dont-sell-your-product-make-it-easy): "We focus on making sure our content gets seen. This means publishing native-to-platform content. This could come in the form of a text-only post, embedded images, or the video uploaded directly into the platform. Here, we can easily track impressions as well as likes, comments and shares." | | |  | | --- | | [🌐  Subscribe to RSS feed in Reader](https://wise.readwise.io/subscribe?url=https%3A//amandanat.substack.com/feed) | | | | |
+
+ 
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | | |  | | --- | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | You're receiving this Weekly Wisereads email newsletter because you signed up for [Readwise Reader](https://readwise.io/read). [Click here to unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) from these emails going forward. Readwise 5540 Centerview Drive, Suite 204 Raleigh, NC 27606 | | |
+
+![](https://ea.pstmrk.it/open?m=v3_1.2XmdkhLkGidgpJC4jJ06sw.oZ7KxJ64OO1JzAk4zU26p-CMCNZBCt1muRfLIDWWecsl0PYHWK8AQHNS76WjJ-sBaqG7F0o80snksIg9-rRnFcyEupdluvKFcC_hYOUFqm9x-eZjdzTO3t1qY-MuVHLXEw4-bE9I1XUEjpWDdQmSwkx3Q0g-iOYkz8nYQM-0hg16nnAnI7zMtksI1tGDEPB1q5XkXs78L84o0OpVFx5_qquXsTEimf8VrZE0mSE-KBuflA386KJbKQuTq-2HYHuJ6A3RtVuxDXE7u0-H5vxZghMnyPW1KEnKovPmQH5CDounRpY4KDoz-DBh7eyEQt7zN9BNybXVbTgM1KmWlaA83Drr_lmEVjJHKNZcIXyZmC84LiGu5K8y7yTGivnU059APWfTy1l-y0SCLvjiFGnnjd6XLcxLVvsRmPc_M7sNhwmAlIMB7cHYMU1cpEY-MdbyOx0N9XEypgSoezDISTx_lwE_owOYsVG82RxeB_CAN3AQvOXGqTkzdpEEkhFdlllfnE3zh-gxc2Tad3XN7l6zPQx5DL6ozuccSJHeY4vxxhfq00Gs_ZFSQjYwhUcyaDGFqlKKYTSCAI37w1fZOTg-Ow)

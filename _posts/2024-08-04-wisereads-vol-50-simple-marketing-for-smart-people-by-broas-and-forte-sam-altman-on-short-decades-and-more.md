@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Wisereads Vol. 50 — Simple Marketing for Smart People by Broas and Forte, Sam Altman on short decades, and more"
+date: 2024-08-04 17:37:45 +0000
+source: "Readwise"
+category: "General"
+excerpt: "Last week, we shared a chapter of our friend Andrew Wilkinson's debut, Never Enough: From Barista to Billionaire. This week, we're sharing a preview of Billy Broas and Tiago For..."
+theme_gradient: "linear-gradient(135deg, #e11d48 0%, #f43f5e 100%)"
+image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
+is_summary: false
+---
+
+Last week, we shared a chapter of our friend Andrew Wilkinson's debut, Never Enough: From Barista to Billionaire. This week, we're sharing a preview of Billy Broas and Tiago Forte's new release, Simple Marketing for Smart People.
+Keep reading to add to your Reader account below 👇
+As a reminder, if email isn't your thing, you can instead subscribe to the RSS feed. If this content in general isn't your vibe, please feel free to unsubscribe altogether.
+Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Readwise | | |  |  |  | | --- | --- | | |  | | --- | | [Open in Reader](https://wise.readwise.io/save?url=https%3A//wise.readwise.io/issues/wisereads-vol-50) | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Weekly Wisereads | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | |  |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | | Wisereads Vol. 50 — Simple Marketing for Smart People by Broas and Forte, Sam Altman on short decades, and more | | Last week, we shared a chapter of our friend Andrew Wilkinson's debut, *Never Enough: From Barista to Billionaire*. This week, we're sharing a preview of Billy Broas and Tiago Forte's new release, *Simple Marketing for Smart People.*  Keep reading to add to your Reader account below 👇  As a reminder, if email isn't your thing, you can instead [subscribe to the RSS feed](https://wise.readwise.io/subscribe?url=https://wise.readwise.io/feed/). If this content in general isn't your vibe, please feel free to [unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) altogether.  Otherwise, we welcome you to reply to this email with any feedback you might have! 🙂 | | | |
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Articles of the week | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Linkedin | | | [Nike: An Epic Saga of Value Destruction](https://www.linkedin.com/pulse/nike-epic-saga-value-destruction-massimo-giunco-llplf/) | | Massimo Giunco · 12 mins | | Massimo Giunco, a former Nike director with over 25 years of experience, offers an insider's perspective on how shifting away from wholesale and category-driven product innovation may have contributed to Nike's decline. "The legend says that the decision was advised by McKinsey and embraced by the CEO and the President of Consumer, Product and Brand with great enthusiasm… In 6 months, hundreds of colleagues were fired and together with them Nike lost a solid process and thousands of years of experience and expertise in running, football, basketball, fitness, training, sportwear, etc., built in decades of footwear leadership (and apparel too)." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.linkedin.com/pulse/nike-epic-saga-value-destruction-massimo-giunco-llplf/) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | blog.samaltman.com | | | [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short) | | Sam Altman · 5 mins | | Shortly after he turned thirty in 2015, OpenAI CEO Sam Altman shared a list of life advice. Among these: "Don’t screw people and don’t burn bridges. Pick your battles carefully," and "Don’t worry so much. Things in life are rarely as risky as they seem. Most people are too risk-averse, and so most advice is biased too much towards conservative paths." | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//blog.samaltman.com/the-days-are-long-but-the-decades-are-short) | | | |   |  |  |  |  | | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | |  | |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | The Atlantic | | | [Fyodor Dostoyevsky’s Formula for Happiness](https://www.theatlantic.com/ideas/archive/2024/07/fyodor-dostoyevsky-formula-happiness/679203/) | | Arthur C. Brooks · 7 mins | | Author Arthur C. Brooks draws lessons for happiness from Fyodor Dostoyevsky's life and work, highlighting that the journey is the destination. "In *The Idiot*, published in 1869, Dostoyevsky speculated on Christopher Columbus's emotions on his voyage across the Atlantic: 'You may be quite sure that he reached the culminating point of his happiness three days before he saw the New World with his actual eyes.' How so? 'What is any 'discovery' whatever compared with the incessant, eternal discovery of life?'" | | |  | | --- | | [➕  Add article to Reader](https://wise.readwise.io/save?url=https%3A//www.theatlantic.com/ideas/archive/2024/07/fyodor-dostoyevsky-formula-happiness/679203/) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted YouTube Video of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [9 Underrated Books That Will Make You a Smarter Person](https://www.youtube.com/watch?v=xrAsBqeE8tk) | | Mark Manson · 10 mins | | Author Mark Manson reviews nine books that changed his perspective, including *The Mosquito*: "Did you know that for most of human history, roughly 30 to 40% of all deaths were caused by mosquito-borne illnesses?" and *The Denial of Death:* "Immortality projects are why people are driven to run for government, to write books, to have children and build statues. It's why they become so invested in charitable causes, political conflicts, and creating artifacts of their lives. It's the ego's way of creating something in the world that will outlast itself." | | |  | | --- | | [➕  Add video to Reader](https://wise.readwise.io/save?url=https%3A//www.youtube.com/watch%3Fv%3DxrAsBqeE8tk) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted Twitter Thread of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [My accidental journey to a six-pack](https://x.com/dominicfrisby/status/1816407816690651317/?rw_tt_thread=True) | | Dominic Frisby · 4 mins | | After bringing his metabolic age down 8 years over a 3 year period, Dominic Frisby reveals his top health hacks, such as: "Have a partner you want to look good for…It helps to have a partner with whom you can eat well and exercise well. It makes you accountable too," and "Dead Hangs: I think these might have been the transformer, as I’ve only been doing them a few months. Get a pull-up bar and hang." | | |  | | --- | | [➕  Add tweet to Reader](https://wise.readwise.io/save?url=https%3A//x.com/dominicfrisby/status/1816407816690651317/%3Frw_tt_thread%3DTrue) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Most highlighted PDF of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Apple Intelligence Foundation Language Models](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/apple-intelligence-foundation-/2407.21075v1.pdf) | | Apple · 57 mins | | Apple unveils the architecture and training behind the models set to power Apple Intelligence, releasing this fall. "On top of the foundation models, feature-specific adapters are fine-tuned to provide high-quality user experiences such as summarization of emails, messages, and notifications. Our models have been created with the purpose of helping users do everyday activities across their Apple products, grounded in Apple’s core values, and rooted in our Responsible AI principles at every stage." | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise-assets.s3.amazonaws.com/media/wisereads/articles/apple-intelligence-foundation-/2407.21075v1.pdf) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Hand-picked book of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [Simple Marketing for Smart People](https://readwise.io/reader/fd/200808082) | | Billy Broas with Tiago Forte | | In the pursuit of optimization, many businesses sacrifice simplicity for complicated solutions that are hard to maintain. This tendency extends to marketing messages, which often become buried in jargon and overcomplicated narratives, making it difficult to connect with potential customers.  Billy Broas and Tiago Forte cut through this complexity in their new book, *Simple Marketing for Smart People*. It's perfect for nerds and academics who want to master the essentials of engaging in human-first, education-driven, and profitable marketing, regardless of their favorite channels.  "I ran outside, grabbed a mop, used its wooden handle to fling the blazing inferno into a bucket of cold water, and watched the flames die down to a flicker. Thank God. If I had waited one more minute, the fire would have spread to the propane tank, which could have exploded and blown up my home—and possibly me. Needless to say, that was the last time I indulged in the messy and dangerous affair of my complicated NASA brewery.  What I didn’t realize was how this story would one day parallel my experience in marketing."  We're thrilled Billy and Tiago are sharing a preview of *Simple Marketing for Smart People* with Wisereads readers. If you enjoy the introduction, we invite you to show your support for their work by purchasing a full copy [here](https://www.amazon.com/Simple-Marketing-Smart-People-Customers-ebook/dp/B0CW1MQZXP). It's out now! | | |  | | --- | | [➕  Add PDF to Reader](https://wise.readwise.io/save?url=https%3A//readwise.io/reader/fd/200808082) | | | | |
+
+ 
+
+|  |
+| --- |
+|  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Handpicked RSS feed of the week | | |   |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | None | | | [The Daily Unlearner](https://www.dailyunlearner.com/p/dont-date-a-man-who-reads) | | In her Substack, *The Daily Unlearner*, marketer Cammi Pham explores unanswered questions and cleverly challenges established norms. From [Don't Date A Man Who Reads](https://wise.readwise.io/save?url=https://www.dailyunlearner.com/p/dont-date-a-man-who-reads): "Don’t date a man who reads. He is a critical thinker. He has seen different opinions through thousands of pages. Reading teaches him great analytical skills. Every little challenge will have a strategy session from *The Art Of War.* If you have a tough decision, he might have the solution. And you will have to learn to accept help from others." | | |  | | --- | | [🌐  Subscribe to RSS feed in Reader](https://wise.readwise.io/subscribe?url=https%3A//www.dailyunlearner.com/feed) | | | | |
+
+ 
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | | |  | | --- | | A new newsletter from the folks at Readwise containing the most highlighted content, exclusive ebooks, curated RSS feeds, and more. | | You're receiving this Weekly Wisereads email newsletter because you signed up for [Readwise Reader](https://readwise.io/read). [Click here to unsubscribe](https://readwise.io/reader/newsletter_unsubscribe/iiita.coder@gmail.com/d5751f138c1c49a9089173f157845dda) from these emails going forward. Readwise 5540 Centerview Drive, Suite 204 Raleigh, NC 27606 | | |
+
+![](https://ea.pstmrk.it/open?m=v3_1.6TCaC0yrlrZUUuzKTMzgEA.RoVg2YQxJtgHfezMRN9KMjDZGvkWoIfDKbtM3x6voOtllsSD6sQFIuwzPeUJ_sNCEfyxs_EtczeRn0u8o1hbrVg3FyCyHyrw6TfaxrthRiVRvrV7pPY3SivVUzwGU2doWY9Ena-dtAcatbZlbEY3JsKtyAB6p7l5Shjylvvfe0FyGU4zW69FDgEhCPFOuvthkAw9BN-IX7iRF1UGrBgFZDZxW7Cb2V4NPf0y0I65YqVAH_DPvLoQ6Y87WSjc1FKdU4CXZ7dzxCXncMGpRDj6HA68jdh0wiak5dr3nItHqOXny7bjVCppbzO50l6uhcglYt3eASbJVTDSkGj8hcGb89QTn-SciOfi0iFU2dltzK3Lp9wofmMulAWtT6qXH4gJ6O_88qC_z_LWxkJdbBOv4JmEq_jcpm5R9wYFlKflsKGXwKqfnwhpj0YHjIlRQ1I8iaxlxbA18d-SrVG-4ZY6YhrxR0iVQd7wsa66STKb8obQyf-zzR4FGYDqC5oqk_ohfRXg2e00EQiXa1Yq4lssWZ7ozr6o9tgn4JE6UeBDHGr7cu2qSsk8QdEJ_RNIdr6O9SXndkv8gDpaD6pXCFCoBfSpfX08nyK1rvP6m47a_xA)
