@@ -2,12 +2,6 @@
 layout: post
 title: "\"Is Trump’s Tariff Policy a Monty Hall Problem?\" and 4 more"
 date: 2025-08-13 15:35:08 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!dfGw!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/crishr2003/p/is-trumps-tariff-policy-a-monty-hall?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNzAyNjMwODUsImlhdCI6MTc1NTA5OTMwOCwiZXhwIjoxNzU3NjkxMzA4LCJpc3MiOiJwdWItNTg3NDEwMCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.z6ywkhHRdCH7rwrbj7QsxGAIo5iBoUFZOH4tjIKk_2c"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwODEzMTUzNTA4LjMuMzc0Y2RkNTRiYmJhYzc5Ni5kMjhlbzlncEBtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOm51bGwsInQiOm51bGwsImEiOm51bGwsInMiOm51bGwsImMiOiJwZXJzb25hbGl6ZWQtcmVjb21tZW5kYXRpb24tZW1haWwiLCJmIjp0cnVlLCJwb3NpdGlvbiI6InRvcCIsImlhdCI6MTc1NTA5OTMwOCwiZXhwIjoxNzU3NjkxMzA4LCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0.Cvey4Uzx5uOU_OJxTWFwxESg9FoH6V6T7jR_-9bUA0M)
