@@ -2,12 +2,6 @@
 layout: post
 title: "\"Long Live the Shameless Cloners\" and 4 more"
 date: 2025-05-21 15:36:31 +0000
-source: "The Substack Post"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #2563eb 0%, #3b82f6 100%)"
-image: "https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/gspier/p/long-live-the-shameless-cloners?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjIwMzE3NTAsImlhdCI6MTc0Nzg0MTc5MCwiZXhwIjoxNzUwNDMzNzkwLCJpc3MiOiJwdWItNDA5OTkiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.NSjhxmxNaj7Msv81BpXo2IBNLdFi_qIYcSWXXbCH9v0"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTIxMTUzNjMxLjMuN2MxZDQzN2FiMWUyNzRjZC5iNm93a3k1eEBtZy1kMC5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMC5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjo3MzcyMzcsImMiOiJwZXJzb25hbGl6ZWQtcmVjb21tZW5kYXRpb24tZW1haWwiLCJmIjp0cnVlLCJwb3NpdGlvbiI6InRvcCIsImlhdCI6MTc0Nzg0MTc5MSwiZXhwIjoxNzUwNDMzNzkxLCJpc3MiOiJwdWItMCIsInN1YiI6ImVvIn0.vjMI0Jy7SWhuO2sOxY0MJy8AmTR2aITJLwehI0_ovUE)
