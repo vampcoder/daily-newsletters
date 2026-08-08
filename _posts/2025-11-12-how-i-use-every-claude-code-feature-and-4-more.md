@@ -2,12 +2,6 @@
 layout: post
 title: "\"How I Use Every Claude Code Feature\" and 4 more"
 date: 2025-11-12 16:29:39 +0000
-source: "Substack"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)"
-image: "https://substackcdn.com/image/fetch/$s_!dfGw!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/shrivu/p/how-i-use-every-claude-code-feature?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNzc3NDI4NDcsImlhdCI6MTc2Mjk2NDk3OCwiZXhwIjoxNzY1NTU2OTc4LCJpc3MiOiJwdWItMTk0MzI5OCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.HB9jVJUU2gNCVbWKL93J2q7W6bB_vJU80aQKWw79IsY"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUxMTEyMTYyOTM5LjMuMzc0Y2RkNTRiYmJhYzc5Ni5yam1iMDZockBtZy1kMS5zdWJzdGFjay5jb20-IiwidSI6NjUwNDQxOCwiciI6ImlpaXRhLmNvZGVyQGdtYWlsLmNvbSIsImQiOiJtZy1kMS5zdWJzdGFjay5jb20iLCJwIjpudWxsLCJ0IjpudWxsLCJhIjpudWxsLCJzIjpudWxsLCJjIjoicGVyc29uYWxpemVkLXJlY29tbWVuZGF0aW9uLWVtYWlsIiwiZiI6dHJ1ZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3NjI5NjQ5NzksImV4cCI6MTc2NTU1Njk3OSwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.MPwCV2jFfVFH_4gKz4wlATgSTMKR4fXPDGb_dtlA49I)
