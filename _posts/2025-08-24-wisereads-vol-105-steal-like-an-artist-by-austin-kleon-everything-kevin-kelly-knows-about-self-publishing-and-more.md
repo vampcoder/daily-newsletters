@@ -2,11 +2,6 @@
 layout: post
 title: "Wisereads Vol. 105 — Steal Like an Artist by Austin Kleon, everything Kevin Kelly knows about self-publishing, and more"
 date: 2025-08-24 20:13:16 +0000
-source: "Readwise"
-excerpt: "Last week, we shared Tim Ferriss' The Tao of Seneca: Volume One, the first installment drawn from Seneca the Younger’s timeless epistolary wisdom. This week, we're sharing a pre..."
-theme_gradient: "linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)"
-image: "https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/h-article.2594534a3280.png"
-is_summary: false
 ---
 
 Last week, we shared Tim Ferriss' The Tao of Seneca: Volume One, the first installment drawn from Seneca the Younger’s timeless epistolary wisdom. This week, we're sharing a preview of Austin Kleon's original illustrated hit, Steal Like an Artist.
