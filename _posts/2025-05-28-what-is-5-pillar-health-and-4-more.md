@@ -2,12 +2,6 @@
 layout: post
 title: "\"What is 5 Pillar Health?\" and 4 more"
 date: 2025-05-28 15:36:00 +0000
-source: "The Substack Post"
-excerpt: "Your Weekly Stack: A digest of posts that's been assembled just for you ͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­͏ ­..."
-theme_gradient: "linear-gradient(135deg, #059669 0%, #10b981 100%)"
-image: "https://substackcdn.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpersonal-recommendations%2Fyour-weekly-stack.jpg"
-original_url: "https://open.substack.com/pub/5pillarhealth/p/what-is-5-pillar-health?utm_source=multiple-personal-recommendations-email&utm_medium=email&token=eyJ1c2VyX2lkIjo2NTA0NDE4LCJwb3N0X2lkIjoxNjM2NzQ2MDgsImlhdCI6MTc0ODQ0NjU2MCwiZXhwIjoxNzUxMDM4NTYwLCJpc3MiOiJwdWItMzg2OTMyOCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.qxv3WdABKBLu9XP4Gjk78ubCkxRXMb57WdFvtS0EWOA"
-is_summary: true
 ---
 
 ![](https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjUwNTI4MTUzNjAwLjMuN2MxZDQzN2FiMWUyNzRjZC5tMGxpNDNyM0BtZzIuc3Vic3RhY2suY29tPiIsInUiOjY1MDQ0MTgsInIiOiJpaWl0YS5jb2RlckBnbWFpbC5jb20iLCJkIjoibWcyLnN1YnN0YWNrLmNvbSIsInAiOm51bGwsInQiOm51bGwsImEiOm51bGwsInMiOjczNzIzNywiYyI6InBlcnNvbmFsaXplZC1yZWNvbW1lbmRhdGlvbi1lbWFpbCIsImYiOnRydWUsInBvc2l0aW9uIjoidG9wIiwiaWF0IjoxNzQ4NDQ2NTYwLCJleHAiOjE3NTEwMzg1NjAsImlzcyI6InB1Yi0wIiwic3ViIjoiZW8ifQ.wLpqT0PGQKeQ7-w_reUt_8fkiieyuOa6rqo-R8OF74w)
