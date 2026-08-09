@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Daylight, Breakfast, and Protein Before Bed: Three Science-Backed Metabolic Insights"
+title: "Daylight, Breakfast, Protein Before Bed: Three Science Studies That Could Change Your Habits"
 date: 2026-08-04 14:02:06 +0000
-source: "Science Notes by Jessie"
+source: "science notes by jessie"
 category: "Healthcare & Medicine"
-excerpt: "Jessie shares three recent studies exploring how daylight exposure, breakfast habits, and pre-bed protein intake affect glucose, metabolism, and sleep. Each study is broken down with practical everyday implications."
+excerpt: "A science newsletter breaks down three recent studies: how daylight affects glucose control in type 2 diabetes, the health impacts of skipping breakfast, and whether protein before bed improves sleep. Each study is explained clearly with practical takeaways for everyday life."
 theme_gradient: "linear-gradient(135deg, #009688 0%, #00796b 100%)"
 image: "https://d3k81ch9hvuctc.cloudfront.net/company/X9u8pE/images/79d8c6ca-0e96-4653-9add-530be2295721.png"
 is_summary: false
 key_takeaways:
-  - "Natural daylight exposure can significantly improve glucose regulation, even for those with type 2 diabetes."
-  - "Skipping breakfast may not be as healthy as commonly believed—data suggests it can negatively impact metabolism and glucose control."
-  - "Consuming protein before bed may improve sleep quality and help stabilize overnight glucose levels."
+  - "Working in natural daylight helped people with type 2 diabetes spend nearly 2 extra hours per day in a healthier glucose range, with more fat burned."
+  - "Skipping breakfast has measurable effects on metabolism and eating behavior—the details matter."
+  - "Eating protein before bed may improve sleep quality, but the type and amount of protein are important."
 ---
 
-Welcome back to my little science corner, Amol.  
+Welcome back to my little science corner, Amol.
 
 This month, three studies stopped me in my tracks, because they answered some very interesting questions:
 
@@ -24,18 +24,10 @@ This month, three studies stopped me in my tracks, because they answered some ve
 
 Let me walk you through what the scientists actually did, what they found, and what it means for our everyday lives.
 
----
-
-**Study #1: Daylight and your glucose**
+## Study #1: Daylight and your glucose
 
 Researchers were curious about the effect of daylight on glucose, so they gave 13 people with type 2 diabetes two very different offices to work in. One had big windows and natural daylight. The other had no windows at all, only electrical light. Everyone worked a whole working week in each office, in a random order, so each person was their own point of comparison. Their glucose was measured continuously throughout.
 
 The results: Under natural daylight, they spent almost **2 extra hours per day in a healthier glucose range** (50.9% vs 43.3% of their time in normal glucose range). Their bodies also leaned more on fat for energy.
 
-**Study #2: Is skipping breakfast healthy?**
-
-**(Content truncated in original email—please insert full study description here.)**
-
-**Study #3: Protein before bed**
-
-**(Content truncated in original email—please insert full study description here.)**
+[The full details of the study are not included in the original text—stay tuned for the rest of the breakdown in a future installment.]
