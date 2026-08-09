@@ -15,3 +15,6 @@ venv/
 .DS_Store
 .vscode/
 .idea/
+
+# Run artifacts
+classification_report.txt
