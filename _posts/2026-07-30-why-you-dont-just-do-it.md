@@ -1,43 +1,43 @@
 ---
 layout: post
-title: "Lower Your Bar: The Minimum Viable Action"
+title: "Why You Don't 'Just Do It'"
 date: 2026-07-30 10:05:19 +0000
 source: "Mark Manson"
-category: "Productivity"
-excerpt: "Mark Manson challenges the common excuse of 'not having enough time' by sharing a simple lesson from a meditation teacher: any amount of action beats none. He argues that our self-imposed high standards often prevent us from starting, and suggests lowering the bar to a minimum viable action to overcome procrastination."
+category: "Life & Culture"
+excerpt: "Mark Manson challenges the common excuse of not having enough time, revealing that the real barrier is often an unnecessarily high standard we set for ourselves. He shares a simple technique to overcome this by lowering the bar and starting with the smallest possible action, even if it's just 10 seconds. This practical advice helps readers break free from procrastination and build sustainable habits."
 theme_gradient: "linear-gradient(135deg, #3f51b5 0%, #303f9f 100%)"
 image: "https://embed.filekitcdn.com/e/njopr61Lrm7qgCrdkU6BX2/c5oqNZoueu1QgusZnurLwd?auto="
 is_summary: false
 key_takeaways:
-  - "We often avoid starting because we set unrealistically high standards for what 'counts' as progress."
-  - "A high bar you never clear is a convenient way to avoid discovering your true potential."
-  - "Identify a 'minimum viable action' you can do even when busy or stressed—like meditating for 10 seconds—and start there."
+  - "The real obstacle to starting is often our own unrealistic standards, not a lack of time."
+  - "Lowering the bar to a 'minimum viable action' can help you overcome inertia and start making progress."
+  - "Once you start with something small, you're likely to continue beyond the initial tiny step."
 ---
+
+It’s not a lack of time.
 
 When I was living in New York, my mind was a mess. I had lost track of my meditation habit and felt like I never had time to do it. Frustrated, one day, I called up an old friend who is a professional meditation teacher.
 
-"So what's stopping you?" he asked me.
+“So what’s stopping you?” he asked me.
 
-"I'm too busy, not enough time, always stressed out. You know, the usual."
+“I’m too busy, not enough time, always stressed out. You know, the usual.”
 
-"Can you do 10 seconds?"
+“Can you do 10 seconds?”
 
-"Well, yeah, anybody can do 10 seconds."
+“Well, yeah, anybody can do 10 seconds.”
 
-"OK, then do 10 seconds."
+“OK, then do 10 seconds.”
 
-"What? What's the point of meditating for 10 seconds?"
+“What? What’s the point of meditating for 10 seconds?”
 
-"Well, for one, it's better than meditating for zero seconds. But my guess is that once you sit down, close your eyes and get situated, you're not going to want to stop after 10 seconds, so before you know it, you'll be meditating."
+“Well, for one, it’s better than meditating for zero seconds. But my guess is that once you sit down, close your eyes and get situated, you’re not going to want to stop after 10 seconds, so before you know it, you’ll be meditating.”
 
-"Oh, come on, dude." I realized he was right. I was an idiot.
+“Oh, come on, dude.” I realized he was right. I was an idiot.
 
-I'd been telling people—and myself—that I couldn't meditate anymore. Wrong. I had just imagined meditating "didn't count" unless I was doing it for like 30 minutes every morning. It was an unnecessary and self-imposed constraint.
+I'd been telling people—and myself—that I couldn't meditate anymore. Wrong. I had just imagined meditating “didn’t count” unless I was doing it for like 30 minutes every morning. It was an unnecessary and self-imposed constraint.
 
 We do this all the time. We imagine that to eat healthy we have to eat perfectly, so we never start. We imagine that to get into shape, we need to workout for 3 hours a day, so we never start. We imagine that to write a book, we need to write 20 pages every morning before breakfast, so we never start.
 
-We do none of it, and then you tell yourself some nonsense story about discipline.
-
-But a high bar you never clear is a pretty convenient way to never find out if you're actually any good.
+We do none of it, and then you tell yourself some nonsense story about discipline. But a high bar you never clear is a pretty convenient way to never find out if you're actually any good.
 
 So I say lower your bar. Find your minimum viable action, and go.
