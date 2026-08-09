@@ -4,7 +4,7 @@ title: "Think Like a Warrior: Lessons from Five Great Coaches"
 date: 2026-07-28 11:42:36 +0000
 source: "Productivity Game"
 category: "Productivity"
-excerpt: "In this newsletter, Nathan Lozeron shares key takeaways from the book 'Think Like a Warrior' by Darrin Donnelly, focusing on the mindset of elite coaches. Learn to stop dwelling on the past or future, drop entitlement, and adopt a humble daily practice to maximize focus and attitude."
+excerpt: "This newsletter summarizes a book about the mindset of five great coaches that leads to unstoppable success. The key takeaway is to stop wasting effort on the past or future, drop entitlement, and focus on daily practices to control what you can."
 theme_gradient: "linear-gradient(135deg, #9c27b0 0%, #7b1fa2 100%)"
 image: "https://embed.filekitcdn.com/e/8UGoEYUY8hNJcBFmksRBVo/9YXBFxf52qdCnkP2SfTEx"
 video_url: "https://5463b514.click.convertkit-mail4.com/r8u65ewg72hoh36085vt2hdxekqegb7hxw8/g3hnh5hm4en7d2crh9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zU21KSGJUNFJBdw=="
@@ -12,8 +12,8 @@ pdf_url: "https://5463b514.click.convertkit-mail4.com/r8u65ewg72hoh36085vt2hdxek
 is_summary: false
 key_takeaways:
   - "Stop wasting effort reliving the past or worrying about the future."
-  - "Drop any attitude of entitlement and stay humble."
-  - "Start a daily practice to focus on what you can control, asking yourself if you gave your fullest attention and best attitude each day."
+  - "Drop any attitude of entitlement; stay humble."
+  - "Daily ask yourself if you gave your fullest attention and brought the best attitude to your work."
 ---
 
 **“Tough times never last and champions recognize that.” – Darrin Donnelly**  In this summary, you'll learn a mindset from **five great coaches** that leads to unstoppable success.
