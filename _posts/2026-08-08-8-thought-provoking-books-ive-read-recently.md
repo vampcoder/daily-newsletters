@@ -4,15 +4,15 @@ title: "8 Thought-Provoking Books I've Read Recently"
 date: 2026-08-08 15:34:27 +0000
 source: "Scott Young"
 category: "Life & Culture"
-excerpt: "In this newsletter, Scott Young shares his insights on eight books he recently read, ranging from sociology and calculus to Greek tragedy and satire. He offers thought-provoking commentary on each, making this a diverse reading list for curious minds."
+excerpt: "Scott Young shares eight books that have sparked his thinking, ranging from social theory to mathematics to classic fiction. He offers candid reflections on envy, calculus, tragedy, and more, encouraging readers to explore these thought-provoking reads."
 theme_gradient: "linear-gradient(135deg, #4caf50 0%, #388e3c 100%)"
 image: "https://www.scotthyoung.com/blog/wp-content/uploads/2026/08/51jzt8cSl3L._SL1400_-667x1024.jpg"
 is_summary: false
 key_takeaways:
-  - "Envy is a powerful social force that societies must suppress to function, as argued in Helmut Schoeck's 'Envy'."
-  - "Calculus is a crowning achievement of mathematics, and Steven Strogatz's 'Infinite Powers' tells its fascinating history."
-  - "Ancient Greek tragedies explore the fragility of goodness, posing dilemmas where no good choice exists."
-  - "Joseph Heller's 'Catch-22' is a hilarious satire on war and bureaucracy, full of paradoxes and absurd observations."
+  - "Envy is a destructive social force that can suppress achievement and virtue; we often envy those close to us more than the distant wealthy."
+  - "Calculus is a crowning achievement of human thought, but its presentation can sometimes overhype its everyday relevance."
+  - "Greek tragedies illustrate that sometimes we face impossible choices where no option preserves all our values."
+  - "Classic fiction like Catch-22 offers profound insights through humor and satire, stimulating deep thinking beyond mere entertainment."
 ---
 
 [Read this article on my blog](https://5a3293ec.click.convertkit-mail4.com/wvuq20lkqlughk0ew46t7hned9de3b8h2d57/08hwhgu23e4n4ehlh5/aHR0cHM6Ly93d3cuc2NvdHRoeW91bmcuY29tL2Jsb2cvMjAyNi8wOC8wNi9yZWNlbnQtcmVhZGluZy0zLw==)    Hey Amol,

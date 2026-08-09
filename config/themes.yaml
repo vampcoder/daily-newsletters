@@ -1,0 +1,15 @@
+# CSS Gradient Themes for Posts
+# Generated deterministically based on post title hashes
+THEME_GRADIENTS:
+  - "linear-gradient(135deg, #673ab7 0%, #512da8 100%)"  # Deep Purple
+  - "linear-gradient(135deg, #3f51b5 0%, #303f9f 100%)"  # Indigo
+  - "linear-gradient(135deg, #009688 0%, #00796b 100%)"  # Teal
+  - "linear-gradient(135deg, #e91e63 0%, #c2185b 100%)"  # Pink
+  - "linear-gradient(135deg, #00bcd4 0%, #0097a7 100%)"  # Cyan
+  - "linear-gradient(135deg, #ff5722 0%, #e64a19 100%)"  # Deep Orange
+  - "linear-gradient(135deg, #9c27b0 0%, #7b1fa2 100%)"  # Purple
+  - "linear-gradient(135deg, #2196f3 0%, #1976d2 100%)"  # Blue
+  - "linear-gradient(135deg, #4caf50 0%, #388e3c 100%)"  # Green
+  - "linear-gradient(135deg, #ff9800 0%, #f57c00 100%)"  # Amber
+  - "linear-gradient(135deg, #607d8b 0%, #455a64 100%)"  # Blue Grey
+  - "linear-gradient(135deg, #f44336 0%, #d32f2f 100%)"   # Red

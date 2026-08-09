@@ -1,0 +1,22 @@
+# Pipeline configuration globals
+# Falls back to environment variables if defined there
+
+# Gmail Configurations
+SCOPES:
+  - "https://www.googleapis.com/auth/gmail.modify"
+TOKEN_FILE: "token.json"
+CREDENTIALS_FILE: "credentials.json"
+PROCESSED_EMAILS_FILE: "processed_emails.json"
+
+# Scheduler Configurations
+FETCH_INTERVAL_HOURS: 4
+
+# Repository Configurations
+POSTS_DIR: "_posts"
+GITHUB_REPO: "vampcoder/daily-newsletters"
+
+# LLM Gate Curation Configurations
+ENABLE_LLM_CURATION: true
+LLM_MODEL: "deepseek/deepseek-chat"
+LLM_API_BASE: "https://api.deepseek.com"
+MIN_RELEVANCE_SCORE: 6

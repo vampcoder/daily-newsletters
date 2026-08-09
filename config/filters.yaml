@@ -1,0 +1,33 @@
+# Subject-based sender filtering dictionary
+# Key: sender email/name substring (lowercased during matching)
+# Value: allow and/or block list of subject substrings (lowercased during matching)
+SENDER_SUBJECT_FILTERS:
+  deeplearning.ai:
+    allow:
+      - "the batch"
+  moneycontrol.com:
+    block:
+      - "bell"
+  hsbc:
+    allow:
+      - "investment weekly"
+      - "investment monthly"
+      - "special coverage"
+      - "india brief"
+
+# Rule-based Spam / Promo filtering patterns (Pre-filter before LLM Curation)
+PROMO_KEYWORDS:
+  - "\\b% off\\b"
+  - "\\bdiscount\\b"
+  - "\\bsale\\b"
+  - "\\bcoupon\\b"
+  - "\\bpromo code\\b"
+  - "\\blimited time offer\\b"
+  - "\\bbuy now\\b"
+  - "\\bblack friday\\b"
+  - "\\bcyber monday\\b"
+  - "\\bsponsored\\b"
+  - "\\bfree trial\\b"
+  - "\\bcheckout\\b"
+  - "\\border summary\\b"
+  - "\\binvoice\\b"

@@ -20,13 +20,14 @@ flowchart LR
 ## 📁 Repository Structure
 
 ```
-├── agent_instructions_newsletter_pipeline.md  # Original pipeline requirements specification
-├── auth_setup.py                              # One-time local OAuth2 authentication helper
-├── main.py                                    # Core pipeline script & schedule loop
+├── main.py                                    # Core pipeline entrypoint & schedule loop
 ├── requirements.txt                           # Python package dependencies
 ├── Dockerfile                                 # Docker configuration for continuous deployment
 ├── .env.example                               # Environment variables template
-└── .gitignore                                 # Git ignore configuration
+├── .gitignore                                 # Git ignore configuration
+├── config/                                    # YAML configuration parameters (filters, themes, pipeline)
+├── scripts/                                   # Application logic packages (orchestration, parser, helpers)
+└── tools/                                     # Standalone utility scripts (auth flow, reprocessing logs)
 ```
 
 ---
@@ -53,7 +54,7 @@ Create a filter in your Gmail account:
 
 ---
 
-## 🔐 One-Time OAuth Authentication (`auth_setup.py`)
+## 🔐 One-Time OAuth Authentication (`tools/auth_setup.py`)
 
 Before deploying headlessly in Docker, run the setup script locally to authenticate with Google:
 
@@ -62,7 +63,7 @@ Before deploying headlessly in Docker, run the setup script locally to authentic
 pip install -r requirements.txt
 
 # Run auth setup
-python auth_setup.py
+python tools/auth_setup.py
 ```
 
 - A browser window will open asking for permissions to manage Gmail.
