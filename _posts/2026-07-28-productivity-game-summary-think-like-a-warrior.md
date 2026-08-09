@@ -4,7 +4,7 @@ title: "Think Like a Warrior: Lessons from Five Great Coaches"
 date: 2026-07-28 11:42:36 +0000
 source: "Productivity Game"
 category: "Productivity"
-excerpt: "This newsletter summary distills the mindset of five legendary coaches into actionable principles for achieving unstoppable success. It emphasizes staying present, dropping entitlement, and maintaining humility through daily self-reflection."
+excerpt: "In this newsletter, Nathan Lozeron of Productivity Game summarizes the key mindset from the book 'Think Like a Warrior' by Darrin Donnelly, drawing lessons from five great coaches. The summary emphasizes focusing on the present, avoiding entitlement, and practicing daily self-reflection to achieve unstoppable success."
 theme_gradient: "linear-gradient(135deg, #9c27b0 0%, #7b1fa2 100%)"
 image: "https://embed.filekitcdn.com/e/8UGoEYUY8hNJcBFmksRBVo/9YXBFxf52qdCnkP2SfTEx"
 video_url: "https://5463b514.click.convertkit-mail4.com/r8u65ewg72hoh36085vt2hdxekqegb7hxw8/g3hnh5hm4en7d2crh9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zU21KSGJUNFJBdw=="
@@ -12,8 +12,8 @@ pdf_url: "https://5463b514.click.convertkit-mail4.com/r8u65ewg72hoh36085vt2hdxek
 is_summary: false
 key_takeaways:
   - "Stop wasting effort reliving the past or worrying about the future."
-  - "Drop any attitude of entitlement; stay humble about your progress."
-  - "Practice daily self-reflection with two questions: Did I give my fullest attention to my work today? Did I bring the best possible attitude while doing it?"
+  - "Eliminate any attitude of entitlement; stay humble."
+  - "Daily practice: every night ask if you gave your fullest attention and brought the best attitude to your work."
 ---
 
 **“Tough times never last and champions recognize that.” – Darrin Donnelly**  In this summary, you'll learn a mindset from **five great coaches** that leads to unstoppable success.
@@ -28,12 +28,6 @@ key_takeaways:
     Nathan
 
 ---
-
-)*
-
-
-
-
 
 ](https://5463b514.click.convertkit-mail4.com/r8u65ewg72hoh36085vt2hdxekqegb7hxw8/3ohphkh3eqr626frhn/aHR0cHM6Ly9saW5rLm9tYW5lLm1lZGlhL3Byb2R1Y3Rpdml0eS1nYW1lLXRlbXBsYWZ5LWp1bHk=)
 
