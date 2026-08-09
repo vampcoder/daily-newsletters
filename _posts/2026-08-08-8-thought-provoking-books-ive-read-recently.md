@@ -4,17 +4,19 @@ title: "8 Thought-Provoking Books I've Read Recently"
 date: 2026-08-08 15:34:27 +0000
 source: "Scott Young"
 category: "Life & Culture"
-excerpt: "Scott Young shares his recent reading list, discussing books on envy, calculus, tragedy, and more. He offers personal insights and critiques on each work, making this a thoughtful roundup for curious readers."
+excerpt: "Scott Young shares eight thought-provoking books that offer insights into human nature, mathematics, ethics, history, and satire. From Schoeck's analysis of envy to Strogatz's history of calculus, Nussbaum's exploration of moral dilemmas, and Heller's Catch-22, the selection covers diverse topics with intellectual curiosity."
 theme_gradient: "linear-gradient(135deg, #4caf50 0%, #388e3c 100%)"
 image: "https://www.scotthyoung.com/blog/wp-content/uploads/2026/08/51jzt8cSl3L._SL1400_-667x1024.jpg"
 is_summary: false
 key_takeaways:
-  - "Envy is a social emotion that can be caustic and is often directed at close peers rather than distant elites."
-  - "Infinite Powers makes the history of calculus engaging, though the author might overhype its practical applications."
-  - "Tragic literature, as explored in Nussbaum's book, highlights the fragility of moral goodness and the inevitability of tough choices."
+  - "Envy is a social force that societies must suppress to function, and it often targets those closest to us rather than distant elites."
+  - "Calculus has a fascinating history and profound practical applications, making it a cornerstone of modern science and engineering."
+  - "Moral dilemmas in ancient Greek tragedies reveal that sometimes there are no right choices, only tragic ones."
+  - "Heller's Catch-22 offers enduring satire on bureaucracy and the absurdities of war that still resonates today."
+  - "Marginalism, once central to economics, has declined in favor of more quantitative approaches."
 ---
 
-    Hey Amol,
+[Read this article on my blog](https://5a3293ec.click.convertkit-mail4.com/wvuq20lkqlughk0ew46t7hned9de3b8h2d57/08hwhgu23e4n4ehlh5/aHR0cHM6Ly93d3cuc2NvdHRoeW91bmcuY29tL2Jsb2cvMjAyNi8wOC8wNi9yZWNlbnQtcmVhZGluZy0zLw==)    Hey Amol,
 
 I hope you’re having a good summer! I’ve been meaning to do a newsletter sharing some thoughts on a few books I’ve read recently. Here are some books I found interesting:
 
@@ -98,8 +100,8 @@ I hope you’re having a good summer! I’ve been meaning to do a newsletter sha
 
     I haven’t always been motivated to read many classic works of fiction, although I seldom regret reading them. *Catch-22* reminds me that fiction is good, not just for entertainment, but for the kind of thinking it stimulates.      ⠀Best,
 
-    ⠀  ](https://5a3293ec.click.convertkit-mail4.com/wvuq20lkqlughk0ew46t7hned9de3b8h2d57/08hwhgu23e4n4ehlh5/aHR0cHM6Ly93d3cuc2NvdHRoeW91bmcuY29tL2Jsb2cvMjAyNi8wOC8wNi9yZWNlbnQtcmVhZGluZy0zLw==)**"**
+    ⠀  Share **"**[**8 Thought-Provoking Books I've Read Recently**](https://5a3293ec.click.convertkit-mail4.com/wvuq20lkqlughk0ew46t7hned9de3b8h2d57/08hwhgu23e4n4ehlh5/aHR0cHM6Ly93d3cuc2NvdHRoeW91bmcuY29tL2Jsb2cvMjAyNi8wOC8wNi9yZWNlbnQtcmVhZGluZy0zLw==)**"**
 
     ⠀
 
-    
+    |  | 309-1275 West 6th Ave, Vancouver, BC V6H 1A6.
