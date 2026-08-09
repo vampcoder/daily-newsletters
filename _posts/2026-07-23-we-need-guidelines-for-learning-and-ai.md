@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "AI and Learning: Why More Automation Isn't the Answer"
+title: "AI and Learning: Navigating the Fine Line Between Tool and Crutch"
 date: 2026-07-23 15:12:33 +0000
 source: "Scott Young"
 category: "Tech & AI"
-excerpt: "Scott Young examines the dual impact of AI on education, drawing on an essay by Carl Hendrick that compares over-reliance on AI to pilots' overdependence on autopilot. He argues that while AI offers powerful learning tools, using it as a substitute for doing the work undermines genuine learning. The key is to establish guidelines that prevent dependency while leveraging AI's benefits."
+excerpt: "Scott Young reflects on the dual impact of AI on education, citing Carl Hendrick's analysis of AI's effect on learning. He draws an analogy between autopilot over-dependency in aviation and the risks of students relying too heavily on AI. The post argues for guidelines that encourage using AI as a learning aid, not a substitute for doing the work."
 theme_gradient: "linear-gradient(135deg, #3f51b5 0%, #303f9f 100%)"
 image: "https://www.scotthyoung.com/blog/wp-content/uploads/2026/07/Guidelines-for-AI-1.jpg"
 is_summary: false
 key_takeaways:
-  - "AI can both enhance learning and hinder it; the danger lies in over-dependency, not the technology itself."
-  - "Educational institutions must move beyond vague pro-AI or anti-AI stances and develop clear guidelines for appropriate AI use."
-  - "Like calculators and Wikipedia, AI is a tool that can be a crutch or an aid—the right 'amount' of use is crucial for optimal learning."
+  - "AI can both enhance and undermine learning: it offers tutoring and practice but can also do assignments for students, which hinders skill development."
+  - "The danger is over-dependency, similar to pilots relying too much on autopilot, especially for novices."
+  - "Educational institutions need clear guidelines, not vague pro-AI stances or rigid academic honesty policies, to help students use AI effectively."
 ---
 
 A lot of ink is being spilled about the effects AI is having on learning and education.
@@ -30,6 +30,4 @@ Hendrick doesn't blame the students for this alarming trend; he blames education
 
 Obviously, this is untenable. Education will have to change because of AI.
 
-The answer isn't to adopt some vague AI-forward solution which simply accepts AI output as a legitimate substitute for students doing the work themselves. Instead, it will be understanding that AI, like calculators and Wikipedia, can be both an incredible tool and a debilitating crutch. What is the Right "Amount" of AI Use for Optimal Learning?
-
-It's pretty clear that the solution of having AI do your homework for you will not to result in much actual learning. Enamored as I am by the possibilities unlocked by the arrival of coding agents.
+The answer isn't to adopt some vague AI-forward solution which simply accepts AI output as a legitimate substitute for students doing the work themselves. Instead, it will be understanding that AI, like calculators and Wikipedia, can be both an incredible tool and a debilitating crutch. What is the Right "Amount" of AI Use for Optimal Learning? It's pretty clear that the solution of having AI do your homework for you will not to result in much actual learning. Enamored as I am by the possibilities unlocked by the arrival of coding agents.
