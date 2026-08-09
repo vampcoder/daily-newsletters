@@ -8,6 +8,11 @@ TOKEN_FILE: "token.json"
 CREDENTIALS_FILE: "credentials.json"
 PROCESSED_EMAILS_FILE: "processed_emails.json"
 
+# Label used to quarantine spam-classified emails (moved out of "Newsletter")
+NEWSLETTER_SPAM_LABEL: "newsletter-spam"
+# Name of the curated-newsletter label (removed when quarantining spam)
+NEWSLETTER_LABEL_NAME: "Newsletter"
+
 # Scheduler Configurations
 FETCH_INTERVAL_HOURS: 4
 
@@ -19,4 +24,6 @@ GITHUB_REPO: "vampcoder/daily-newsletters"
 ENABLE_LLM_CURATION: true
 LLM_MODEL: "deepseek/deepseek-chat"
 LLM_API_BASE: "https://api.deepseek.com"
+# Disable DeepSeek reasoning/thinking mode for the LLM gate (fastest, cheapest)
+LLM_THINKING_DISABLED: true
 MIN_RELEVANCE_SCORE: 6

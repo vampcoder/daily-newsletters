@@ -9,7 +9,7 @@ try:
 except ImportError:
     litellm = None
 
-from scripts.config import ENABLE_LLM_CURATION, LLM_API_KEY, LLM_MODEL, LLM_API_BASE, MIN_RELEVANCE_SCORE
+from scripts.config import ENABLE_LLM_CURATION, LLM_API_KEY, LLM_MODEL, LLM_API_BASE, MIN_RELEVANCE_SCORE, LLM_THINKING_DISABLED
 
 
 # Pydantic Schemas for Structured LLM Outputs
@@ -46,12 +46,9 @@ def extract_json_from_llm(text):
     return json.loads(text)
 
 
-def curate_newsletter_with_llm(subject, sender, body_preview):
-    """Stage 1: Lightweight LLM Curation Gate (~150 tokens)."""
-    if not ENABLE_LLM_CURATION or not LLM_API_KEY or not litellm:
-        return True, 7, "LLM curation disabled or API key missing."
-
-    prompt = f"""You are an editor curating a reading archive.
+def _build_curation_prompt(subject, sender, body_preview):
+    """Shared Stage 1 prompt used by both the publish gate and the report-only classifier."""
+    return f"""You are an editor curating a reading archive.
 Evaluate this email and decide if it contains substantive reading content (informative articles, essays, technical deep-dives, market research, health/nutrition science notes, behavioral psychology, productivity lessons, or book summaries).
 
 Sender: {sender}
@@ -75,22 +72,48 @@ Respond ONLY with a valid JSON object matching exact format:
 }}
 """
 
-    try:
-        kwargs = {
-            "model": LLM_MODEL,
-            "messages": [{"role": "user", "content": prompt}],
-            "api_key": LLM_API_KEY
-        }
-        if LLM_API_BASE:
-            kwargs["api_base"] = LLM_API_BASE
 
-        response = litellm.completion(**kwargs)
-        raw_content = response.choices[0].message.content
-        data = extract_json_from_llm(raw_content)
+def _call_llm_json(prompt):
+    """Run the LLM and return the parsed JSON dict. Raises on any failure."""
+    kwargs = {
+        "model": LLM_MODEL,
+        "messages": [{"role": "user", "content": prompt}],
+        "api_key": LLM_API_KEY
+    }
+    if LLM_API_BASE:
+        kwargs["api_base"] = LLM_API_BASE
+    if LLM_THINKING_DISABLED:
+        kwargs["extra_body"] = {"thinking": {"type": "disabled"}}
+
+    response = litellm.completion(**kwargs)
+    raw_content = response.choices[0].message.content
+    return extract_json_from_llm(raw_content)
+
+
+def curate_newsletter_with_llm(subject, sender, body_preview):
+    """Stage 1: Lightweight LLM Curation Gate (~150 tokens). Falls back to rule decision on error."""
+    if not ENABLE_LLM_CURATION or not LLM_API_KEY or not litellm:
+        return True, 7, "LLM curation disabled or API key missing."
+
+    try:
+        data = _call_llm_json(_build_curation_prompt(subject, sender, body_preview))
         return data.get("should_publish", True), data.get("relevance_score", 7), data.get("reason", "")
     except Exception as err:
         print(f"[WARNING] LLM Curation Stage 1 error ({err}). Falling back to rule decision.")
         return True, 7, f"Fallback due to error: {err}"
+
+
+def classify_newsletter_with_llm(subject, sender, body_preview):
+    """Report-only classification: same prompt as the curation gate, but propagates failures.
+
+    Returns (should_publish, relevance_score, reason); raises on LLM/API errors so the
+    caller can record an ERR verdict instead of defaulting to publish.
+    """
+    if not ENABLE_LLM_CURATION or not LLM_API_KEY or not litellm:
+        raise RuntimeError("LLM curation disabled or API key missing.")
+
+    data = _call_llm_json(_build_curation_prompt(subject, sender, body_preview))
+    return data.get("should_publish", True), data.get("relevance_score", 7), data.get("reason", "")
 
 
 def polish_newsletter_with_llm(subject, body_text, existing_categories, sender=None):
@@ -133,6 +156,8 @@ Respond ONLY with a valid JSON object matching exact format:
         }
         if LLM_API_BASE:
             kwargs["api_base"] = LLM_API_BASE
+        if LLM_THINKING_DISABLED:
+            kwargs["extra_body"] = {"thinking": {"type": "disabled"}}
 
         response = litellm.completion(**kwargs)
         raw_content = response.choices[0].message.content

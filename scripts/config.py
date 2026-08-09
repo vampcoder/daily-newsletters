@@ -35,6 +35,8 @@ SCOPES = os.getenv('SCOPES', '').split(',') if os.getenv('SCOPES') else pipeline
 TOKEN_FILE = Path(os.getenv('TOKEN_FILE', pipeline_config.get('TOKEN_FILE', 'token.json')))
 CREDENTIALS_FILE = Path(os.getenv('CREDENTIALS_FILE', pipeline_config.get('CREDENTIALS_FILE', 'credentials.json')))
 PROCESSED_EMAILS_FILE = Path(os.getenv('PROCESSED_EMAILS_FILE', pipeline_config.get('PROCESSED_EMAILS_FILE', 'processed_emails.json')))
+NEWSLETTER_SPAM_LABEL = os.getenv('NEWSLETTER_SPAM_LABEL', pipeline_config.get('NEWSLETTER_SPAM_LABEL', 'newsletter-spam'))
+NEWSLETTER_LABEL_NAME = os.getenv('NEWSLETTER_LABEL_NAME', pipeline_config.get('NEWSLETTER_LABEL_NAME', 'Newsletter'))
 
 FETCH_INTERVAL_HOURS = int(os.getenv('FETCH_INTERVAL_HOURS', str(pipeline_config.get('FETCH_INTERVAL_HOURS', 4))))
 POSTS_DIR = os.getenv('POSTS_DIR', pipeline_config.get('POSTS_DIR', '_posts')).strip('/')
@@ -45,6 +47,7 @@ ENABLE_LLM_CURATION = os.getenv('ENABLE_LLM_CURATION', str(pipeline_config.get('
 LLM_API_KEY = os.getenv('LLM_API_KEY')
 LLM_MODEL = os.getenv('LLM_MODEL', pipeline_config.get('LLM_MODEL', 'deepseek/deepseek-chat'))
 LLM_API_BASE = os.getenv('LLM_API_BASE', pipeline_config.get('LLM_API_BASE', 'https://api.deepseek.com'))
+LLM_THINKING_DISABLED = os.getenv('LLM_THINKING_DISABLED', str(pipeline_config.get('LLM_THINKING_DISABLED', False))).lower() in ('true', '1', 'yes')
 MIN_RELEVANCE_SCORE = int(os.getenv('MIN_RELEVANCE_SCORE', str(pipeline_config.get('MIN_RELEVANCE_SCORE', 6))))
 
 # Filters Configurations

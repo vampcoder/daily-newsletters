@@ -1,12 +1,17 @@
 import os
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
+from pathlib import Path
 
 # Import configurations
 from scripts.config import (
     DRY_RUN,
     ENABLE_LLM_CURATION,
     LLM_API_KEY,
-    MIN_RELEVANCE_SCORE
+    LLM_MODEL,
+    MIN_RELEVANCE_SCORE,
+    NEWSLETTER_SPAM_LABEL,
+    NEWSLETTER_LABEL_NAME
 )
 
 try:
@@ -20,14 +25,17 @@ from scripts.gmail_helper import (
     extract_header_value,
     parse_email_parts,
     parse_email_date,
-    mark_email_as_read
+    mark_email_as_read,
+    get_or_create_label,
+    update_email_labels,
+    reconcile_quarantine_labels
 )
 
 # Import GitHub helpers
 from scripts.github_helper import get_github_repo, publish_to_github
 
 # Import LLM curation calls
-from scripts.llm_curator import curate_newsletter_with_llm
+from scripts.llm_curator import curate_newsletter_with_llm, classify_newsletter_with_llm
 
 # Import parsing & formatting helpers
 from scripts.content_parser import (
@@ -74,7 +82,7 @@ def process_inbox():
         messages = []
         page_token = None
         while True:
-            kwargs = {'userId': 'me', 'q': 'label:newsletter', 'maxResults': 500}
+            kwargs = {'userId': 'me', 'q': 'label:newsletter -label:"newsletter-spam"', 'maxResults': 500}
             if page_token:
                 kwargs['pageToken'] = page_token
             results = service.users().messages().list(**kwargs).execute()
@@ -164,3 +172,178 @@ def process_inbox():
 
     except Exception as batch_err:
         print(f"[ERROR] Batch execution error: {batch_err}")
+
+
+# ---------------------------------------------------------------------------
+# Report-only classification workflow (python main.py --classify)
+# ---------------------------------------------------------------------------
+
+CLASSIFY_REPORT_FILE = os.getenv('CLASSIFY_REPORT_FILE', 'classification_report.txt')
+LLM_MAX_WORKERS = int(os.getenv('LLM_MAX_WORKERS', '8'))
+
+
+def _fetch_newsletter_messages(service):
+    """Fetch all messages under label:newsletter (paginated). Returns list of row dicts."""
+    messages = []
+    page_token = None
+    while True:
+        kwargs = {'userId': 'me', 'q': 'label:newsletter', 'maxResults': 500}
+        if page_token:
+            kwargs['pageToken'] = page_token
+        results = service.users().messages().list(**kwargs).execute()
+        messages.extend(results.get('messages', []))
+        page_token = results.get('nextPageToken')
+        if not page_token:
+            break
+
+    rows = []
+    for i, msg_summary in enumerate(messages, 1):
+        msg_id = msg_summary['id']
+        try:
+            msg = service.users().messages().get(userId='me', id=msg_id, format='full').execute()
+            payload = msg.get('payload', {})
+            headers = payload.get('headers', [])
+            subject = extract_header_value(headers, 'Subject') or 'Untitled Newsletter'
+            sender = extract_header_value(headers, 'From') or 'Newsletter'
+            body = parse_email_parts(payload)
+            rows.append({'id': msg_id, 'subject': subject, 'sender': sender, 'body': body})
+        except Exception as err:
+            rows.append({'id': msg_id, 'subject': '(fetch failed)', 'sender': '(unknown)',
+                         'body': '', 'error': str(err)})
+        if i % 100 == 0:
+            print(f"[INFO] Fetched {i}/{len(messages)} emails from 'label:newsletter'.", flush=True)
+    return rows
+
+
+def _classify_row(row):
+    """LLM verdict for one email. Rule-based filters are computed as context, not a gate."""
+    if row.get('error'):
+        return 'ERR', None, f"fetch error: {row['error']}"
+
+    subject, sender, body = row['subject'], row['sender'], row['body']
+
+    rule_notes = []
+    if should_filter_by_sender_subject(sender, subject):
+        rule_notes.append('sender-subject-rule')
+    if is_promotional_email(subject, sender, body):
+        rule_notes.append('promo-rule')
+
+    try:
+        should_pub, score, reason = classify_newsletter_with_llm(subject, sender, body)
+        verdict = 'YES' if should_pub else 'NO'
+    except Exception as err:
+        return 'ERR', None, f"LLM error: {err}"
+
+    if rule_notes:
+        reason = f"[{' + '.join(rule_notes)}] {reason}"
+    return verdict, score, reason
+
+
+def classify_inbox(apply_labels=False):
+    """Classification workflow: fetch every label:newsletter email, let the LLM decide
+    newsletter vs spam, and print a plain YES/NO report.
+
+    Does NOT publish, mark emails as read, or touch the dedup store.
+    With apply_labels=True, NO-verdict emails get the '{NEWSLETTER_SPAM_LABEL}' label and
+    the '{NEWSLETTER_LABEL_NAME}' label is removed (respects DRY_RUN).
+    """
+    print(f"\n[{datetime.now().isoformat()}] Starting newsletter classification run...")
+
+    service = get_gmail_service()
+
+    spam_label_id = None
+    newsletter_label_id = None
+    if apply_labels:
+        spam_label_id = get_or_create_label(service, NEWSLETTER_SPAM_LABEL)
+        newsletter_label_id = get_or_create_label(service, NEWSLETTER_LABEL_NAME)
+        print(f"[INFO] Quarantine labels enabled: NO verdicts will be labeled "
+              f"'{NEWSLETTER_SPAM_LABEL}' and unlabeled from '{NEWSLETTER_LABEL_NAME}'.")
+        if DRY_RUN:
+            print("[INFO] DRY_RUN is enabled — label changes will be simulated, not applied.")
+
+        # Safety net: if 'Also apply filter to matching conversations' ever re-adds
+        # the Newsletter label to quarantined emails, drop it before classifying.
+        reconciled = reconcile_quarantine_labels(service, spam_label_id, newsletter_label_id)
+        if reconciled:
+            print(f"[INFO] Reconcile: removed '{NEWSLETTER_LABEL_NAME}' from {reconciled} "
+                  f"already-quarantined email(s).")
+
+    rows = _fetch_newsletter_messages(service)
+    if not rows:
+        print("[INFO] No newsletter emails found matching 'label:newsletter'.")
+        return
+    print(f"[INFO] Classifying {len(rows)} email(s) with LLM ({LLM_MODEL}, {LLM_MAX_WORKERS} workers)...")
+
+    results = {}
+    with ThreadPoolExecutor(max_workers=LLM_MAX_WORKERS) as pool:
+        futures = {pool.submit(_classify_row, row): row['id'] for row in rows}
+        done = 0
+        for future in as_completed(futures):
+            msg_id = futures[future]
+            try:
+                results[msg_id] = future.result()
+            except Exception as err:
+                results[msg_id] = ('ERR', None, f"unexpected error: {err}")
+            done += 1
+            if done % 100 == 0:
+                print(f"[INFO] Classified {done}/{len(rows)}.", flush=True)
+
+    labeled_count = 0
+    if apply_labels:
+        for row in rows:
+            verdict = results.get(row['id'], ('ERR', None, ''))[0]
+            if verdict != 'NO':
+                continue
+            update_email_labels(
+                service,
+                row['id'],
+                add_labels=[spam_label_id],
+                remove_labels=[newsletter_label_id]
+            )
+            labeled_count += 1
+        print(f"[INFO] Quarantined {labeled_count} NO-verdict email(s) under "
+              f"'{NEWSLETTER_SPAM_LABEL}'.")
+
+    report_lines = []
+    report_lines.append("CLASSIFICATION REPORT — label:newsletter -label:\"newsletter-spam\" (LLM verdict)")
+    report_lines.append("=" * 100)
+    for row in rows:
+        verdict, score, reason = results.get(row['id'], ('ERR', None, 'not classified'))
+        score_str = f"{score}/10" if score is not None else "---"
+        report_lines.append(
+            f"[{verdict}] {score_str} | {row['sender']} | {row['subject']} | {reason}"
+        )
+
+    verdicts = [r[0] for r in results.values()]
+    yes_count = verdicts.count('YES')
+    no_count = verdicts.count('NO')
+    err_count = verdicts.count('ERR')
+    report_lines.append("=" * 100)
+    report_lines.append(
+        f"SUMMARY: {len(rows)} emails | YES (newsletter): {yes_count} | NO (spam): {no_count} | ERR: {err_count}"
+        + (f" | LABELED (quarantined): {labeled_count}" if apply_labels else "")
+    )
+
+    report = "\n".join(report_lines)
+    print("\n" + report)
+
+    try:
+        Path(CLASSIFY_REPORT_FILE).write_text(report + "\n", encoding='utf-8')
+        print(f"[INFO] Report saved to {Path(CLASSIFY_REPORT_FILE).resolve()}")
+    except Exception as err:
+        print(f"[WARNING] Could not save report to '{CLASSIFY_REPORT_FILE}': {err}")
+
+
+def reconcile_only():
+    """Standalone maintenance pass: drop the Newsletter label from any email that also
+    carries newsletter-spam (fixes re-labels from 'Also apply filter to matching
+    conversations'). No LLM calls, no publishing. Respects DRY_RUN."""
+    print(f"\n[{datetime.now().isoformat()}] Starting quarantine reconciliation...")
+
+    service = get_gmail_service()
+    spam_label_id = get_or_create_label(service, NEWSLETTER_SPAM_LABEL)
+    newsletter_label_id = get_or_create_label(service, NEWSLETTER_LABEL_NAME)
+
+    fixed = reconcile_quarantine_labels(service, spam_label_id, newsletter_label_id)
+    print(f"[INFO] Reconciliation complete: removed '{NEWSLETTER_LABEL_NAME}' from {fixed} email(s).")
+    return fixed

@@ -76,6 +76,81 @@ def parse_email_date(date_str):
     return datetime.now(timezone.utc)
 
 
+def get_or_create_label(service, label_name):
+    """Return the Gmail label ID for label_name, creating the label if it doesn't exist."""
+    labels = service.users().labels().list(userId='me').execute().get('labels', [])
+    for label in labels:
+        if label.get('name', '').lower() == label_name.lower():
+            return label['id']
+
+    if DRY_RUN:
+        print(f"[DRY-RUN] Would create Gmail label '{label_name}'.")
+        return f"dry-run:{label_name}"
+
+    created = service.users().labels().create(
+        userId='me',
+        body={
+            'name': label_name,
+            'messageListVisibility': 'show',
+            'labelListVisibility': 'labelShow'
+        }
+    ).execute()
+    print(f"[INFO] Created new Gmail label '{label_name}'.")
+    return created['id']
+
+
+def update_email_labels(service, msg_id, add_labels=None, remove_labels=None):
+    """Add and/or remove Gmail labels on a message. Respects DRY_RUN."""
+    body = {}
+    if add_labels:
+        body['addLabelIds'] = list(add_labels)
+    if remove_labels:
+        body['removeLabelIds'] = list(remove_labels)
+    if not body:
+        return
+
+    if DRY_RUN:
+        print(f"[DRY-RUN] Would modify labels on email '{msg_id}': "
+              f"add={body.get('addLabelIds')} remove={body.get('removeLabelIds')}")
+        return
+
+    service.users().messages().modify(userId='me', id=msg_id, body=body).execute()
+    print(f"[SUCCESS] Updated labels on email '{msg_id}': "
+          f"add={body.get('addLabelIds')} remove={body.get('removeLabelIds')}")
+
+
+def reconcile_quarantine_labels(service, spam_label_id, newsletter_label_id):
+    """Drop the newsletter label from any message carrying both labels.
+
+    Safety net for when a Gmail filter is edited and 'Also apply filter to matching
+    conversations' re-adds the Newsletter label to already-quarantined emails.
+    Returns the number of messages fixed. Respects DRY_RUN.
+    """
+    fixed = 0
+    page_token = None
+    while True:
+        kwargs = {'userId': 'me', 'q': 'label:newsletter label:"newsletter-spam"', 'maxResults': 500}
+        if page_token:
+            kwargs['pageToken'] = page_token
+        results = service.users().messages().list(**kwargs).execute()
+        messages = results.get('messages', [])
+        for msg_summary in messages:
+            msg_id = msg_summary['id']
+            try:
+                msg = service.users().messages().get(userId='me', id=msg_id, format='metadata').execute()
+            except Exception as err:
+                print(f"[WARNING] Could not inspect email '{msg_id}' during reconcile: {err}")
+                continue
+            label_ids = set(msg.get('labelIds', []))
+            if newsletter_label_id in label_ids and spam_label_id in label_ids:
+                update_email_labels(service, msg_id, remove_labels=[newsletter_label_id])
+                fixed += 1
+        page_token = results.get('nextPageToken')
+        if not page_token:
+            break
+    return fixed
+
+
 def mark_email_as_read(service, msg_id):
     """Remove UNREAD label from processed email."""
     if DRY_RUN:
