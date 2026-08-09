@@ -4,16 +4,17 @@ title: "Think Like a Warrior: Lessons from Five Great Coaches"
 date: 2026-07-28 11:42:36 +0000
 source: "Productivity Game"
 category: "Productivity"
-excerpt: "In this newsletter, Nathan Lozeron of Productivity Game summarizes the key mindset from the book 'Think Like a Warrior' by Darrin Donnelly, drawing lessons from five great coaches. The summary emphasizes focusing on the present, avoiding entitlement, and practicing daily self-reflection to achieve unstoppable success."
+excerpt: "This summary from Productivity Game distills the mindset of five great coaches, emphasizing resilience, humility, and focus on the present. It offers practical nightly reflection questions to cultivate a champion's mentality and improve daily performance."
 theme_gradient: "linear-gradient(135deg, #9c27b0 0%, #7b1fa2 100%)"
 image: "https://embed.filekitcdn.com/e/8UGoEYUY8hNJcBFmksRBVo/9YXBFxf52qdCnkP2SfTEx"
 video_url: "https://5463b514.click.convertkit-mail4.com/r8u65ewg72hoh36085vt2hdxekqegb7hxw8/g3hnh5hm4en7d2crh9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zU21KSGJUNFJBdw=="
 pdf_url: "https://5463b514.click.convertkit-mail4.com/r8u65ewg72hoh36085vt2hdxekqegb7hxw8/9qhzhnhdogxkq7t9h3/aHR0cHM6Ly9kb3dubG9hZC5maWxla2l0Y2RuLmNvbS9kLzhVR29FWVVZOGhOSmNCRm1rc1JCVm8vdkxBS0NOaWJaTVBoWG9xS2ROZUU4TA=="
 is_summary: false
 key_takeaways:
+  - "Tough times never last, and champions recognize that."
   - "Stop wasting effort reliving the past or worrying about the future."
-  - "Eliminate any attitude of entitlement; stay humble."
-  - "Daily practice: every night ask if you gave your fullest attention and brought the best attitude to your work."
+  - "Drop any attitude of entitlement and stay humble."
+  - "Daily practice: ask yourself if you gave your fullest attention and brought the best possible attitude to your work."
 ---
 
 **“Tough times never last and champions recognize that.” – Darrin Donnelly**  In this summary, you'll learn a mindset from **five great coaches** that leads to unstoppable success.
