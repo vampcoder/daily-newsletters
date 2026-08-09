@@ -1,18 +1,17 @@
 ---
 layout: post
-title: "8 Thought-Provoking Books You Should Read"
+title: "8 Thought-Provoking Books I've Read Recently"
 date: 2026-08-08 15:34:27 +0000
 source: "Scott Young"
 category: "Life & Culture"
-excerpt: "In this newsletter, Scott Young shares his recent reading list, offering insightful commentary on eight books that span psychology, mathematics, philosophy, economics, and fiction. From Schoeck's analysis of envy to Heller's satirical classic Catch-22, Young provides thought-provoking perspectives that challenge conventional thinking."
+excerpt: "Scott Young shares his reviews of eight diverse books, from an analysis of envy to a satire on war, offering thought-provoking insights into human behavior, mathematics, literature, and economics."
 theme_gradient: "linear-gradient(135deg, #4caf50 0%, #388e3c 100%)"
 image: "https://www.scotthyoung.com/blog/wp-content/uploads/2026/08/51jzt8cSl3L._SL1400_-667x1024.jpg"
 is_summary: false
 key_takeaways:
-  - "Envy can be a corrosive force in society, suppressing individual achievement and fostering resentment among peers."
-  - "Calculus has a fascinating history that reveals its profound impact on science and our understanding of the universe."
-  - "Certain moral dilemmas have no right answer, as ancient Greek tragedies illustrate the fragility of human goodness."
-  - "Catch-22 uses humor and paradox to critique bureaucracy and the absurdities of war, offering timeless insights into human nature."
+  - "Envy can suppress individual effort and is often targeted at those close to us rather than distant elites."
+  - "The history of calculus reveals its surprising importance in understanding the universe."
+  - "Life often presents dilemmas where no choice is fully right, as explored in Greek tragedy."
 ---
 
 [Read this article on my blog](https://5a3293ec.click.convertkit-mail4.com/wvuq20lkqlughk0ew46t7hned9de3b8h2d57/08hwhgu23e4n4ehlh5/aHR0cHM6Ly93d3cuc2NvdHRoeW91bmcuY29tL2Jsb2cvMjAyNi8wOC8wNi9yZWNlbnQtcmVhZGluZy0zLw==)    Hey Amol,
