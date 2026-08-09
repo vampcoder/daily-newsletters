@@ -1,20 +1,22 @@
 ---
 layout: post
-title: "The Register IRDAI Will Build, and the One That Protects You"
+title: "IRDAI's Register: Accountability Half-Measure"
 date: 2026-08-08 05:24:46 +0000
-source: "Value Research"
+source: "Value Research Online"
 category: "Finance & Investing"
-excerpt: "Insurance regulator IRDAI proposes a public register to track individual sellers, aiming to curb mis-selling. But the real fix—cutting commissions—is unlikely to happen, leaving buyers to protect themselves."
+excerpt: "IRDAI proposes a public register to track insurance sellers, aiming to curb mis-selling. However, the editor argues that while the register is easy to implement, the harder reforms—like changing commission structures—are unlikely, leaving buyers to rely on their own caution."
 theme_gradient: "linear-gradient(135deg, #00bcd4 0%, #0097a7 100%)"
 image: "https://m1.valueresearchonline.com/asset/e38aa154-3c06-4d84-b0eb-74ba3ff782c4"
 is_summary: false
 key_takeaways:
-  - "A public register of insurance sellers is a step toward accountability but won't change incentives."
-  - "The real cure—tying seller rewards to advice quality—faces industry resistance and may be watered down."
-  - "Insurance buyers must remain vigilant because the sales machine will likely continue pushing unsuitable products."
+  - "IRDAI proposes a public register to trace insurance policies to individual sellers, but it only addresses the executor, not the incentive system."
+  - "The register is unlikely to change sales behavior because commissions still reward volume, not advice quality."
+  - "Buyers should ask 'What does the seller earn if I say yes?' to avoid being mis-sold expensive endowment plans."
 ---
 
-The insurance regulator has proposed something that sounds like real accountability for mis-selling. I want to tell you why only half of it is likely to happen, and what that leaves you to do for yourself.
+The register IRDAI will build, and the one that protects you
+
+[Value Research](https://m2.valueresearchonline.com/link/e6c32e73-f31b-4255-8097-1a8664065ae4/a66739c2-c67e-44ea-a38f-fc674156b877/354d9d27-5192-430e-bf5a-94afbab7fe6d)Editor's NoteValue Research OnlineSaturday, August 8, 2026**The easy half will be done** **Dear Bhaskar,**  The insurance regulator has proposed something that sounds like real accountability for mis-selling. I want to tell you why only half of it is likely to happen, and what that leaves you to do for yourself.
 
 At the silver jubilee gathering of the insurance brokers' association in Delhi last week, insurance regulator IRDAI's chairman, Ajay Seth, made a proposal that is hard to argue against: that every policy should be traceable to the person who sold it, not merely to the bank or broking firm. A public register would hold this, so that when someone is sold an expensive endowment plan when a term cover would have done, the seller can be identified, and his record can follow him from one employer to the next. It sounds like the start of real accountability, and in a narrow sense it is.
 
@@ -22,4 +24,11 @@ To his credit, Seth did not stop at the register. In the same remarks, and in in
 
 This reminds me of Charlie Munger's most useful sentence, that if you show him the incentive, he will show you the outcome. One of the two cures is, in the end, a database that records who did what, and it costs the distribution business nothing, because it threatens no existing stream of income. The other asks the industry to cut the very commissions that pay for the bank counters, the broker networks and the apparatus through which most policies are pushed. It is not hard to guess which of the two will be implemented, and which one will become a discussion paper, then a consultation, and finally a circular so soft that the sales machine carries on regardless.
 
-I've noticed recently that some carmakers have started selling their vehicles without a spare wheel, offering just a puncture repair kit instead. This is sort of acceptable in a city but a disaster on a highway after dark. Nobody proposes a register of the salesmen who sold these cars because we understand that the choice was made above their level to protect a price or a margin, and that the blame lies with whoever set the target, not whoever met it. We would think it absurd to keep a permanent record of each showroom salesman while the boardroom that removed the wheel went unnamed. Yet this is precisely what a register of insurance sellers does: it writes down the name of the man at the desk and leaves blank the name of whoever decided the desk should push endowments. The agent across from an insurance buyer is in the same p
+I've noticed recently that some carmakers have started selling their vehicles without a spare wheel, offering just a puncture repair kit instead. This is sort of acceptable in a city but a disaster on a highway after dark. Nobody proposes a register of the salesmen who sold these cars because we understand that the choice was made above their level to protect a price or a margin, and that the blame lies with whoever set the target, not whoever met it. We would think it absurd to keep a permanent record of each showroom salesman while the boardroom that removed the wheel went unnamed. Yet this is precisely what a register of insurance sellers does: it writes down the name of the man at the desk and leaves blank the name of whoever decided the desk should push endowments. The agent across from an insurance buyer is in the same position, since he is not the author of the incentive he answers to but merely its executor. A register that captures him, no matter how faithfully, leaves the person who designed the reward out of the picture.
+
+This is why the promise that a seller's history will follow him sounds more strict than it actually is. You can trace executors for as long as you like, but the next person hired into the same setup will behave the exact same way, because it is the setup, not the individual, that is doing the work. When more than one in five complaints against life insurers now concerns the way a policy was sold, we're seeing a system that is working as it was designed. A fifth of all grievances being about the sale itself is not a scattering of bad apples; it is the sound of the machine running normally. No register will solve this problem. I made much the same argument a year ago, suggesting that buyers might organise for themselves, since nothing else seems to work.
+
+None of this is to say the register should not be built, only that we should be clear about what it can and cannot do. A regulator who meant the harder half would begin at the other end, making the unsuitable sale unprofitable before troubling to trace it, so that the register is used to confirm that a problem is already shrinking. Until that day comes, the buyer's own caution remains the only register that has ever protected him. I would be happy to be proved wrong on what I have said above, but the direction in which the money flows has always been a perfect predictor.    **P.S.**  [Do write back](mailto:editor@valueresearch.in). I read every reply. P.S. The buyer's caution compresses into one question to ask before you sign anything: what does the seller earn if I say yes? If the honest answer is a large first-year commission, an expensive endowment plan is on its way to you, and a plain term cover is what you should be asking about instead..Value Research India Pvt. Ltd.
+C-103, Sector 65, Noida 201301You're receiving this because you subscribed to the Editor's Note at Value Research Online.[Manage newsletters](https://m2.valueresearchonline.com/link/2f1c0b1c-c770-4e9b-93b8-92af161a4827/a66739c2-c67e-44ea-a38f-fc674156b877/354d9d27-5192-430e-bf5a-94afbab7fe6d)  ·
+·
+[Privacy](https://m2.valueresearchonline.com/link/f9f3e2fd-8d83-4f4e-8a83-405c22a32865/a66739c2-c67e-44ea-a38f-fc674156b877/354d9d27-5192-430e-bf5a-94afbab7fe6d)© 2026 Value Research India Pvt. Ltd. All rights reserved..
