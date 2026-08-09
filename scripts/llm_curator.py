@@ -9,7 +9,8 @@ try:
 except ImportError:
     litellm = None
 
-from scripts.config import ENABLE_LLM_CURATION, LLM_API_KEY, LLM_MODEL, LLM_API_BASE, MIN_RELEVANCE_SCORE, LLM_THINKING_DISABLED
+from scripts.config import ENABLE_LLM_CURATION, LLM_API_KEY, LLM_MODEL, LLM_API_BASE, MIN_RELEVANCE_SCORE, LLM_THINKING_LEVEL, LLM_THINKING_BUDGET_TOKENS
+from scripts.gmail_helper import html_to_text
 
 
 # Pydantic Schemas for Structured LLM Outputs
@@ -46,23 +47,40 @@ def extract_json_from_llm(text):
     return json.loads(text)
 
 
+def _thinking_extra_body():
+    """DeepSeek thinking-mode request body. 'low' = enabled with a minimal token budget
+    (fastest thinking pass); 'disabled' turns it off entirely."""
+    if LLM_THINKING_LEVEL == 'disabled':
+        return {"thinking": {"type": "disabled"}}
+    if LLM_THINKING_LEVEL == 'low':
+        return {"thinking": {"type": "enabled", "budget_tokens": LLM_THINKING_BUDGET_TOKENS}}
+    return {"thinking": {"type": "enabled"}}
+
+
 def _build_curation_prompt(subject, sender, body_preview):
     """Shared Stage 1 prompt used by both the publish gate and the report-only classifier."""
+    preview = html_to_text(body_preview)[:2000]
     return f"""You are an editor curating a reading archive.
 Evaluate this email and decide if it contains substantive reading content (informative articles, essays, technical deep-dives, market research, health/nutrition science notes, behavioral psychology, productivity lessons, or book summaries).
 
 Sender: {sender}
 Subject: {subject}
-Content Preview: {body_preview[:800]}
+Content Preview (plain text, may be truncated):
+{preview}
 
-STRICT REJECTION RULES (Mark should_publish = false & relevance_score < 5):
-1. Plain subscription confirmations ("You're on the list", "Welcome to the newsletter", "Thanks for subscribing").
-2. Pure marketing / sales / discount blasts ("50% off", "Cyber Monday", "Upgrade to paid membership", "Enroll in my masterclass" without any actual article text).
+PUBLISH (should_publish = true, relevance_score >= 8) if the email contains:
+- A substantive article, essay, or analysis with real content — facts, reasoning, or reporting. This includes Indian financial journalism (Money Control Editor's Picks, ET Money, Value Research, Dezerv) and AI/tech analysis (AI Secret, The Rundown) when the core body is actual writing, not just links.
+- A book summary (e.g. Productivity Game), a nutrition/science essay (e.g. Glucose Goddess), a self-improvement/mindset essay (e.g. Mark Manson), a psychology/productivity breakdown (e.g. Nir Eyal), a learning lesson (e.g. Scott Young).
+- Even if there are links to buy a book, enroll in a course, or social follow buttons at the bottom, approve it if the core body is an educational article or essay.
+
+REJECT (should_publish = false, relevance_score < 5):
+1. Plain subscription confirmations ("You're on the list", "Welcome", "Thanks for subscribing").
+2. Pure marketing / sales / discount blasts ("50% off", "Cyber Monday", "Upgrade to paid membership") with no actual article text.
 3. System notifications, billing alerts, or transactional emails.
+4. Financial emails that ONLY pitch products: fund recommendations, "invest in this scheme", broker or product promos, sponsored content with no actual analysis.
+5. Market ticker dumps (e.g. "Closing Bell"/"Opening Bell" listing only indices, gainers, losers, and headlines with no articles).
 
-PUBLICATION ALLOWANCE (Mark should_publish = true & relevance_score >= 8):
-- If the email contains a nutrition/science essay (e.g. from Glucose Goddess), a self-improvement/mindset essay (e.g. from Mark Manson), a psychology/productivity breakdown (e.g. from Nir Eyal), a learning lesson (e.g. from Scott Young), or finance insights (e.g. from Dezerv/Value Research).
-- Even if there are links to buy a book, enroll in a course, or social follow buttons at the very bottom, approve it if the core body is an educational article or essay.
+FAIRNESS RULE: The preview may be truncated or extraction imperfect. If the subject indicates a legitimate topic (a real news event, a book title, a named company) and the preview is simply cut off or thin, default to PUBLISH — do not reject what you cannot fully see.
 
 Respond ONLY with a valid JSON object matching exact format:
 {{
@@ -82,8 +100,7 @@ def _call_llm_json(prompt):
     }
     if LLM_API_BASE:
         kwargs["api_base"] = LLM_API_BASE
-    if LLM_THINKING_DISABLED:
-        kwargs["extra_body"] = {"thinking": {"type": "disabled"}}
+    kwargs["extra_body"] = _thinking_extra_body()
 
     response = litellm.completion(**kwargs)
     raw_content = response.choices[0].message.content
@@ -156,8 +173,7 @@ Respond ONLY with a valid JSON object matching exact format:
         }
         if LLM_API_BASE:
             kwargs["api_base"] = LLM_API_BASE
-        if LLM_THINKING_DISABLED:
-            kwargs["extra_body"] = {"thinking": {"type": "disabled"}}
+        kwargs["extra_body"] = _thinking_extra_body()
 
         response = litellm.completion(**kwargs)
         raw_content = response.choices[0].message.content

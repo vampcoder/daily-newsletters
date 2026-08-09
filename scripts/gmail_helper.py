@@ -76,6 +76,18 @@ def parse_email_date(date_str):
     return datetime.now(timezone.utc)
 
 
+def html_to_text(html):
+    """Convert raw email HTML to clean plain text for LLM previews (tags stripped, whitespace collapsed)."""
+    if not html:
+        return ''
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(html, 'html.parser')
+    for element in soup(['script', 'style', 'head', 'meta', 'link']):
+        element.decompose()
+    text = soup.get_text(separator=' ')
+    return ' '.join(text.split())
+
+
 def get_or_create_label(service, label_name):
     """Return the Gmail label ID for label_name, creating the label if it doesn't exist."""
     labels = service.users().labels().list(userId='me').execute().get('labels', [])

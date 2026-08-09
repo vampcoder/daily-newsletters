@@ -272,7 +272,21 @@ def classify_inbox(apply_labels=False):
     if not rows:
         print("[INFO] No newsletter emails found matching 'label:newsletter'.")
         return
-    print(f"[INFO] Classifying {len(rows)} email(s) with LLM ({LLM_MODEL}, {LLM_MAX_WORKERS} workers)...")
+
+    # Only classify emails the publish pipeline hasn't processed yet, so the
+    # daily quarantine bot skips everything it has already judged.
+    processed_ids = load_processed_email_ids()
+    if processed_ids:
+        fresh_rows = [r for r in rows if r['id'] not in processed_ids]
+        skipped = len(rows) - len(fresh_rows)
+        if skipped:
+            print(f"[INFO] Skipping {skipped} already-processed email(s).")
+        rows = fresh_rows
+    if not rows:
+        print("[INFO] No new unprocessed newsletter emails to classify.")
+        return
+
+    print(f"[INFO] Classifying {len(rows)} new email(s) with LLM ({LLM_MODEL}, {LLM_MAX_WORKERS} workers)...")
 
     results = {}
     with ThreadPoolExecutor(max_workers=LLM_MAX_WORKERS) as pool:

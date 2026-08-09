@@ -22,8 +22,9 @@ GITHUB_REPO: "vampcoder/daily-newsletters"
 
 # LLM Gate Curation Configurations
 ENABLE_LLM_CURATION: true
-LLM_MODEL: "deepseek/deepseek-chat"
+LLM_MODEL: "deepseek/deepseek-v4-flash"
 LLM_API_BASE: "https://api.deepseek.com"
-# Disable DeepSeek reasoning/thinking mode for the LLM gate (fastest, cheapest)
-LLM_THINKING_DISABLED: true
+# Thinking level for DeepSeek: "disabled" | "low" (enabled with small budget) | "high" (full)
+LLM_THINKING_LEVEL: "low"
+LLM_THINKING_BUDGET_TOKENS: 512
 MIN_RELEVANCE_SCORE: 6

@@ -47,7 +47,9 @@ ENABLE_LLM_CURATION = os.getenv('ENABLE_LLM_CURATION', str(pipeline_config.get('
 LLM_API_KEY = os.getenv('LLM_API_KEY')
 LLM_MODEL = os.getenv('LLM_MODEL', pipeline_config.get('LLM_MODEL', 'deepseek/deepseek-chat'))
 LLM_API_BASE = os.getenv('LLM_API_BASE', pipeline_config.get('LLM_API_BASE', 'https://api.deepseek.com'))
-LLM_THINKING_DISABLED = os.getenv('LLM_THINKING_DISABLED', str(pipeline_config.get('LLM_THINKING_DISABLED', False))).lower() in ('true', '1', 'yes')
+# Thinking level for DeepSeek: "disabled" | "low" (enabled with small budget) | "high" (full)
+LLM_THINKING_LEVEL = os.getenv('LLM_THINKING_LEVEL', str(pipeline_config.get('LLM_THINKING_LEVEL', 'low'))).lower()
+LLM_THINKING_BUDGET_TOKENS = int(os.getenv('LLM_THINKING_BUDGET_TOKENS', str(pipeline_config.get('LLM_THINKING_BUDGET_TOKENS', 512))))
 MIN_RELEVANCE_SCORE = int(os.getenv('MIN_RELEVANCE_SCORE', str(pipeline_config.get('MIN_RELEVANCE_SCORE', 6))))
 
 # Filters Configurations
