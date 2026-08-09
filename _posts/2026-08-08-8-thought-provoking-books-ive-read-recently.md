@@ -4,16 +4,15 @@ title: "8 Thought-Provoking Books I've Read Recently"
 date: 2026-08-08 15:34:27 +0000
 source: "Scott Young"
 category: "Life & Culture"
-excerpt: "Scott Young shares eight thought-provoking books that offer insights into human nature, mathematics, ethics, history, and satire. From Schoeck's analysis of envy to Strogatz's history of calculus, Nussbaum's exploration of moral dilemmas, and Heller's Catch-22, the selection covers diverse topics with intellectual curiosity."
+excerpt: "In this newsletter, Scott Young shares brief reviews of eight books he recently read, spanning topics from envy in society and the history of calculus to Greek tragedy, political philosophy, and a classic satire. His insights provoke thought on human nature, ethics, and the absurdities of life."
 theme_gradient: "linear-gradient(135deg, #4caf50 0%, #388e3c 100%)"
 image: "https://www.scotthyoung.com/blog/wp-content/uploads/2026/08/51jzt8cSl3L._SL1400_-667x1024.jpg"
 is_summary: false
 key_takeaways:
-  - "Envy is a social force that societies must suppress to function, and it often targets those closest to us rather than distant elites."
-  - "Calculus has a fascinating history and profound practical applications, making it a cornerstone of modern science and engineering."
-  - "Moral dilemmas in ancient Greek tragedies reveal that sometimes there are no right choices, only tragic ones."
-  - "Heller's Catch-22 offers enduring satire on bureaucracy and the absurdities of war that still resonates today."
-  - "Marginalism, once central to economics, has declined in favor of more quantitative approaches."
+  - "Envy is a corrosive force that societies must suppress to function, and it often targets those closest to us rather than the distant elite."
+  - "The history of calculus reveals its profound impact on science and civilization, but its practical importance can be overhyped."
+  - "Greek tragedies highlight the fragility of goodness and the reality of moral dilemmas where no choice is fully right."
+  - "Classic fiction like Catch-22 can stimulate deep thinking through humor and satire, offering insights into bureaucracy and human folly."
 ---
 
 [Read this article on my blog](https://5a3293ec.click.convertkit-mail4.com/wvuq20lkqlughk0ew46t7hned9de3b8h2d57/08hwhgu23e4n4ehlh5/aHR0cHM6Ly93d3cuc2NvdHRoeW91bmcuY29tL2Jsb2cvMjAyNi8wOC8wNi9yZWNlbnQtcmVhZGluZy0zLw==)    Hey Amol,
