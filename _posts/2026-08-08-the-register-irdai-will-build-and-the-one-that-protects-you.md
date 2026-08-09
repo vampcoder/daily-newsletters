@@ -4,14 +4,14 @@ title: "The Insurance Register That Won't Protect You"
 date: 2026-08-08 05:24:46 +0000
 source: "Value Research"
 category: "Finance & Investing"
-excerpt: "IRDAI's proposal for a public register of insurance sellers sounds like accountability, but it misses the real problem: perverse incentives in the distribution system. The register only names the agent, not the product designers who set the sales targets, so half the cure is likely to be implemented and the other half ignored."
+excerpt: "IRDAI's proposal to create a public register of insurance sellers sounds like accountability, but the real cure—reforming sales incentives—is less likely to be implemented. The author draws a sharp analogy to carmakers selling cars without spare wheels, arguing that blaming the agent while ignoring the boardroom is misplaced."
 theme_gradient: "linear-gradient(135deg, #00bcd4 0%, #0097a7 100%)"
 image: "https://m1.valueresearchonline.com/asset/e38aa154-3c06-4d84-b0eb-74ba3ff782c4"
 is_summary: false
 key_takeaways:
-  - "IRDAI's register of insurance sellers could be a step toward accountability, but it only tracks the seller, not the company or product incentives."
-  - "The regulator also proposed linking sales rewards to advice quality, but these reforms are less likely to be implemented because they threaten existing revenue streams."
-  - "Consumers need to be cautious of insurance products like endowments—often pushed by agents—when cheaper term cover would be more appropriate."
+  - "IRDAI's proposed register traces policies to individual sellers, but it doesn't address the root cause of mis-selling."
+  - "The industry is likely to accept the register because it costs nothing, while real reforms to commission structures will be resisted."
+  - "Buyers must remain vigilant because the incentive structures that drive mis-selling are unlikely to change soon."
 ---
 
 The insurance regulator has proposed something that sounds like real accountability for mis-selling. I want to tell you why only half of it is likely to happen, and what that leaves you to do for yourself.
