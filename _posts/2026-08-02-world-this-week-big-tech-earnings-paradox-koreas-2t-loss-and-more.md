@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "The Big Tech Earnings Paradox: Microsoft's Record Gain, Apple's Fall, and South Korea's $2 Trillion Loss"
+title: "Big Tech's Earnings Paradox: Chip Boom, Market Bust"
 date: 2026-08-02 05:32:35 +0000
 source: "ET Money"
 category: "Finance & Investing"
-excerpt: "This week's global markets newsletter examines a paradoxical earnings season where a single memory chip made Microsoft the biggest single-day stock gainer in history, punished Apple despite a record quarter, and wiped $2 trillion off South Korea's market. It also covers the Fed's rate decision, oil price spikes, and hyperscaler capital expenditure guidance."
+excerpt: "This week's newsletter examines the market's paradoxical reaction to Big Tech earnings: Microsoft surged $450 billion on AI chip demand, Apple fell despite beating estimates, and South Korea's market lost $2 trillion. It also covers Fed rate decisions, rising bond yields, oil price spikes, and hyperscaler capex guidance."
 theme_gradient: "linear-gradient(135deg, #607d8b 0%, #455a64 100%)"
 image: "https://www.etmoney.com/products/assets/images/emailers/newsletter/us_investing/global-investing.png"
 is_summary: false
 key_takeaways:
-  - "A single technology (memory chip) had outsized and contradictory impacts on major tech stocks and global markets."
-  - "The Fed held rates but offered no forward guidance, causing bond yields to spike to multi-year highs."
-  - "Hyperscalers' massive 2026 capex guidance rewards chipmakers while penalizing spenders like Apple."
+  - "AI chips created a record one-day gain for Microsoft but punished Apple and South Korea's market."
+  - "Hyperscalers' massive capex guidance is rewarding chipmakers while penalizing big spenders."
+  - "Rising bond yields and oil prices are adding pressure to global markets."
 ---
 
 Welcome to our first edition of The Global Investing Newsletter.
@@ -25,8 +25,6 @@ Good, bad, or somewhere in between? This week, one piece of technology answered 
 The memory chip made **Microsoft $450 billion** richer in a single day, the biggest stock gain in history. The same evening, it made **Apple's** record quarter feel like a failure, as the stock fell 6% despite beating every estimate. And it wiped **$2 trillion off South Korea's stock** market in a month.
 
 We'll get to the interesting details. But, first things first, let's see how the rest of the world held up this week.
-
----
 
 ## The World in a Week: How Major Markets Moved
 
