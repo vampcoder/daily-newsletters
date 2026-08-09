@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "8 Thought-Provoking Books I've Read Recently"
+title: "8 Thought-Provoking Books You Should Read"
 date: 2026-08-08 15:34:27 +0000
 source: "Scott Young"
 category: "Life & Culture"
-excerpt: "In this newsletter, Scott Young shares brief reviews of eight books he recently read, spanning topics from envy in society and the history of calculus to Greek tragedy, political philosophy, and a classic satire. His insights provoke thought on human nature, ethics, and the absurdities of life."
+excerpt: "In this newsletter, Scott Young shares his recent reading list, offering insightful commentary on eight books that span psychology, mathematics, philosophy, economics, and fiction. From Schoeck's analysis of envy to Heller's satirical classic Catch-22, Young provides thought-provoking perspectives that challenge conventional thinking."
 theme_gradient: "linear-gradient(135deg, #4caf50 0%, #388e3c 100%)"
 image: "https://www.scotthyoung.com/blog/wp-content/uploads/2026/08/51jzt8cSl3L._SL1400_-667x1024.jpg"
 is_summary: false
 key_takeaways:
-  - "Envy is a corrosive force that societies must suppress to function, and it often targets those closest to us rather than the distant elite."
-  - "The history of calculus reveals its profound impact on science and civilization, but its practical importance can be overhyped."
-  - "Greek tragedies highlight the fragility of goodness and the reality of moral dilemmas where no choice is fully right."
-  - "Classic fiction like Catch-22 can stimulate deep thinking through humor and satire, offering insights into bureaucracy and human folly."
+  - "Envy can be a corrosive force in society, suppressing individual achievement and fostering resentment among peers."
+  - "Calculus has a fascinating history that reveals its profound impact on science and our understanding of the universe."
+  - "Certain moral dilemmas have no right answer, as ancient Greek tragedies illustrate the fragility of human goodness."
+  - "Catch-22 uses humor and paradox to critique bureaucracy and the absurdities of war, offering timeless insights into human nature."
 ---
 
 [Read this article on my blog](https://5a3293ec.click.convertkit-mail4.com/wvuq20lkqlughk0ew46t7hned9de3b8h2d57/08hwhgu23e4n4ehlh5/aHR0cHM6Ly93d3cuc2NvdHRoeW91bmcuY29tL2Jsb2cvMjAyNi8wOC8wNi9yZWNlbnQtcmVhZGluZy0zLw==)    Hey Amol,
