@@ -4,17 +4,16 @@ title: "Think Like a Warrior: Lessons from Five Great Coaches"
 date: 2026-07-28 11:42:36 +0000
 source: "Productivity Game"
 category: "Productivity"
-excerpt: "This summary from Productivity Game distills the mindset of five great coaches, emphasizing resilience, humility, and focus on the present. It offers practical nightly reflection questions to cultivate a champion's mentality and improve daily performance."
+excerpt: "This newsletter summary distills the mindset of five great coaches to help you achieve unstoppable success. It emphasizes focusing on the present, staying humble, and controlling what you can, with a nightly reflection practice to improve your work and attitude."
 theme_gradient: "linear-gradient(135deg, #9c27b0 0%, #7b1fa2 100%)"
 image: "https://embed.filekitcdn.com/e/8UGoEYUY8hNJcBFmksRBVo/9YXBFxf52qdCnkP2SfTEx"
 video_url: "https://5463b514.click.convertkit-mail4.com/r8u65ewg72hoh36085vt2hdxekqegb7hxw8/g3hnh5hm4en7d2crh9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zU21KSGJUNFJBdw=="
 pdf_url: "https://5463b514.click.convertkit-mail4.com/r8u65ewg72hoh36085vt2hdxekqegb7hxw8/9qhzhnhdogxkq7t9h3/aHR0cHM6Ly9kb3dubG9hZC5maWxla2l0Y2RuLmNvbS9kLzhVR29FWVVZOGhOSmNCRm1rc1JCVm8vdkxBS0NOaWJaTVBoWG9xS2ROZUU4TA=="
 is_summary: false
 key_takeaways:
-  - "Tough times never last, and champions recognize that."
   - "Stop wasting effort reliving the past or worrying about the future."
   - "Drop any attitude of entitlement and stay humble."
-  - "Daily practice: ask yourself if you gave your fullest attention and brought the best possible attitude to your work."
+  - "Every night, ask yourself: Did I give my fullest attention to my work today? Did I bring the best possible attitude while doing it?"
 ---
 
 **“Tough times never last and champions recognize that.” – Darrin Donnelly**  In this summary, you'll learn a mindset from **five great coaches** that leads to unstoppable success.
@@ -30,6 +29,12 @@ key_takeaways:
 
 ---
 
-](https://5463b514.click.convertkit-mail4.com/r8u65ewg72hoh36085vt2hdxekqegb7hxw8/3ohphkh3eqr626frhn/aHR0cHM6Ly9saW5rLm9tYW5lLm1lZGlhL3Byb2R1Y3Rpdml0eS1nYW1lLXRlbXBsYWZ5LWp1bHk=)
+)*
+
+
+
+
+
+  [**Try it today**](https://5463b514.click.convertkit-mail4.com/r8u65ewg72hoh36085vt2hdxekqegb7hxw8/3ohphkh3eqr626frhn/aHR0cHM6Ly9saW5rLm9tYW5lLm1lZGlhL3Byb2R1Y3Rpdml0eS1nYW1lLXRlbXBsYWZ5LWp1bHk=)
 
 |  |.
