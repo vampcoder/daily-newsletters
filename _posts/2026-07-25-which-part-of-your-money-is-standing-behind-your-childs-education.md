@@ -1,24 +1,22 @@
 ---
 layout: post
-title: "Why Keeping Your Money in Separate Bags Is Smarter Than It Looks"
+title: "The Hidden Wisdom of the Cloth Bag Approach to Money"
 date: 2026-07-25 05:29:19 +0000
-source: "Value Research"
+source: "Value Research Online"
 category: "Finance & Investing"
-excerpt: "This article challenges the conventional financial wisdom that all money is fungible. It argues that segregating funds by goal—even at the cost of some efficiency—creates valuable friction that protects each goal from impulsive spending and over‑risking."
+excerpt: "This essay challenges the modern financial orthodoxy that money is fungible and should be pooled into one efficient portfolio. It argues that the old practice of separating money into labeled bags—though inefficient—serves a crucial psychological purpose: protecting each financial goal from your own impulses. For experienced investors, the lesson is that a little friction can be a feature, not a flaw."
 theme_gradient: "linear-gradient(135deg, #ff9800 0%, #f57c00 100%)"
 image: "https://m1.valueresearchonline.com/asset/d6fbdd39-3d58-4342-9f25-b32ed0b80311"
 is_summary: false
 key_takeaways:
-  - "Fungibility, or pooling all money together, can make it too easy to redirect funds from one goal to another, often harming long‑term objectives."
-  - "The inefficiency of keeping money in separate 'pouches' is actually a feature: it acts as a barrier between the household and its worst financial impulses."
-  - "Even experienced investors can benefit from mentally (or physically) tying specific sums to specific goals, preserving clarity and discipline in their portfolio."
+  - "Money is fungible, but pooling it all can make it easier to rob one goal to feed another."
+  - "Keeping money in separate 'pouches' creates valuable friction against impulsive decisions."
+  - "Even sophisticated investors can lose track of which part of their wealth is meant for a specific goal."
 ---
 
 Which part of your money is standing behind your child's education?
 
-You may remember this from your own house growing up.
-
-The pay arrives. The money gets divided into small cloth bags before anything else happens to it. One for vegetables. One for milk. One for the person who helps in the house. And the bigger ones, tied tighter, pushed further back in the almirah, for savings and for a daughter's wedding.
+You may remember this from your own house growing up. The pay arrives. The money gets divided into small cloth bags before anything else happens to it. One for vegetables. One for milk. One for the person who helps in the house. And the bigger ones, tied tighter, pushed further back in the almirah, for savings and for a daughter's wedding.
 
 Anyone with a financial education looks at that and sees a woman who never learned how money works. Because the first thing that education teaches you is that money is fungible. A rupee is a rupee. It does not care which bag it sits in. Keeping the wedding rupee separate from the vegetable rupee, when both could be sitting in one sensibly managed pool, is what people do before they learn better.
 
@@ -40,4 +38,4 @@ You are busy with allocation models and tactical tilts. You are not noticing tha
 
 In practice, the answer is that all of it is available for risk-taking.
 
-Which is why the arithmetic argument against the pouch system misses the point entirely. Separating money by goal was never really about the money. It was about protecting each goal from the others. And more
+Which is why the arithmetic argument against the pouch system misses the point entirely. Separating money by goal was never really about the money. It was about protecting each goal from the others.
