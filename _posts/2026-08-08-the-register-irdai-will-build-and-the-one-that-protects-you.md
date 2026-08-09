@@ -4,14 +4,14 @@ title: "The Insurance Register That Won't Protect You"
 date: 2026-08-08 05:24:46 +0000
 source: "Value Research"
 category: "Finance & Investing"
-excerpt: "IRDAI's proposal for a public register of insurance sellers aims to curb mis-selling, but the author argues it only addresses the easy half of the problem. The harder half—reforming sales incentives—is unlikely to be implemented, leaving buyers to protect themselves."
+excerpt: "IRDAI's proposal for a public register of insurance sellers sounds like accountability, but it misses the real problem: perverse incentives in the distribution system. The register only names the agent, not the product designers who set the sales targets, so half the cure is likely to be implemented and the other half ignored."
 theme_gradient: "linear-gradient(135deg, #00bcd4 0%, #0097a7 100%)"
 image: "https://m1.valueresearchonline.com/asset/e38aa154-3c06-4d84-b0eb-74ba3ff782c4"
 is_summary: false
 key_takeaways:
-  - "A public register of insurance sellers is a weak reform because it doesn't change the underlying incentives that cause mis-selling."
-  - "The tougher reform—tying sales rewards to advice quality instead of volume—is likely to be diluted or stalled by industry opposition."
-  - "Consumers must remain vigilant and research products independently, as regulatory fixes will likely fall short."
+  - "IRDAI's register of insurance sellers could be a step toward accountability, but it only tracks the seller, not the company or product incentives."
+  - "The regulator also proposed linking sales rewards to advice quality, but these reforms are less likely to be implemented because they threaten existing revenue streams."
+  - "Consumers need to be cautious of insurance products like endowments—often pushed by agents—when cheaper term cover would be more appropriate."
 ---
 
 The insurance regulator has proposed something that sounds like real accountability for mis-selling. I want to tell you why only half of it is likely to happen, and what that leaves you to do for yourself.
