@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "8 Thought-Provoking Books to Add to Your Reading List"
+title: "8 Thought-Provoking Books I've Read Recently"
 date: 2026-08-08 15:34:27 +0000
 source: "Scott Young"
 category: "Life & Culture"
-excerpt: "Scott Young shares eight books he found thought-provoking, ranging from a sociological analysis of envy to classic fiction like Catch-22. His commentary offers insights into human nature, mathematics, ethics, and economics, making this a great list for curious readers."
+excerpt: "In this newsletter, Scott Young shares his insights on eight books he recently read, ranging from sociology and calculus to Greek tragedy and satire. He offers thought-provoking commentary on each, making this a diverse reading list for curious minds."
 theme_gradient: "linear-gradient(135deg, #4caf50 0%, #388e3c 100%)"
 image: "https://www.scotthyoung.com/blog/wp-content/uploads/2026/08/51jzt8cSl3L._SL1400_-667x1024.jpg"
 is_summary: false
 key_takeaways:
-  - "Envy can be a corrosive force in society, suppressing individual achievement and fueling political resentment."
-  - "Calculus has a fascinating history and profound applications, but its importance is often oversold."
-  - "Moral dilemmas in literature reflect real-life situations where no choice is fully good."
-  - "Classic fiction like Catch-22 provides sharp satire on bureaucracy and the absurdities of life."
+  - "Envy is a powerful social force that societies must suppress to function, as argued in Helmut Schoeck's 'Envy'."
+  - "Calculus is a crowning achievement of mathematics, and Steven Strogatz's 'Infinite Powers' tells its fascinating history."
+  - "Ancient Greek tragedies explore the fragility of goodness, posing dilemmas where no good choice exists."
+  - "Joseph Heller's 'Catch-22' is a hilarious satire on war and bureaucracy, full of paradoxes and absurd observations."
 ---
 
 [Read this article on my blog](https://5a3293ec.click.convertkit-mail4.com/wvuq20lkqlughk0ew46t7hned9de3b8h2d57/08hwhgu23e4n4ehlh5/aHR0cHM6Ly93d3cuc2NvdHRoeW91bmcuY29tL2Jsb2cvMjAyNi8wOC8wNi9yZWNlbnQtcmVhZGluZy0zLw==)    Hey Amol,
@@ -99,8 +99,8 @@ I hope you’re having a good summer! I’ve been meaning to do a newsletter sha
 
     I haven’t always been motivated to read many classic works of fiction, although I seldom regret reading them. *Catch-22* reminds me that fiction is good, not just for entertainment, but for the kind of thinking it stimulates.      ⠀Best,
 
-    ⠀  ](https://5a3293ec.click.convertkit-mail4.com/wvuq20lkqlughk0ew46t7hned9de3b8h2d57/08hwhgu23e4n4ehlh5/aHR0cHM6Ly93d3cuc2NvdHRoeW91bmcuY29tL2Jsb2cvMjAyNi8wOC8wNi9yZWNlbnQtcmVhZGluZy0zLw==)**"**
+    ⠀  Share **"**[**8 Thought-Provoking Books I've Read Recently**](https://5a3293ec.click.convertkit-mail4.com/wvuq20lkqlughk0ew46t7hned9de3b8h2d57/08hwhgu23e4n4ehlh5/aHR0cHM6Ly93d3cuc2NvdHRoeW91bmcuY29tL2Jsb2cvMjAyNi8wOC8wNi9yZWNlbnQtcmVhZGluZy0zLw==)**"**
 
     ⠀
 
-    
+    |  | 309-1275 West 6th Ave, Vancouver, BC V6H 1A6.
